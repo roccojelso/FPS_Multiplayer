@@ -755,3 +755,84 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.09.23-03.48.22:515][911]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
 [2022.09.23-03.48.22:515][911]LogDirectoryWatcher: A directory notification for 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Plugins/' was aborted.
 [2022.09.23-03.48.26:640][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.09.23-03.49.45:997][874]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FB_UI/UI/NewMainMenuGameMode.NewMainMenuGameMode
+[2022.09.23-03.49.45:998][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.23-03.49.52:189][874]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.09.23-03.49.52:189][874]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049933s
+[2022.09.23-03.49.52:386][874]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.005957s (1.607543s overbudget)
+[2022.09.23-03.49.54:774][  0]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.438 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.23-03.49.56:152][ 79]LogSlate: Window 'NewMainMenuGameMode' being destroyed
+[2022.09.23-03.49.56:169][ 79]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.23-03.49.56:170][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.23-03.49.56:247][ 79]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FB_UI/UI/NewMainMenuGameMode.NewMainMenuGameMode
+[2022.09.23-03.49.56:248][ 79]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.23-03.49.59:344][ 79]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2022.09.23-03.50.11:496][ 79]LogSkeletalMesh: Display: [AssetLog] D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Content\FPS\Weapons\SubmachineGun\SK_SMG.uasset: FMeshUtilities::CreateImportDataFromLODModel: ImportData created for LOD 0
+[2022.09.23-03.50.12:629][ 79]LogBlueprintEditor: Perf: 16.3 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.09.23-03.50.12:629][ 79]LogBlueprintEditor: Perf: 16.1 seconds loading: /Game/FPS/Blueprints/FunctionLibrary/BP_FunctionLibrary
+[2022.09.23-03.50.14:042][ 79]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004911s (15.794798s overbudget)
+[2022.09.23-03.50.15:617][ 79]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.23-03.51.35:293][796]BlueprintLog: New page: Compile NewMainMenuGameMode
+[2022.09.23-03.51.35:636][796]LogUObjectHash: Compacting FUObjectHashTables data took   7.46ms
+[2022.09.23-03.51.35:969][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FB_UI/UI/NewMainMenuGameMode" FILE="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset" SILENT=true
+[2022.09.23-03.51.35:994][810]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.024888 seconds
+[2022.09.23-03.51.36:006][810]LogSavePackage: Moving output files for package: /Game/FB_UI/UI/NewMainMenuGameMode
+[2022.09.23-03.51.36:007][810]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/NewMainMenuGameMode4FF68A4E4BB100C8D04FDEA3C39028AA.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset'
+[2022.09.23-03.51.36:041][810]AssetCheck: New page: Asset Save: NewMainMenuGameMode
+[2022.09.23-03.51.36:041][810]LogContentValidation: Display: Validating Blueprint /Game/FB_UI/UI/NewMainMenuGameMode.NewMainMenuGameMode
+[2022.09.23-03.51.42:959][245]LogSlate: Window 'NewMainMenuGameMode' being destroyed
+[2022.09.23-03.51.45:888][511]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.09.23-03.51.45:888][511]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.09.23-03.51.47:073][627]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.23-03.51.47:515][635]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.09.23-03.51.47:518][635]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2022.09.23-03.51.48:495][684]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.23-03.52.04:116][164]LogTurnkeySupport: Display: Adding device menu item for GAMEDEVBATTLEST
+[2022.09.23-03.52.04:117][164]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -Device=Win64@GAMEDEVBATTLEST'
+[2022.09.23-03.52.04:117][164]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -Device=Win64@GAMEDEVBATTLEST" -nocompile ]
+[2022.09.23-03.52.05:762][292]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2022.09.23-03.52.06:545][292]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.09.23-03.52.06:545][292]LogTurnkeySupport: Turnkey Device: Win64@GAMEDEVBATTLEST: (Name=GAMEDEVBATTLEST, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.09.23-03.52.07:344][292]LogSlate: Window 'Save Content' being destroyed
+[2022.09.23-03.52.07:501][292]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.09.23-03.52.07:508][292]LogSavePackage: Moving output files for package: /Game/FB_UI/Maps/NewMainMenu
+[2022.09.23-03.52.07:508][292]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/NewMainMenu60585C2040E27FD7956AADAA4699F0BA.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/Maps/NewMainMenu.umap'
+[2022.09.23-03.52.07:533][292]LogFileHelpers: Saving map 'NewMainMenu' took 0.122
+[2022.09.23-03.52.07:588][293]AssetCheck: New page: Asset Save: NewMainMenu
+[2022.09.23-03.52.07:588][293]LogContentValidation: Display: Validating World /Game/FB_UI/Maps/NewMainMenu.NewMainMenu
+[2022.09.23-03.53.59:801][858]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 379.776825
+[2022.09.23-03.54.00:818][861]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.23-03.54.00:818][861]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 380.455139, Update Interval: 329.916687
+[2022.09.23-03.55.32:218][142]LogEditorTransaction: Undo Add In Parameter
+[2022.09.23-03.57.17:210][394]LogSlate: Took 0.011866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.23-03.59.15:812][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FB_UI/UI/NewMainMenuGameMode" FILE="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset" SILENT=true
+[2022.09.23-03.59.15:829][290]LogSavePackage: Moving output files for package: /Game/FB_UI/UI/NewMainMenuGameMode
+[2022.09.23-03.59.15:830][290]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/NewMainMenuGameModeB634A5514BA40B5DC65D21B37FE2DEB9.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset'
+[2022.09.23-03.59.15:868][290]AssetCheck: New page: Asset Save: NewMainMenuGameMode
+[2022.09.23-03.59.15:868][290]LogContentValidation: Display: Validating Blueprint /Game/FB_UI/UI/NewMainMenuGameMode.NewMainMenuGameMode
+[2022.09.23-03.59.17:547][450]BlueprintLog: New page: Compile NewMainMenuGameMode
+[2022.09.23-03.59.17:690][450]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2022.09.23-03.59.18:528][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FB_UI/UI/NewMainMenuGameMode" FILE="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset" SILENT=true
+[2022.09.23-03.59.18:544][519]LogSavePackage: Moving output files for package: /Game/FB_UI/UI/NewMainMenuGameMode
+[2022.09.23-03.59.18:545][519]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/NewMainMenuGameMode4E3151BF4811410411A38A8212B52CF2.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset'
+[2022.09.23-03.59.18:573][519]AssetCheck: New page: Asset Save: NewMainMenuGameMode
+[2022.09.23-03.59.18:573][519]LogContentValidation: Display: Validating Blueprint /Game/FB_UI/UI/NewMainMenuGameMode.NewMainMenuGameMode
+[2022.09.23-03.59.20:579][704]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.23-03.59.20:688][704]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2022.09.23-03.59.33:917][774]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 713.893921
+[2022.09.23-03.59.34:926][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.09.23-03.59.34:927][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 714.564880, Update Interval: 304.158447
+[2022.09.23-04.00.39:396][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FB_UI/UI/NewMainMenuGameMode" FILE="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset" SILENT=true
+[2022.09.23-04.00.39:413][770]LogSavePackage: Moving output files for package: /Game/FB_UI/UI/NewMainMenuGameMode
+[2022.09.23-04.00.39:414][770]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/NewMainMenuGameModeA37AC9F7427EBCFFDF1776962F7AE383.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset'
+[2022.09.23-04.00.39:442][770]AssetCheck: New page: Asset Save: NewMainMenuGameMode
+[2022.09.23-04.00.39:442][770]LogContentValidation: Display: Validating Blueprint /Game/FB_UI/UI/NewMainMenuGameMode.NewMainMenuGameMode
+[2022.09.23-04.00.41:357][977]BlueprintLog: New page: Compile NewMainMenuGameMode
+[2022.09.23-04.00.41:501][977]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2022.09.23-04.00.41:992][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FB_UI/UI/NewMainMenuGameMode" FILE="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset" SILENT=true
+[2022.09.23-04.00.42:010][ 17]LogSavePackage: Moving output files for package: /Game/FB_UI/UI/NewMainMenuGameMode
+[2022.09.23-04.00.42:011][ 17]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/NewMainMenuGameMode0AB178FB4B8E0CFA019A0FB57E2EF726.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/UI/NewMainMenuGameMode.uasset'
+[2022.09.23-04.00.42:039][ 17]AssetCheck: New page: Asset Save: NewMainMenuGameMode
+[2022.09.23-04.00.42:040][ 17]LogContentValidation: Display: Validating Blueprint /Game/FB_UI/UI/NewMainMenuGameMode.NewMainMenuGameMode
+[2022.09.23-04.00.43:422][144]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.23-04.00.43:526][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
