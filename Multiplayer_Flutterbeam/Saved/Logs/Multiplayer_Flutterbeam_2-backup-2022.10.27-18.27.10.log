@@ -1,0 +1,1400 @@
+﻿Log file open, 10/27/22 14:14:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=37624)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Multiplayer_Flutterbeam
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" /Game/FB_UI/Maps/NewMainMenu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=34 SAVEWINPOS=1 -ResX=1914 -ResY=1040""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 1600 Six-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ffe5b2444512f8c5e1b3f9b96194bec9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.760842
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-4ABAA06D4B8EFACD80EBAE820ED1903F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.15 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.16 seconds
+LogConfig: Display: Loading Mac ini files took 0.16 seconds
+LogConfig: Display: Loading Android ini files took 0.16 seconds
+LogConfig: Display: Loading Unix ini files took 0.19 seconds
+LogConfig: Display: Loading TVOS ini files took 0.21 seconds
+LogConfig: Display: Loading Linux ini files took 0.24 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.24 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.11 seconds
+LogConfig: Display: Loading Windows ini files took 0.14 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SocketSubsystemEOS
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServicesEOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogWindows: Failed to load 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Binaries/Win64/EOSSDK-Win64-Shipping.dll' (GetLastError=126)
+LogWindows: File 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Binaries/Win64/EOSSDK-Win64-Shipping.dll' does not exist
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogEOSSDK: Initializing EOSSDK Version:1.14.2-20976885
+LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T18:14:42.343Z
+LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=None]
+LogEOSSDK: LogEOSOverlay: Overlay library loaded, version ++EOSSDK+Release-Overlay-CL-20622577
+LogEOSSDK: LogEOSOverlay: Beginning dxgi factory detour
+LogEOSSDK: LogEOSOverlay: Factory detour complete
+LogEOSSDK: LogEOSOverlay: Beginning swap chain detour
+LogEOSSDK: LogEOSOverlay: Attempting to create swap chain using D3D11
+LogEOSSDK: LogEOSOverlay: Successfully created swap chain using D3D11 with feature level b000
+LogEOSSDK: LogEOSOverlay: Swapchain detour complete
+LogEOSSDK: LogEOSOverlay: Overlay loaded and initialized
+LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+LogEOSSDK: LogEOSRTC: LibRTCCore: Initializing LibRTC...
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: EOS
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  /Game/FB_UI/Maps/NewMainMenu -game -PIEVIACONSOLE -Multiprocess GameUserSettingsINI=PIEGameUserSettings0 -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=34 SAVEWINPOS=1 -ResX=1914 -ResY=1040
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.27-18.14.43:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.27-18.14.43:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.27-18.14.43:356][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.27-18.14.43:357][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.27-18.14.43:358][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.27-18.14.43:358][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.27-18.14.43:358][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.27-18.14.43:358][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.27-18.14.43:358][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.27-18.14.43:358][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.27-18.14.43:415][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.27-18.14.43:415][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.27-18.14.43:415][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.27-18.14.43:415][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.27-18.14.43:415][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.27-18.14.43:415][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.27-18.14.43:416][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.27-18.14.43:416][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.27-18.14.43:416][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.27-18.14.43:416][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.27-18.14.43:416][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.27-18.14.43:722][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.27-18.14.43:723][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.10.27-18.14.43:724][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.27-18.14.43:724][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.10.27-18.14.43:724][  0]LogD3D11RHI:     AdapterLuid : 0 50386
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_1)
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:       8088/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     Revision    : 0000
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.10.27-18.14.44:443][  0]LogD3D11RHI:     AdapterLuid : 0 53667
+[2022.10.27-18.14.44:463][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.10.27-18.14.44:463][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.10.27-18.14.44:464][  0]LogD3D11RHI:     AdapterLuid : 0 50386
+[2022.10.27-18.14.44:464][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.27-18.14.44:464][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.27-18.14.44:464][  0]LogHAL: Display: Platform has ~ 16 GB [17129910272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.27-18.14.44:464][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.27-18.14.44:464][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.27-18.14.44:464][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.27-18.14.44:466][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.27-18.14.44:466][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.27-18.14.44:466][  0]LogInit: Computer: GAMEDEVBATTLEST
+[2022.10.27-18.14.44:466][  0]LogInit: User: ronni
+[2022.10.27-18.14.44:466][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.27-18.14.44:466][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.27-18.14.44:466][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.10.27-18.14.44:467][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.27-18.14.44:467][  0]LogMemory: Process Physical Memory: 284.22 MB used, 290.57 MB peak
+[2022.10.27-18.14.44:467][  0]LogMemory: Process Virtual Memory: 234.08 MB used, 234.08 MB peak
+[2022.10.27-18.14.44:467][  0]LogMemory: Physical Memory: 9353.10 MB used,  6983.26 MB free, 16336.36 MB total
+[2022.10.27-18.14.44:467][  0]LogMemory: Virtual Memory: 16122.80 MB used,  9941.55 MB free, 26064.36 MB total
+[2022.10.27-18.14.44:467][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.27-18.14.44:495][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.27-18.14.44:622][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.27-18.14.44:622][  0]LogInit: Using OS detected language (en-US).
+[2022.10.27-18.14.44:622][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.27-18.14.44:652][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.27-18.14.45:144][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.27-18.14.45:144][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.27-18.14.45:144][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.27-18.14.45:264][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.27-18.14.45:264][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.27-18.14.45:336][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.27-18.14.45:336][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.27-18.14.45:336][  0]LogWindows: Attached monitors:
+[2022.10.27-18.14.45:336][  0]LogWindows:     resolution: 1600x900, work area: (1920, 0) -> (3520, 900), device: '\\.\DISPLAY1'
+[2022.10.27-18.14.45:337][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.10.27-18.14.45:337][  0]LogWindows: Found 2 attached monitors.
+[2022.10.27-18.14.45:337][  0]LogWindows: EnumDisplayDevices:
+[2022.10.27-18.14.45:337][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.10.27-18.14.45:338][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.10.27-18.14.45:338][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.27-18.14.45:339][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.27-18.14.45:339][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:   Driver Version: 517.48 (internal:31.0.15.1748, unified:517.48)
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:      Driver Date: 9-21-2022
+[2022.10.27-18.14.45:339][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.10.27-18.14.45:339][  0]LogD3D11RHI:     AdapterLuid : 0 50386
+[2022.10.27-18.14.46:059][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.27-18.14.46:059][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.27-18.14.46:059][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.10.27-18.14.46:059][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.10.27-18.14.46:113][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.10.27-18.14.46:114][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.27-18.14.46:158][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -platform=all'
+[2022.10.27-18.14.46:158][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -platform=all" ]
+[2022.10.27-18.14.46:322][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.27-18.14.46:412][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.27-18.14.46:412][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.27-18.14.46:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.27-18.14.46:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.27-18.14.46:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.27-18.14.46:483][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.27-18.14.46:483][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.27-18.14.46:578][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.27-18.14.46:603][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.27-18.14.46:604][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.27-18.14.46:604][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.27-18.14.46:604][  0]LogTargetPlatformManager:   PCM
+[2022.10.27-18.14.46:626][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.27-18.14.46:626][  0]LogTargetPlatformManager:   BINKA
+[2022.10.27-18.14.46:626][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.27-18.14.46:626][  0]LogTargetPlatformManager:   OGG
+[2022.10.27-18.14.46:626][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.27-18.14.46:626][  0]LogTargetPlatformManager:   OPUS
+[2022.10.27-18.14.46:844][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.27-18.14.46:845][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.27-18.14.46:845][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.27-18.14.46:846][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.27-18.14.46:846][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.27-18.14.46:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.27-18.14.46:851][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.27-18.14.46:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.27-18.14.46:851][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.27-18.14.46:910][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.27-18.14.46:910][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.27-18.14.46:910][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.27-18.14.46:942][  0]LogDerivedDataCache: Speed tests for C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2022.10.27-18.14.46:942][  0]LogDerivedDataCache: Display: Performance to C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=105.89MBs, RandomWriteSpeed=45.12MBs. Assigned SpeedClass 'Local'
+[2022.10.27-18.14.46:943][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.27-18.14.46:944][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.27-18.14.46:944][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.27-18.14.46:967][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.27-18.14.46:967][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.27-18.14.46:968][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/Shaders/WorkingDirectory/7848/).
+[2022.10.27-18.14.46:969][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ronni/AppData/Local/Temp/UnrealShaderWorkingDir/3A6AC1DD44A70D2FED0A1C8EF1645B17/'.
+[2022.10.27-18.14.46:969][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.27-18.14.46:969][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.10.27-18.14.51:271][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.27-18.14.51:271][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.27-18.14.51:272][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.27-18.14.51:391][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.27-18.14.51:391][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-18.14.51:391][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-18.14.51:391][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.27-18.14.51:391][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.27-18.14.51:474][  0]LogEOSSDK: LogEOSOverlay: Probing swap chain to determine device version
+[2022.10.27-18.14.51:475][  0]LogEOSSDK: LogEOSOverlay: Probe complete, determined: D3D11
+[2022.10.27-18.14.51:477][  0]LogEOSSDK: LogEOSOverlay: Window subclass attached to 000000000013091C
+[2022.10.27-18.14.51:477][  0]LogEOSSDK: LogEOSOverlay: Creating overlay widget manager
+[2022.10.27-18.14.51:668][  0]LogEOSSDK: LogEOSOverlay: Overlay ready. Firing 1 OnReady handlers
+[2022.10.27-18.14.51:704][  0]LogInit: Using OS detected language (en-US).
+[2022.10.27-18.14.51:704][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.27-18.14.51:704][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.27-18.14.51:704][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.10.27-18.14.51:705][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.10.27-18.14.51:705][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.10.27-18.14.51:755][  0]LogAssetRegistry: FAssetRegistry took 0.0476 seconds to start up
+[2022.10.27-18.14.52:391][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.009460 seconds
+[2022.10.27-18.14.52:393][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.27-18.14.52:396][  0]LogTexture: Display: Texture Encode Speed: Final (cook).
+[2022.10.27-18.14.53:661][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.27-18.14.53:661][  0]LogDeviceProfileManager: Active device profile: [000009A652695400][000009A648620000 50] WindowsEditor
+[2022.10.27-18.14.53:661][  0]LogDeviceProfileManager: Profiles: [000009A652694EC0][000009A648622800 50] Windows, [000009A652695400][000009A648620000 50] WindowsEditor, [000009A652693F00][000009A63CF07800 50] WindowsServer, [000009A652692A00][000009A6485C7800 50] WindowsClient, [000009A6526924C0][000009A64539A000 50] IOS, [000009A652694980][000009A64A3E2800 50] iPadAir2, [000009A6526947C0][000009A6526E2800 50] IPadPro, [000009A6526955C0][000009A6526E0000 50] iPadAir3, [000009A652693D40][000009A6526E7800 50] iPadAir4, [000009A652691340][000009A6526EA000 50] iPadMini4, [000009A652693640][000009A6526EC800 50] iPadMini5, [000009A652692680][000009A636725000 50] iPadMini6, [000009A652698500][000009A6526F5000 50] iPhone6S, [000009A652698880][000009A6526F2800 50] iPhone7, [000009A652698C00][000009A6526F0000 50] iPodTouch7, [000009A6526971C0][000009A6526FA000 50] iPhone6SPlus, [000009A652692300][000009A6526FC800 50] iPhone7Plus, [000009A652690000][000009A6526E5000 50] iPhoneSE, [000009A652696580][000009A652750000 50] iPhone8, [000009A652694600][000009A652755000 50] iPhone8Plus, [000009A652693B80][000009A652757800 50] iPhoneX, [000009A652698340][000009A65275A000 50] iPhoneXS, [000009A652692840][000009A65275C800 50] iPhoneXSMax, [000009A6526916C0][000009A6526F7800 50] iPhoneXR, [000009A652693480][000009A652720000 50] iPhone11, [000009A652697E00][000009A652725000 50] iPhone11Pro, [000009A6526932C0][000009A652727800 50] iPhone11ProMax, [000009A652697380][000009A65272A000 50] iPhoneSE2, [000009A652690380][000009A65272C800 50] iPhone12Mini, [000009A652696740][000009A652752800 50] iPhone12, [000009A652694D00][000009A652730000 50] iPhone12Pro, [000009A652696900][000009A652735000 50] iPhone12ProMax, [000009A652690FC0][000009A652737800 50] iPhone13Mini, [000009A652691DC0][000009A65273A000 50] iPhone13, [000009A652692BC0][000009A65273C800 50] iPhone13Pro, [000009A652697C40][000009A652722800 50] iPhone13ProMax, [000009A652691500][000009A652770000 50] iPadPro105, [000009A652693100][000009A652775000 50] iPadPro129, [000009A652691880][000009A652777800 50] iPadPro97, [000009A652694280][000009A65277A000 50] iPadPro2_129, [000009A652697A80][000009A65277C800 50] iPad5, [000009A652695780][000009A652732800 50] iPad6, [000009A652696200][000009A652780000 50] iPad7, [000009A652695E80][000009A652785000 50] iPad8, [000009A652696AC0][000009A652787800 50] iPad9, [000009A652693800][000009A65278A000 50] iPadPro11, [000009A6526940C0][000009A65278C800 50] iPadPro2_11, [000009A652698A40][000009A652772800 50] iPadPro3_11, [000009A652692F40][000009A652790000 50] iPadPro3_129, [000009A652691A40][000009A652795000 50] iPadPro4_129, [000009A6526986C0][000009A652797800 50] iPadPro5_129, [000009A652691C00][000009A65279A000 50] AppleTV, [000009A652696040][000009A65279C800 50] AppleTV4K, [000009A652690E00][000009A652782800 50] TVOS, [000009A65269A9C0][000009A6527A2800 50] Mac, [000009A65269A800][000009A6527A0000 50] MacEditor, [000009A652697FC0][000009A6527A7800 50] MacClient, [000009A65269A2C0][000009A6527AA000 50] MacServer, [000009A65269B600][000009A652792800 50] Linux, [000009A65269B980][000009A6527AC800 50] LinuxEditor, [000009A652691F80][000009A6527B0000 50] LinuxArm64Editor, [000009A652699D80][000009A6527B5000 50] LinuxArm64, [000009A65269B0C0][000009A6527B7800 50] LinuxClient, [000009A652694440][000009A6527BA000 50] LinuxArm64Client, [000009A652691180][000009A6527BC800 50] LinuxServer, [000009A65269AF00][000009A6527A5000 50] LinuxArm64Server, [000009A652699F40][000009A6527C0000 50] Android, [000009A652698F80][000009A6527C5000 50] Android_Preview_OpenGL, [000009A652692140][000009A6527C7800 50] Android_Preview_Vulkan, [000009A652699840][000009A6527CA000 50] Android_Low, [000009A65269B7C0][000009A6527CC800 50] Android_Mid, [000009A652695B00][000009A6527B2800 50] Android_High, [000009A652695CC0][000009A6527D0000 50] Android_Default, [000009A652699A00][000009A6527D5000 50] Android_Adreno4xx, [000009A652697540][000009A6527D7800 50] Android_Adreno5xx_Low, [000009A65269AD40][000009A6527DA000 50] Android_Adreno5xx, [000009A6526963C0][000009A6527DC800 50] Android_Adreno6xx, [000009A652698180][000009A6527C2800 50] Android_Adreno6xx_Vulkan, [000009A65269B440][000009A6527E0000 50] Android_Adreno7xx, [000009A65269A640][000009A6527E5000 50] Android_Adreno7xx_Vulkan, [000009A65269A100][000009A6527E7800 50] Android_Mali_T6xx, [000009A652699680][000009A6527EA000 50] Android_Mali_T7xx, [000009A65269BD00][000009A6527EC800 50] Android_Mali_T8xx, [000009A65269BEC0][000009A6527D2800 50] Android_Mali_G71, [000009A652692D80][000009A652710000 50] Android_Mali_G72, [000009A6526994C0][000009A652715000 50] Android_Mali_G72_Vulkan, [000009A65269C400][000009A652717800 50] Android_Mali_G76, [000009A65269C080][000009A65271A000 50] Android_Mali_G76_Vulkan, [000009A65269C240][000009A65271C800 50] Android_Mali_G77, [000009A652695940][000009A6527E2800 50] Android_Mali_G77_Vulkan, [000009A65269CB00][000009A6527F0000 50] Android_Mali_G78, [000009A652699140][000009A6527F5000 50] Android_Mali_G78_Vulkan, [000009A65269BB40][000009A6527F7800 50] Android_Mali_G710, [000009A65269B280][000009A6527FA000 50] Android_Mali_G710_Vulkan, [000009A652697000][000009A6527FC800 50] Android_Xclipse_920, [000009A652698DC0][000009A652712800 50] Android_Xclipse_920_Vulkan, [000009A65269C780][000009A652990000 50] Android_Vulkan_SM5, [000009A65269A480][000009A652995000 50] Android_PowerVR_G6xxx, [000009A652694B40][000009A652997800 50] Android_PowerVR_GT7xxx, [000009A6526978C0][000009A65299A000 50] Android_PowerVR_GE8xxx, [000009A65269AB80][000009A65299C800 50] Android_PowerVR_GM9xxx, [000009A652695240][000009A6527F2800 50] Android_PowerVR_GM9xxx_Vulkan, [000009A65269C5C0][000009A6529A0000 50] Android_TegraK1, [000009A65269DAC0][000009A6529A5000 50] Android_Unknown_Vulkan, [000009A65269D900][000009A6529A7800 50] Oculus_Quest, [000009A652690C40][000009A6529AA000 50] Oculus_Quest2, [000009A65269C940][000009A6529AC800 50] HoloLens, 
+[2022.10.27-18.14.53:662][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.27-18.14.53:722][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.27-18.14.54:449][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.27-18.14.54:450][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.27-18.14.54:450][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.27-18.14.54:450][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.27-18.14.54:450][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.27-18.14.54:563][  0]LogNetVersion: Multiplayer_Flutterbeam 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1122345460)
+[2022.10.27-18.14.55:251][  0]SourceControl: Source control is disabled
+[2022.10.27-18.14.55:341][  0]SourceControl: Source control is disabled
+[2022.10.27-18.14.55:341][  0]SourceControl: Source control is disabled
+[2022.10.27-18.14.56:345][  0]LogMoviePlayer: Initializing movie player
+[2022.10.27-18.14.57:136][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 93C8F444438ADC66D153B4899260949D | Instance: 26018BB44EA170719AE479ABB91DB870 (GAMEDEVBATTLEST-7848).
+[2022.10.27-18.14.57:250][  0]LogCollectionManager: Loaded 0 collections in 0.006183 seconds
+[2022.10.27-18.14.57:259][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Collections/' took 0.00s
+[2022.10.27-18.14.57:259][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Developers/ronni/Collections/' took 0.00s
+[2022.10.27-18.14.57:259][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Collections/' took 0.00s
+[2022.10.27-18.14.57:259][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.10.27-18.14.57:379][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.27-18.14.57:409][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.27-18.14.57:718][  0]LogPython: Using Python 3.9.7
+[2022.10.27-18.14.59:972][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2022.10.27-18.15.00:002][  0]LogSteamShared: Steam SDK Loaded!
+[2022.10.27-18.15.00:130][  0]SourceControl: Source control is disabled
+[2022.10.27-18.15.00:204][  0]LogUProjectInfo: Found projects:
+[2022.10.27-18.15.00:936][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.27-18.15.01:162][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.27-18.15.01:162][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.27-18.15.02:343][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.27-18.15.02:705][  0]LogUObjectArray: 27399 objects as part of root set at end of initial load.
+[2022.10.27-18.15.02:705][  0]LogUObjectAllocator: 7848432 out of 0 bytes used by permanent object pool.
+[2022.10.27-18.15.02:705][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.27-18.15.03:025][  0]LogEngine: Initializing Engine...
+[2022.10.27-18.15.03:032][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.27-18.15.03:532][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.27-18.15.03:532][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.27-18.15.03:617][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.27-18.15.03:627][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.27-18.15.03:628][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.27-18.15.03:628][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.27-18.15.03:629][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-18.15.03:629][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-18.15.03:629][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-18.15.03:629][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-18.15.03:629][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-18.15.03:629][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-18.15.03:629][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-18.15.03:629][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-18.15.03:630][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-18.15.03:631][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-18.15.03:631][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-18.15.03:718][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-18.15.03:914][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3 X)
+[2022.10.27-18.15.03:914][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-18.15.03:921][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-18.15.03:921][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-18.15.03:922][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.27-18.15.03:922][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.27-18.15.03:925][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.27-18.15.03:925][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.27-18.15.03:925][  0]LogInit: FAudioDevice initialized.
+[2022.10.27-18.15.03:925][  0]LogNetVersion: Set ProjectVersion to 4.1.0.0. Version Checksum will be recalculated on next use.
+[2022.10.27-18.15.03:925][  0]LogInit: Texture streaming: Enabled
+[2022.10.27-18.15.04:304][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.27-18.15.04:349][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.27-18.15.04:349][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.27-18.15.04:419][  0]LogLiveCoding: Display: Detected running instance in process group "UE_Multiplayer_Flutterbeam_0x0feaea4f", connecting to console process (PID: 37692)
+[2022.10.27-18.15.04:419][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.27-18.15.04:419][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.27-18.15.04:419][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-18.15.04:419][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-18.15.04:423][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.27-18.15.04:424][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-18.15.04:427][  0]LogInit: Display: Game Engine Initialized.
+[2022.10.27-18.15.04:427][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.10.27-18.15.04:704][  0]LogInit: Display: Starting Game.
+[2022.10.27-18.15.04:704][  0]LogNet: Browse: /Game/FB_UI/Maps/NewMainMenu?Name=Player
+[2022.10.27-18.15.04:704][  0]LogLoad: LoadMap: /Game/FB_UI/Maps/NewMainMenu?Name=Player
+[2022.10.27-18.15.04:704][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.10.27-18.15.04:704][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-18.15.04:705][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-18.15.04:717][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-18.15.04:722][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.27-18.15.04:971][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMainMenu'.
+[2022.10.27-18.15.04:971][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-18.15.04:971][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-18.15.05:054][  0]LogAIModule: Creating AISystem for world NewMainMenu
+[2022.10.27-18.15.05:055][  0]LogLoad: Game class is 'NewMainMenuGameMode_C'
+[2022.10.27-18.15.05:072][  0]LogWorld: Bringing World /Game/FB_UI/Maps/NewMainMenu.NewMainMenu up for play (max tick rate 60) at 2022.10.27-14.15.05
+[2022.10.27-18.15.05:072][  0]LogWorld: Bringing up level for play took: 0.001278
+[2022.10.27-18.15.05:073][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.27-18.15.05:078][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-18.15.05:078][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.10.27-18.15.05:079][  0]LogLoad: Took 0.375777 seconds to LoadMap(/Game/FB_UI/Maps/NewMainMenu)
+[2022.10.27-18.15.05:082][  0]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2022.10.27-18.15.05:583][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.27-18.15.05:583][  0]LogLoad: (Engine Initialization) Total time: 27.77 seconds
+[2022.10.27-18.15.05:583][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.27-18.15.05:606][  0]LogSlate: Took 0.000390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.27-18.15.05:611][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.27-18.15.05:620][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-18.15.05:638][  0]LogAutomationController: Ignoring very large delta of 17980709.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.27-18.15.05:639][  1]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 22.634758
+[2022.10.27-18.15.06:095][ 23]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 23.074364
+[2022.10.27-18.15.06:098][ 23]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-18.15.06:099][ 23]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-18.15.06:101][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23.091089
+[2022.10.27-18.15.06:311][ 36]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-18.15.06:412][ 42]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 23.391203
+[2022.10.27-18.15.06:418][ 42]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-18.15.06:418][ 42]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23.391203, Update Interval: 304.378174
+[2022.10.27-18.15.06:579][ 52]LogEOSSDK: LogEOSAuth: NewUserToken: User ClientId: xyz...HLu AccountId: b5a...54b Access[Expires: 2022.10.27-20.15.08 Remaining: 7200.52] Refresh[Expires: 2023-04-25T15:25:42.196Z Remaining: 15541834.20] State: Valid
+[2022.10.27-18.15.06:596][ 53]LogEOSSDK: LogEOSAuth: GenerateUserAuth success
+[2022.10.27-18.15.06:729][ 61]LogEOSSDK: LogEOSAuth: login/queryuserinfo success
+[2022.10.27-18.15.06:729][ 61]LogEOSSDK: LogEOSAuth: Login Tasks Complete: 0
+[2022.10.27-18.15.06:779][ 64]LogEOSSDK: LogEOSUI: Social Overlay: Loading: <Redacted>
+[2022.10.27-18.15.06:779][ 64]LogEOSSDK: LogEOSOverlay: Overlay loading <Redacted> in instance 10609592625680
+[2022.10.27-18.15.06:799][ 65]LogEOSSDK: LogEOSOverlay: LoadURL result received. [Success=1, BrowserID=1]
+[2022.10.27-18.15.06:929][ 73]LogEOSSDK: LogEOSMessaging: Attempting connection to Stomp. LocalUserId=[000...930] Url=[<Redacted>]
+[2022.10.27-18.15.06:946][ 74]LogOnlineFriend: Warning: OSS: [FUserManagerEOS::QueryBlockedPlayers] This method is not supported.
+[2022.10.27-18.15.06:946][ 74]LogBlueprintUserMessages: [NewMainMenuGameMode_C_0] Login Successful
+[2022.10.27-18.15.06:961][ 74]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.27-18.15.07:312][ 96]LogEOSSDK: LogEOSPresence: Updating Presence to Online. LocalUserId=[b5a...54b] RichText=[]
+[2022.10.27-18.15.07:329][ 97]LogEOSSDK: LogEOSMessaging: Succesfully connected to Stomp. LocalUserId=[000...930]
+[2022.10.27-18.15.07:461][105]LogEOSSDK: LogEOSPresence: Received presence update. LocalUserId=[b5a...54b] PresenceUserId=[a18...694]
+[2022.10.27-18.15.07:762][123]LogEOSSDK: LogEOSUI: Social Overlay: Achievements refreshing player data for (b5a...54b) [state: 0, force: player? false, definitions? false].
+[2022.10.27-18.15.07:879][130]LogEOSSDK: LogEOSUI: Social Overlay: Achievements refreshing definition data for (b5a...54b) [state: 2, force: player? false, definitions? false].
+[2022.10.27-18.15.08:012][138]LogEOSSDK: LogEOSUI: Social Overlay: Achievements populated for (b5a...54b).
+[2022.10.27-18.15.08:696][179]LogEOSSDK: LogEOSUI: Social Overlay: Initial setup of friends overlay: EOS_Success
+[2022.10.27-18.15.09:229][211]LogEOSSDK: LogEOSUI: Social Overlay: Achievements refreshing player data for (b5a...54b) [state: 1, force: player? false, definitions? false].
+[2022.10.27-18.15.09:362][219]LogEOSSDK: LogEOSUI: Social Overlay: Achievements refreshing definition data for (b5a...54b) [state: 2, force: player? false, definitions? false].
+[2022.10.27-18.15.09:512][228]LogEOSSDK: LogEOSUI: Social Overlay: Achievements populated for (b5a...54b).
+[2022.10.27-18.15.09:629][235]LogEOSSDK: LogEOSOverlay: Received new texture handle. [Type=0, InstanceId=10609592625680, BrowserId=1, TabId=0, Previous=0000000000000000, New=0000000080003EC2]
+[2022.10.27-18.15.36:698][847]LogViewport: Scene viewport resized to 1914x1040, mode Fullscreen.
+[2022.10.27-18.16.15:312][143]LogEOSSDK: LogEOSPresence: Received presence update. LocalUserId=[b5a...54b] PresenceUserId=[a18...694]
+[2022.10.27-18.16.28:632][942]LogEOSSDK: LogEOSLobby: Created lobby socket. LocalUserId=[000...930] WebSocket=[000009A660D16790]
+[2022.10.27-18.16.28:632][942]LogEOSSDK: LogEOSLobby: Opening Lobby Socket To: "wss://api.epicgames.dev/lobby/v1/0b4e53cce5bb4f3d93c1c63040ce8520/lobbies/connect"
+[2022.10.27-18.16.29:015][965]LogEOSSDK: LogEOSLobby: Connection Established
+[2022.10.27-18.16.31:848][971]LogEOSVoiceChat: Warning: [000009A660372310] EOS_Lobby_GetLobbyRTCRoomName failed error=EOS_Disabled
+[2022.10.27-18.16.31:864][971]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2022.10.27-18.16.31:865][971]LogEOSSDK: LogEOSPresence: Updating Presence to Online. LocalUserId=[b5a...54b] RichText=[]
+[2022.10.27-18.16.31:868][971]LogAutomationController: Ignoring very large delta of 2.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.27-18.16.31:869][972]LogBlueprintUserMessages: [WB_GameEditor_C_0] Session Created
+[2022.10.27-18.16.31:869][972]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-18.16.31:869][972]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.10.27-18.16.31:869][972]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.27-18.16.31:923][972]LogPackageName: SearchForPackageOnDisk took   0.054s to resolve Sunlight_Museum_Iteration3.
+[2022.10.27-18.16.31:925][972]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.27-18.16.31:985][972]LogPackageName: SearchForPackageOnDisk took   0.060s to resolve Sunlight_Museum_Iteration3.
+[2022.10.27-18.16.31:986][972]LogNet: Browse: /Game/Map3/Sunlight_Museum_Iteration3?listen
+[2022.10.27-18.16.31:986][972]LogLoad: LoadMap: /Game/Map3/Sunlight_Museum_Iteration3?listen
+[2022.10.27-18.16.31:986][972]LogWorld: BeginTearingDown for /Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-18.16.31:988][972]LogWorld: UWorld::CleanupWorld for NewMainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-18.16.31:988][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-18.16.32:041][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-18.16.32:048][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.10.27-18.16.48:658][972]LogSkeletalMesh: Display: [AssetLog] D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Content\FPS\Weapons\SubmachineGun\SK_SMG.uasset: FMeshUtilities::CreateImportDataFromLODModel: ImportData created for LOD 0
+[2022.10.27-18.16.49:729][972]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.10.27-18.16.49:729][972]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.10.27-18.16.49:729][972]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Wedge_B.Shape_Wedge_B should be resaved to improve async compilation performance.
+[2022.10.27-18.16.49:843][972]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-18.16.49:843][972]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-18.16.49:844][972]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-18.16.49:845][972]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.10.27-18.16.49:846][972]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.10.27-18.16.49:847][972]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.27-18.16.49:847][972]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.27-18.16.49:848][972]LogEOSSDK: LogEOSP2P: A new connection request listener has been bound. LocalUserId=[000...930] SocketId=[GameNetDriver]
+[2022.10.27-18.16.49:850][972]LogEOSSDK: LogEOSP2P: A new connection closed listener has been bound. LocalUserId=[000...930] SocketId=[GameNetDriver]
+[2022.10.27-18.16.49:850][972]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-18.16.50:109][972]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.10.27-18.16.50:109][972]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.10.27-18.16.50:149][972]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.10.27-18.16.50:149][972]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.10.27-18.16.50:185][972]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.10.27-18.16.50:185][972]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.10.27-18.16.50:328][972]LogWorld: Bringing World /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 60) at 2022.10.27-14.16.50
+[2022.10.27-18.16.50:330][972]LogWorld: Bringing up level for play took: 0.457928
+[2022.10.27-18.16.50:384][972]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-18.16.50:384][972]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-18.16.50:386][972]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-18.16.50:392][972]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-18.16.50:395][972]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-18.16.50:396][972]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-18.16.50:420][972]LogLoad: Took 18.433499 seconds to LoadMap(/Game/Map3/Sunlight_Museum_Iteration3)
+[2022.10.27-18.16.50:504][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-18.16.50:505][972]LogAutomationController: Ignoring very large delta of 18.64 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.27-18.16.50:510][973]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 18.58, Realtime: 0.09. NetDriverEOS_0
+[2022.10.27-18.16.50:523][973]LogSlate: Took 0.000539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.27-18.16.55:112][214]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-18.16.55:112][214]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-18.16.59:891][501]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.946 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.27-18.20.10:807][950]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 327.803925
+[2022.10.27-18.20.10:923][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-18.20.10:923][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 327.903656, Update Interval: 357.308258
+[2022.10.27-18.20.14:602][177]LogEOSSDK: LogEOSPresence: Received presence update. LocalUserId=[b5a...54b] PresenceUserId=[a18...694]
+[2022.10.27-18.20.25:092][806]LogEOSSDK: LogEOSPresence: Received presence update. LocalUserId=[b5a...54b] PresenceUserId=[a18...694]
+[2022.10.27-18.20.25:092][806]LogEOSSDK: LogEOSP2P: Added new peer. LocalUserId=[000...930] RemoteUserId=[000...3e2]
+[2022.10.27-18.20.25:098][806]LogEOSSDK: LogEOSP2P: Accepted a connection with a peer. RemoteUserId=[000...3e2], SocketId=[GameNetDriver]
+[2022.10.27-18.20.26:062][862]LogEOSSDK: LogEOSP2P: Peer connection has successfully connected. LocalUserId=[000...930] RemoteUserId=[000...3e2] ConnectionSessionGuid=[7HtcG7DVukWKgpmS4Co-Vg]
+[2022.10.27-18.20.26:063][862]LogEOSSDK: LogEOSP2P: Connection established. LocalUserId=[000...930] RemoteUserId=[000...3e2] SocketId=[GameNetDriver]
+[2022.10.27-18.20.26:306][876]LogNet: NotifyAcceptingConnection accepted from: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26
+[2022.10.27-18.20.26:306][876]LogHandshake: SendConnectChallenge. Timestamp: 234.440529, Cookie: 009079072180076166189076077001111237193197088110224051147217
+[2022.10.27-18.20.26:307][876]LogNet: NotifyAcceptingConnection accepted from: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26
+[2022.10.27-18.20.26:307][876]LogHandshake: SendConnectChallenge. Timestamp: 234.440529, Cookie: 009079072180076166189076077001111237193197088110224051147217
+[2022.10.27-18.20.26:423][883]LogNet: NotifyAcceptingConnection accepted from: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26
+[2022.10.27-18.20.26:423][883]LogHandshake: SendChallengeAck. InCookie: 009079072180076166189076077001111237193197088110224051147217
+[2022.10.27-18.20.26:424][883]LogNet: Server accepting post-challenge connection from: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26
+[2022.10.27-18.20.26:425][883]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-18.20.26:425][883]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 10/27/22 14:20:26, [UNetConnection] RemoteAddr: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26, Name: IpConnection_0, Driver: GameNetDriver NetDriverEOS_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-18.20.26:425][883]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26, Name: IpConnection_0, Driver: GameNetDriver NetDriverEOS_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-18.20.26:433][883]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26 and LastCookie 009079072180076166189076077001111237193197088110224051147217.
+[2022.10.27-18.20.26:433][883]LogHandshake: SendChallengeAck. InCookie: 009079072180076166189076077001111237193197088110224051147217
+[2022.10.27-18.20.26:607][894]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.10.27-18.20.26:607][894]LogNet: Remote platform little endian=1
+[2022.10.27-18.20.26:607][894]LogNet: This platform little endian=1
+[2022.10.27-18.20.26:607][894]LogNetVersion: Multiplayer_Flutterbeam 4.1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 269414161)
+[2022.10.27-18.20.26:740][902]LogNet: Login request: ?Name=FlutterBeam userId: EOS:a18d6d50461341ba807de369e31ca694|000259be331045c8909e5c512f5a93e2 platform: EOS
+[2022.10.27-18.20.26:840][908]LogNet: Client netspeed is 100000
+[2022.10.27-18.20.33:145][282]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-18.20.33:145][282]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-18.20.48:338][187]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?Name=FlutterBeam?SplitscreenCount=1
+[2022.10.27-18.20.48:339][187]LogOnlineSession: OSS: Player a18d6d50461341ba807de369e31ca694|000259be331045c8909e5c512f5a93e2 already registered in session GameSession
+[2022.10.27-18.20.48:342][187]LogNet: Join succeeded: FlutterBeam
+[2022.10.27-18.20.54:747][561]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.20.55:234][589]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.20.55:595][610]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.21.00:438][892]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.21.00:595][901]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.21.00:631][903]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.21.00:786][911]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.21.03:363][ 63]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.21.04:062][105]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.21.04:365][123]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-18.21.07:165][291]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_0.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.21.15:583][784]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Start' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_0.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.21.15:789][796]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Pose' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_0.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.21.15:789][796]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Throw' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_0.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.22.33:197][368]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.22.33:269][372]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-18.22.33:288][372]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.22.33:373][377]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.22.33:373][377]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-18.22.33:435][380]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.22.33:472][382]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-18.22.33:472][382]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.22.33:528][385]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-18.22.33:577][388]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.22.33:577][388]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-18.22.33:634][391]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-18.22.33:634][391]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-18.22.33:745][397]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_0.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-18.22.49:336][322]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Start' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_1.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.22.49:553][335]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Pose' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_1.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.22.49:553][335]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Throw' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_1.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.22.55:818][702]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.22.58:790][878]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.22.58:888][884]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.22.58:986][890]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.22.59:038][893]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.22.59:087][896]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.22.59:088][896]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.22.59:188][902]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.22.59:188][902]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-18.22.59:240][905]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.22.59:294][908]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-18.22.59:294][908]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.22.59:346][911]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.22.59:346][911]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-18.22.59:444][917]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-18.22.59:444][917]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-18.22.59:546][923]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-18.22.59:546][923]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-18.22.59:595][926]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.22.59:645][929]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-18.22.59:645][929]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-18.22.59:696][932]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-18.22.59:696][932]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.22.59:748][935]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-18.22.59:748][935]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-18.22.59:748][935]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.22.59:748][935]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.22.59:797][938]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-18.22.59:797][938]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-18.22.59:847][941]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.22.59:847][941]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.22.59:895][944]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-18.22.59:895][944]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-18.22.59:948][947]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.22.59:948][947]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_3.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.22.59:996][950]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-18.23.00:006][950]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-18.23.00:006][950]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_14 NOT Supported.
+[2022.10.27-18.23.00:095][955]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_14 NOT Supported.
+[2022.10.27-18.23.00:095][955]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_15 NOT Supported.
+[2022.10.27-18.23.00:199][961]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_15 NOT Supported.
+[2022.10.27-18.23.00:199][961]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_16 NOT Supported.
+[2022.10.27-18.23.00:246][964]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_16 NOT Supported.
+[2022.10.27-18.23.00:247][964]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_17 NOT Supported.
+[2022.10.27-18.23.00:348][970]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_17 NOT Supported.
+[2022.10.27-18.23.00:348][970]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_18 NOT Supported.
+[2022.10.27-18.23.00:448][976]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_18 NOT Supported.
+[2022.10.27-18.23.00:448][976]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_19 NOT Supported.
+[2022.10.27-18.23.00:547][982]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_2.ParticleSystemComponent_19 NOT Supported.
+[2022.10.27-18.23.07:000][369]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-18.23.07:000][369]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-18.23.07:907][423]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Pistol_Idle' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_1.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.23.11:152][616]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-18.23.11:152][616]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-18.23.23:612][345]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-18.23.39:193][273]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Start' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_2.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.23.39:398][285]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Pose' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_2.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.23.39:398][285]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Grenade_Throw' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_2.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.24.27:766][169]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Pistol_Idle' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_2.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.24.33:345][488]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_02_Weapon_C_2.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.24.33:482][496]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_02_Weapon_C_2.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.24.33:530][499]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_02_Weapon_C_2.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.24.43:524][ 90]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.24.43:622][ 96]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.24.43:674][ 99]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.24.43:722][102]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.24.43:771][105]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.24.50:026][479]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.24.50:128][485]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.24.50:226][491]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.24.50:730][521]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-18.24.50:827][527]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.24.50:928][533]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.24.52:079][602]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-18.24.52:176][608]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-18.24.52:277][614]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-18.24.52:779][644]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-18.24.52:879][650]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-18.24.52:981][656]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-18.24.53:590][692]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-18.24.53:690][698]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-18.24.53:787][704]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-18.24.53:787][704]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-18.24.53:840][707]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_14 NOT Supported.
+[2022.10.27-18.24.53:889][710]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-18.24.53:889][710]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_14 NOT Supported.
+[2022.10.27-18.24.53:939][713]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_15 NOT Supported.
+[2022.10.27-18.24.53:988][716]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_14 NOT Supported.
+[2022.10.27-18.24.53:989][716]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_15 NOT Supported.
+[2022.10.27-18.24.54:038][719]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_15 NOT Supported.
+[2022.10.27-18.24.54:038][719]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_16 NOT Supported.
+[2022.10.27-18.24.54:139][725]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_16 NOT Supported.
+[2022.10.27-18.24.54:139][725]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_17 NOT Supported.
+[2022.10.27-18.24.54:238][731]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_17 NOT Supported.
+[2022.10.27-18.24.54:238][731]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_18 NOT Supported.
+[2022.10.27-18.24.54:338][737]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_18 NOT Supported.
+[2022.10.27-18.24.54:338][737]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_19 NOT Supported.
+[2022.10.27-18.24.54:387][740]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_19 NOT Supported.
+[2022.10.27-18.24.54:388][740]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_20 NOT Supported.
+[2022.10.27-18.24.54:488][746]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_20 NOT Supported.
+[2022.10.27-18.24.54:488][746]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_21 NOT Supported.
+[2022.10.27-18.24.54:589][752]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_21 NOT Supported.
+[2022.10.27-18.24.54:589][752]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_22 NOT Supported.
+[2022.10.27-18.24.54:689][758]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_22 NOT Supported.
+[2022.10.27-18.24.54:689][758]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_23 NOT Supported.
+[2022.10.27-18.24.54:739][761]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_24 NOT Supported.
+[2022.10.27-18.24.54:789][764]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_23 NOT Supported.
+[2022.10.27-18.24.54:789][764]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_24 NOT Supported.
+[2022.10.27-18.24.54:839][767]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_24 NOT Supported.
+[2022.10.27-18.24.54:839][767]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_25 NOT Supported.
+[2022.10.27-18.24.54:940][773]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_25 NOT Supported.
+[2022.10.27-18.24.54:940][773]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_26 NOT Supported.
+[2022.10.27-18.24.55:039][779]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_26 NOT Supported.
+[2022.10.27-18.24.55:040][779]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_27 NOT Supported.
+[2022.10.27-18.24.55:139][785]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_27 NOT Supported.
+[2022.10.27-18.24.55:139][785]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_28 NOT Supported.
+[2022.10.27-18.24.55:239][791]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_SMG_Weapon_C_5.ParticleSystemComponent_28 NOT Supported.
+[2022.10.27-18.26.01:561][751]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-18.26.11:309][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 688.309753
+[2022.10.27-18.26.11:421][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-18.26.11:421][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 688.406250, Update Interval: 325.305939
+[2022.10.27-18.26.19:135][790]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Pistol_Idle' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_3.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.26.29:118][380]LogEOSSDK: LogEOSPresence: Didn't update Presence for a while. Forcing Presence auto-update.
+[2022.10.27-18.26.29:118][380]LogEOSSDK: LogEOSPresence: Updating Presence to Online. LocalUserId=[b5a...54b] RichText=[]
+[2022.10.27-18.26.35:488][756]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.26.37:452][872]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.26.38:264][921]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Pistol_Ironsight_Idle' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultClass_B_C_3.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-18.26.39:038][966]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_02_Weapon_C_3.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-18.26.39:421][989]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.26.39:875][ 16]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.26.40:524][ 55]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-18.26.41:127][ 91]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-18.26.42:199][154]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-18.26.42:512][173]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_02_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-18.26.42:802][190]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-18.26.43:254][217]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-18.26.43:590][237]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-18.26.43:778][248]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-18.26.43:930][257]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-18.26.43:980][260]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-18.26.47:449][458]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_02_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-18.26.49:071][554]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-18.26.49:606][586]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_02_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-18.26.51:214][675]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-18.26.52:695][762]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_14 NOT Supported.
+[2022.10.27-18.26.54:726][881]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-18.26.54:751][882]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_Pistol_01_Weapon_C_1.ParticleSystemComponent_15 NOT Supported.
+[2022.10.27-18.26.59:704][175]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-18.26.59:704][175]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.10.27-18.27.01:787][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-18.27.01:794][300]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.27-18.27.01:838][300]LogPackageName: SearchForPackageOnDisk took   0.044s to resolve NewMainMenu.
+[2022.10.27-18.27.01:841][300]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.10.27-18.27.01:841][300]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.10.27-18.27.01:843][300]LogAssetRegistry: Warning: GetFirstPackageByName is being called in `-game` to resolve partial package name. This may cause a slow scan on disk. Consider using the fully qualified package name for better performance. 
+[2022.10.27-18.27.01:887][300]LogPackageName: SearchForPackageOnDisk took   0.045s to resolve NewMainMenu.
+[2022.10.27-18.27.01:888][300]LogNet: Browse: /Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-18.27.01:888][300]LogLoad: LoadMap: /Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-18.27.01:888][300]LogWorld: BeginTearingDown for /Game/Map3/Sunlight_Museum_Iteration3
+[2022.10.27-18.27.01:889][300]LogNet: World NetDriver shutdown NetDriverEOS_0 [GameNetDriver]
+[2022.10.27-18.27.01:889][300]LogNet: DestroyNamedNetDriver NetDriverEOS_0 [GameNetDriver]
+[2022.10.27-18.27.01:889][300]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26, Name: IpConnection_0, Driver: GameNetDriver NetDriverEOS_0, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: EOS:a18d6d50461341ba807de369e31ca694|000259be331045c8909e5c512f5a93e2
+[2022.10.27-18.27.01:890][300]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26, Name: IpConnection_0, Driver: GameNetDriver NetDriverEOS_0, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: EOS:a18d6d50461341ba807de369e31ca694|000259be331045c8909e5c512f5a93e2, Channels: 96, Time: 2022.10.27-18.27.01
+[2022.10.27-18.27.01:890][300]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.27-18.27.01:890][300]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.27-18.27.01:890][300]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: EOS:000259be331045c8909e5c512f5a93e2:GameNetDriver:26, Name: IpConnection_0, Driver: GameNetDriver NetDriverEOS_0, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: EOS:a18d6d50461341ba807de369e31ca694|000259be331045c8909e5c512f5a93e2
+[2022.10.27-18.27.01:892][300]LogOutputDevice: Warning: 
+
+Script Stack (8 frames):
+WB_ChatWindow_C.ExecuteUbergraph_WB_ChatWindow
+WB_ChatWindow_C.ServerMessage
+BP_BasePlayerController_C.ExecuteUbergraph_BP_BasePlayerController
+BP_BasePlayerController_C.SendServerMessage
+BP_Base_GM_C.ExecuteUbergraph_BP_Base_GM
+BP_Base_GM_C.Server_SendChatMessage
+BP_Base_GM_C.ExecuteUbergraph_BP_Base_GM
+BP_Base_GM_C.K2_OnLogout
+
+[2022.10.27-18.27.02:201][300]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.309 s
+[2022.10.27-18.27.02:201][300]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: 
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: Ensure condition failed: !World->bIsTearingDown [File:D:\build\++UE5\Sync\Engine\Source\Runtime\UMG\Private\UserWidget.cpp] [Line: 2001]
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: Widget Class WB_ChatText_C - Attempting to be created while tearing down the world 'Sunlight_Museum_Iteration3'
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: Stack: 
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff8869ab821 UnrealEditor-UMG.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff8869ac328 UnrealEditor-UMG.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff8868460b4 UnrealEditor-UMG.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff8869a9ca9 UnrealEditor-UMG.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff886a2b15c UnrealEditor-UMG.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88d90bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db1d8e7 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db30273 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db6ce4f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db0934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db0934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db30273 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db0934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32244 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db0934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db1da1c UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db30273 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:202][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db0934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db0934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db0934e UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32b1f UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32f31 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db32244 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88d90bc07 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff88db31837 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87c3603f4 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87e23cb5c UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87cc0b8df UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87ca21f3e UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87ce396eb UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87c333159 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87d96408c UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87d0cfbd4 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87d0c888b UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff864b5f947 UnrealEditor-OnlineSubsystemUtils.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87d17ea80 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff864aec8e4 UnrealEditor-SocketSubsystemEOS.dll!UnknownFunction []
+[2022.10.27-18.27.02:203][300]LogOutputDevice: Error: [Callstack] 0x00007ff87decaaae UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff87df39e7c UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff87df17827 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff87debd9d6 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff87df3e71b UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff87cc27300 UnrealEditor-Engine.dll!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff6b08382f6 UnrealEditor.exe!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff6b0850d9c UnrealEditor.exe!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff6b0850e8a UnrealEditor.exe!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff6b0853c4d UnrealEditor.exe!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff6b0865564 UnrealEditor.exe!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff6b0868736 UnrealEditor.exe!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff8fe0f7034 KERNEL32.DLL!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: [Callstack] 0x00007ff8fe4226a1 ntdll.dll!UnknownFunction []
+[2022.10.27-18.27.02:204][300]LogOutputDevice: Error: 
+[2022.10.27-18.27.02:209][300]LogStats:                SubmitErrorReport -  0.000 s
+[2022.10.27-18.27.04:647][300]LogStats:                    SendNewReport -  2.439 s
+[2022.10.27-18.27.04:647][300]LogStats:             FDebug::EnsureFailed -  2.755 s
+[2022.10.27-18.27.04:647][300]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-18.27.04:648][300]LogEOSSDK: LogEOSP2P: Successfully closed last connection request listener for this socket. SocketId=[GameNetDriver] NotificationId=[36]
+[2022.10.27-18.27.04:648][300]LogEOSSDK: LogEOSP2P: Successfully closed last connection closed listener for this socket. SocketId=[GameNetDriver]  NotificationId=[37]
+[2022.10.27-18.27.04:648][300]LogEOSSDK: LogEOSP2P: Closing a specific socket id with all peers. LocalUserId=[000...930] SocketId=[GameNetDriver]
+[2022.10.27-18.27.04:649][300]LogEOSSDK: LogEOSP2P: Closing connection with peer, as there are no longer any accepted connections. RemoteUserId=[000...3e2]
+[2022.10.27-18.27.04:649][300]LogSocketSubsystemEOS: Closing socket (EOS::GameNetDriver:26) with result (EOS_Success)
+[2022.10.27-18.27.04:649][300]LogEOSSDK: Warning: LogEOSP2P: Attempted to close a connection request listener for a Socket ID that was not bound. NotificationId=[36]
+[2022.10.27-18.27.04:649][300]LogEOSSDK: Warning: LogEOSP2P: Attempted to close a connection closed listener for a Socket ID that was not bound. NotificationId=[37]
+[2022.10.27-18.27.04:649][300]LogEOSSDK: LogEOSP2P: Closing a specific socket id with all peers. LocalUserId=[000...930] SocketId=[GameNetDriver]
+[2022.10.27-18.27.04:649][300]LogSocketSubsystemEOS: Closing socket (EOS::GameNetDriver:26) with result (EOS_Success)
+[2022.10.27-18.27.04:649][300]LogExit: GameNetDriver NetDriverEOS_0 shut down
+[2022.10.27-18.27.04:651][300]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-18.27.04:652][300]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-18.27.04:666][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-18.27.04:787][300]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-18.27.04:941][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.10.27-18.27.05:253][300]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMainMenu'.
+[2022.10.27-18.27.05:254][300]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-18.27.05:254][300]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-18.27.05:255][300]LogAIModule: Creating AISystem for world NewMainMenu
+[2022.10.27-18.27.05:255][300]LogLoad: Game class is 'NewMainMenuGameMode_C'
+[2022.10.27-18.27.05:258][300]LogWorld: Bringing World /Game/FB_UI/Maps/NewMainMenu.NewMainMenu up for play (max tick rate 60) at 2022.10.27-14.27.05
+[2022.10.27-18.27.05:258][300]LogWorld: Bringing up level for play took: 0.002418
+[2022.10.27-18.27.05:259][300]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.27-18.27.05:261][300]LogBlueprintUserMessages: [NewMainMenuGameMode_C_0] Login Successful
+[2022.10.27-18.27.05:262][300]LogLoad: Took 3.373542 seconds to LoadMap(/Game/FB_UI/Maps/NewMainMenu)
+[2022.10.27-18.27.05:266][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-18.27.05:266][300]LogAutomationController: Ignoring very large delta of 3.49 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2022.10.27-18.27.05:266][301]LogEOSSDK: LogEOSP2P: Removed peer with no connections. LocalUserId=[000...930] RemoteUserId=[000...3e2]
+[2022.10.27-18.27.05:279][301]LogEOSSDK: LogEOSPresence: Received presence update. LocalUserId=[b5a...54b] PresenceUserId=[a18...694]
+[2022.10.27-18.27.05:279][301]LogEOSSDK: LogEOSLobby: CloseConnection DestroyingLobby Retry: false
+[2022.10.27-18.27.05:279][301]LogEOSSDK: LogEOSLobby: CancelPendingRequests 0 requests Reason: DestroyingLobby
+[2022.10.27-18.27.05:322][302]LogEOSVoiceChat: Warning: [000009A660372310] RemoveLobbyRoom LobbyId=[c666c0f1c95341d1bc0ff12b2997c906] not found
+[2022.10.27-18.27.05:322][302]LogScript: Warning: Script Msg: DestroySessionCallback - Invalid player state
+[2022.10.27-18.27.05:322][302]LogEOSSDK: LogEOSPresence: Updating Presence to Online. LocalUserId=[b5a...54b] RichText=[]
+[2022.10.27-18.27.05:950][338]Closing by request
+[2022.10.27-18.27.05:950][338]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.10.27-18.27.05:950][338]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.10.27-18.27.05:950][338]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.10.27-18.27.05:953][339]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.10.27-18.27.05:953][339]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.10.27-18.27.05:953][339]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.10.27-18.27.05:953][339]LogInit: Display: PreExit Game.
+[2022.10.27-18.27.05:956][339]LogWorld: BeginTearingDown for /Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-18.27.05:956][339]LogWorld: UWorld::CleanupWorld for NewMainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-18.27.05:956][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-18.27.06:650][339]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.10.27-18.27.06:650][339]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.10.27-18.27.06:650][339]LogAudio: Display: Audio Device unregistered from world 'NewMainMenu'.
+[2022.10.27-18.27.06:650][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.27-18.27.06:652][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.10.27-18.27.06:662][339]LogAudio: Display: Audio Device Manager Shutdown
+[2022.10.27-18.27.06:677][339]LogSlate: Window 'Multiplayer_Flutterbeam (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.10.27-18.27.06:821][339]LogEOSSDK: LogEOSOverlay: Detaching window subclass from 000000000013091C
+[2022.10.27-18.27.06:822][339]LogEOSSDK: LogEOSOverlay: Destroying overlay widget manager
+[2022.10.27-18.27.06:894][339]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.10.27-18.27.06:894][339]LogExit: Preparing to exit.
+[2022.10.27-18.27.07:912][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.27-18.27.07:982][339]LogMoviePlayer: Shutting down movie player
+[2022.10.27-18.27.08:670][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-18.27.08:706][339]LogExit: Game engine shut down
+[2022.10.27-18.27.08:715][339]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.10.27-18.27.08:806][339]LogExit: Object subsystem successfully closed.
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: ================================================
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.27-18.27.08:819][339]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.27-18.27.08:820][339]LogShaderCompilers: Display: ================================================
+[2022.10.27-18.27.08:876][339]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.10.27-18.27.08:965][339]LogModuleManager: Shutting down and abandoning module TimeManagement (542)
+[2022.10.27-18.27.08:965][339]LogModuleManager: Shutting down and abandoning module AnimGraph (540)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (538)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module SequenceRecorder (536)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module AutomationController (534)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module AutomationWorker (532)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module AIModule (530)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module GameplayDebugger (529)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module AITestSuite (527)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module NavigationSystem (525)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module PlanarCut (522)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module CharacterAI (520)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (518)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (516)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module WebMMedia (514)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (512)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (510)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (508)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module SessionServices (506)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (504)
+[2022.10.27-18.27.08:966][339]LogModuleManager: Shutting down and abandoning module LiveCoding (502)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (500)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module MovieScene (498)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (496)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module PortalServices (494)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module PortalRpc (492)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module MessagingRpc (490)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (488)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module AudioMixer (487)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module AudioMixerCore (486)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (482)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module TypedElementFramework (480)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (478)
+[2022.10.27-18.27.08:981][339]LogModuleManager: Shutting down and abandoning module ProfilerService (476)
+[2022.10.27-18.27.09:154][339]LogModuleManager: Shutting down and abandoning module TaskGraph (474)
+[2022.10.27-18.27.09:154][339]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (472)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (470)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module InterchangePipelines (468)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module InterchangeExport (466)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module InterchangeMessages (464)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module InterchangeImport (462)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module InterchangeNodes (460)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module EOSVoiceChat (458)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (456)
+[2022.10.27-18.27.09:155][339]LogOpenImageDenoise: OIDN shutting down
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (454)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module Synthesis (448)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module ResonanceAudio (446)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (444)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module ModelingOperators (438)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module ModelingComponents (436)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module MeshModelingTools (434)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module GooglePAD (432)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module CableComponent (430)
+[2022.10.27-18.27.09:155][339]LogModuleManager: Shutting down and abandoning module DynamicMesh (428)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (426)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (424)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (423)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module GeometryCache (420)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (419)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (416)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module AudioCapture (414)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (413)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module AssetTags (410)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (408)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module AppleImageUtils (406)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (404)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module AndroidPermission (402)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (400)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module BackChannel (390)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module AutomationUtils (388)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module TemplateSequence (386)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module SequencerScripting (384)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module ImgMedia (382)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module MediaCompositing (380)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (378)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (376)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (374)
+[2022.10.27-18.27.09:156][339]LogModuleManager: Shutting down and abandoning module HotReload (373)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (370)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module UObjectPlugin (368)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (366)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module ControlRigSpline (364)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (362)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module SteamShared (360)
+[2022.10.27-18.27.09:157][339]LogSteamShared: Freeing the Steam Loaded Modules...
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module AdvancedSessions (358)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (356)
+[2022.10.27-18.27.09:157][339]LogModuleManager: Shutting down and abandoning module SoundFields (354)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module PBIK (352)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module FullBodyIK (350)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (348)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module SignificanceManager (346)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (344)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (342)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (340)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (339)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (336)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module ActorSequence (334)
+[2022.10.27-18.27.09:158][339]LogModuleManager: Shutting down and abandoning module UdpMessaging (332)
+[2022.10.27-18.27.09:259][339]LogModuleManager: Shutting down and abandoning module TcpMessaging (330)
+[2022.10.27-18.27.09:651][339]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (328)
+[2022.10.27-18.27.09:651][339]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (326)
+[2022.10.27-18.27.09:651][339]LogModuleManager: Shutting down and abandoning module Niagara (324)
+[2022.10.27-18.27.09:651][339]LogModuleManager: Shutting down and abandoning module SignalProcessing (323)
+[2022.10.27-18.27.09:651][339]LogModuleManager: Shutting down and abandoning module NiagaraEditor (321)
+[2022.10.27-18.27.09:652][339]LogModuleManager: Shutting down and abandoning module ContentBrowser (320)
+[2022.10.27-18.27.09:652][339]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2022.10.27-18.27.09:652][339]LogModuleManager: Shutting down and abandoning module CollectionManager (317)
+[2022.10.27-18.27.09:653][339]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (316)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module ContentBrowserData (313)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module NiagaraCore (308)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (306)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (304)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module FacialAnimation (302)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (298)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module TreeMap (297)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module GameplayCameras (292)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (290)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module IKRig (288)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (286)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module ControlRig (284)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module LevelSequence (283)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (280)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (278)
+[2022.10.27-18.27.09:654][339]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (276)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module AndroidFileServer (274)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (272)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module PacketHandler (270)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module AnimationDataController (268)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (266)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (264)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module MediaAssets (262)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module Overlay (260)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module OverlayEditor (259)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module VREditor (256)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module StringTableEditor (254)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (252)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (250)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module FunctionalTesting (248)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (246)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (245)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module UMG (242)
+[2022.10.27-18.27.09:655][339]LogModuleManager: Shutting down and abandoning module UMGEditor (241)
+[2022.10.27-18.27.09:656][339]LogModuleManager: Shutting down and abandoning module Sequencer (240)
+[2022.10.27-18.27.09:656][339]LogModuleManager: Shutting down and abandoning module SlateReflector (234)
+[2022.10.27-18.27.09:656][339]LogModuleManager: Shutting down and abandoning module Slate (232)
+[2022.10.27-18.27.09:657][339]LogModuleManager: Shutting down and abandoning module SlateCore (230)
+[2022.10.27-18.27.09:664][339]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (228)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (226)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module UnrealEd (224)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MRMesh (222)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module Messaging (220)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (218)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (216)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module Networking (214)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module Core (212)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MaterialEditor (210)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MovieSceneTools (208)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module EditorStyle (207)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module KismetCompiler (204)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MeshBuilder (202)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module NaniteBuilder (200)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MeshUtilities (198)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (197)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (196)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (195)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (193)
+[2022.10.27-18.27.09:665][339]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (191)
+[2022.10.27-18.27.09:666][339]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (189)
+[2022.10.27-18.27.09:666][339]LogModuleManager: Shutting down and abandoning module MaterialBaking (185)
+[2022.10.27-18.27.09:666][339]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (180)
+[2022.10.27-18.27.09:666][339]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (178)
+[2022.10.27-18.27.09:666][339]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (176)
+[2022.10.27-18.27.09:666][339]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (174)
+[2022.10.27-18.27.09:666][339]LogModuleManager: Shutting down and abandoning module DerivedDataCache (172)
+[2022.10.27-18.27.09:671][339]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2022.10.27-18.27.09:671][339]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (167)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (165)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module AudioFormatBink (163)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (161)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (159)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (157)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (155)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (152)
+[2022.10.27-18.27.09:672][339]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (150)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (144)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (142)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module ImageWrapper (141)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2022.10.27-18.27.09:673][339]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (130)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (129)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module Chaos (126)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module GeometryCore (125)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module D3D11RHI (116)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (114)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (112)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module OnlineServicesEOS (110)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (108)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module ChaosCloth (106)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module HairStrandsCore (104)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (98)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module SocketSubsystemEOS (96)
+[2022.10.27-18.27.09:674][339]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2022.10.27-18.27.09:675][339]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2022.10.27-18.27.09:675][339]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2022.10.27-18.27.09:675][339]LogEOSSDK: LogEOSOverlay: Closing active browser [InstanceId=10609592625680, BrowserId=1, TabId=0]
+[2022.10.27-18.27.09:675][339]LogEOSSDK: LogEOSOverlay: Closing browser [InstanceId=10609592625680, BrowserId=1, TabId=0]
+[2022.10.27-18.27.09:675][339]LogEOSSDK: Warning: LogEOSUI: Social Overlay: browser was closed. Reopening...
+[2022.10.27-18.27.09:676][339]LogEOSVoiceChat: ReleaseUser User=[000009A660372310] Logging out
+[2022.10.27-18.27.09:676][339]LogEOSVoiceChat: ReleaseUser User=[000009A660372310] Removing
+[2022.10.27-18.27.09:676][339]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.10.27-18.27.09:676][339]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.10.27-18.27.09:707][339]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.10.27-18.27.09:707][339]LogHttp: Warning: Cleaning up 0 outstanding Http requests.
+[2022.10.27-18.27.09:715][339]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.10.27-18.27.09:719][339]LogModuleManager: Shutting down and abandoning module EOSShared (76)
+[2022.10.27-18.27.09:954][339]LogEOSSDK: LogEOSRTC: LibRTCCore: Shutting down LibRTC...
+[2022.10.27-18.27.10:183][339]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2022.10.27-18.27.10:183][339]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2022.10.27-18.27.10:190][339]LogModuleManager: Shutting down and abandoning module Media (73)
+[2022.10.27-18.27.10:192][339]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2022.10.27-18.27.10:192][339]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (68)
+[2022.10.27-18.27.10:192][339]LogModuleManager: Shutting down and abandoning module NiagaraShader (66)
+[2022.10.27-18.27.10:192][339]LogModuleManager: Shutting down and abandoning module VariantManagerContent (64)
+[2022.10.27-18.27.10:192][339]LogModuleManager: Shutting down and abandoning module DatasmithContent (62)
+[2022.10.27-18.27.10:192][339]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module AISupportModule (58)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module DesktopPlatform (56)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (54)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (52)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (50)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module PlatformCrypto (48)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (46)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module SourceControl (45)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module XGEController (42)
+[2022.10.27-18.27.10:193][339]LogModuleManager: Shutting down and abandoning module FastBuildController (40)
+[2022.10.27-18.27.10:194][339]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.10.27-18.27.10:194][339]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.10.27-18.27.10:194][339]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.10.27-18.27.10:194][339]LogModuleManager: Shutting down and abandoning module Virtualization (32)
+[2022.10.27-18.27.10:194][339]LogModuleManager: Shutting down and abandoning module MessageLog (31)
+[2022.10.27-18.27.10:195][339]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.10.27-18.27.10:195][339]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.10.27-18.27.10:195][339]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.10.27-18.27.10:195][339]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.10.27-18.27.10:196][339]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.10.27-18.27.10:196][339]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.10.27-18.27.10:196][339]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.10.27-18.27.10:196][339]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.10.27-18.27.10:196][339]LogModuleManager: Shutting down and abandoning module SandboxFile (12)
+[2022.10.27-18.27.10:196][339]LogModuleManager: Shutting down and abandoning module PakFile (10)
+[2022.10.27-18.27.10:196][339]LogModuleManager: Shutting down and abandoning module RSA (9)
+[2022.10.27-18.27.10:197][339]LogModuleManager: Shutting down and abandoning module NetworkFile (6)
+[2022.10.27-18.27.10:197][339]LogModuleManager: Shutting down and abandoning module StreamingFile (4)
+[2022.10.27-18.27.10:197][339]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2022.10.27-18.27.10:240][339]LogD3D11RHI: Shutdown
+[2022.10.27-18.27.10:240][339]LogD3D11RHI: CleanupD3DDevice
+[2022.10.27-18.27.10:248][339]LogExit: Exiting.
+[2022.10.27-18.27.10:275][339]Log file closed, 10/27/22 14:27:10
