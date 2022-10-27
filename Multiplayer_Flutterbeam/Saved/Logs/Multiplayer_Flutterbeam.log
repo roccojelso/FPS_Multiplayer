@@ -1502,3 +1502,52 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-16.21.35:820][737]LogViewport: Scene viewport resized to 1327x902, mode Windowed.
 [2022.10.27-16.21.35:883][738]LogViewport: Scene viewport resized to 1310x902, mode Windowed.
 [2022.10.27-16.21.35:946][739]LogViewport: Scene viewport resized to 1302x902, mode Windowed.
+[2022.10.27-16.22.23:288][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.27-16.22.23:762][897]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.27-16.22.23:762][897]LogSavePackage: Moving '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_Base_GM4597D99C4D3941B7622E2CA2E9C8369A.tmp' to '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.27-16.22.23:915][897]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.27-16.22.23:915][897]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.27-16.22.49:790][918]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.10.27-16.22.49:790][918]LogDirectoryWatcher: A directory notification for '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Plugins/' was aborted.
+[2022.10.27-16.22.55:804][150]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1046.725220
+[2022.10.27-16.22.56:185][184]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-16.22.56:185][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1047.094360, Update Interval: 310.278015
+[2022.10.27-16.23.28:518][820]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.27-16.23.30:384][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.27-16.23.32:844][ 16]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.27-16.23.40:001][275]LogTurnkeySupport: Display: Adding device menu item for RJ-PC
+[2022.10.27-16.24.01:073][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.10.27-16.24.01:457][235]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FB_UI/Maps/NewMainMenu.NewMainMenu
+[2022.10.27-16.24.01:457][235]Cmd: MAP LOAD FILE="../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FB_UI/Maps/NewMainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.27-16.24.01:457][235]LightingResults: New page: Lighting Build
+[2022.10.27-16.24.01:457][235]LoadErrors: New page: Loading map: NewMainMenu.umap
+[2022.10.27-16.24.01:467][235]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-16.24.01:468][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-16.24.01:468][235]MapCheck: New page: Map Check
+[2022.10.27-16.24.01:468][235]LightingResults: New page: Lighting Build
+[2022.10.27-16.24.01:516][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-16.24.01:529][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.10.27-16.24.01:533][235]LogWorld: UWorld::CleanupWorld for NewMainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-16.24.01:533][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-16.24.01:534][235]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3_Auto1, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-16.24.01:536][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-16.24.01:588][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.27-16.24.01:633][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.27-16.24.01:635][235]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMainMenu'.
+[2022.10.27-16.24.01:635][235]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-16.24.01:635][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-16.24.01:636][235]LogAIModule: Creating AISystem for world NewMainMenu
+[2022.10.27-16.24.01:647][235]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.27-16.24.01:692][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.10.27-16.24.01:703][235]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.27-16.24.01:704][235]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.079ms to complete.
+[2022.10.27-16.24.01:704][235]LogFileHelpers: Loading map 'NewMainMenu' took 0.247
+[2022.10.27-16.24.03:271][258]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.10.27-16.24.03:317][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.27-16.25.08:614][664]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-16.25.08:839][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.27-16.25.14:757][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.27-16.25.15:231][844]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.27-16.25.15:231][844]LogSavePackage: Moving '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_Base_GMA8587ED94BA8150CB14A5DB237E7CECE.tmp' to '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.27-16.25.15:346][844]AssetCheck: New page: Asset Save: BP_Base_GM
+[2022.10.27-16.25.15:346][844]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
