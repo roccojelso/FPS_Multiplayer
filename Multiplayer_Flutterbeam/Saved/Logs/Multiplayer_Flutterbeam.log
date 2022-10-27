@@ -12730,3 +12730,1401 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.27-15.15.42:468][506]AssetCheck: New page: Asset Save: BP_Base_GM
 [2022.10.27-15.15.42:468][506]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
 [2022.10.27-15.15.44:141][588]LogNavigationDataBuild: Navigation data generation finished in /Game/Map3/Sunlight_Museum_Iteration3.
+[2022.10.27-15.17.37:153][573]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14458.493164
+[2022.10.27-15.17.38:163][576]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-15.17.38:163][576]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14459.168945, Update Interval: 311.620239
+[2022.10.27-15.18.58:750][618]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.18.59:024][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.10.27-15.19.17:912][444]LogViewport: Scene viewport resized to 817x582, mode Windowed.
+[2022.10.27-15.19.18:756][444]LogViewport: Scene viewport resized to 1391x902, mode Windowed.
+[2022.10.27-15.19.28:696][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-15.19.28:702][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-15.19.28:702][104]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Oct 27, 2022, 7:19:28 AM)
+[2022.10.27-15.19.28:702][104]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.19.28:766][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063437s)
+[2022.10.27-15.19.28:766][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.063532s)
+[2022.10.27-15.19.28:766][104]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.19.28:766][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.19.28:766][104]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.10.27-15.19.28:767][104]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2022.10.27-15.19.28:829][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.27-15.19.28:837][104]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2022.10.27-15.19.28:837][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.19.28:837][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.19.28:837][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.19.28:837][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.19.28:837][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.19.28:837][104]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.19.28:837][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.19.28:837][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.19.28:838][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.19.28:838][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.19.28:838][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.19.28:840][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.19.28:894][104]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.19.28:894][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.19.28:894][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.19.28:894][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.19.28:894][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2022.10.27-15.19.28:894][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2022.10.27-15.19.28:896][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2022.10.27-15.19.28:896][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2022.10.27-15.19.28:896][104]LogInit: FAudioDevice initialized.
+[2022.10.27-15.19.28:896][104]LogAudio: Display: Audio Device (ID: 30) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.19.28:911][104]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.10.27-15.19.28:965][104]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.19.28
+[2022.10.27-15.19.28:966][104]LogWorld: Bringing up level for play took: 0.054326
+[2022.10.27-15.19.28:977][104]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:19:28.977Z
+[2022.10.27-15.19.28:977][104]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.19.28:977][104]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.19.28:978][104]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.19.28:978][104]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.19.28:981][104]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2022.10.27-15.19.28:983][104]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.19.28:983][104]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.19.28:984][104]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.27-15.19.28:984][104]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.27-15.19.28:984][104]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.27-15.19.28:984][104]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.27-15.19.28:984][104]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.19.28:984][104]LogNet: GameNetDriver IpNetDriver_28 IpNetDriver listening on port 17777
+[2022.10.27-15.19.28:984][104]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.19.28:986][104]Cmd: DisableAllScreenMessages
+[2022.10.27-15.19.28:986][104]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.19.28:986][104]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.19.28:986][104]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.19.28:986][104]PIE: Server logged in
+[2022.10.27-15.19.28:987][104]PIE: Play in editor total start time 0.285 seconds.
+[2022.10.27-15.19.28:987][104]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.19.28:987][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.19.28:988][104]LogPlayLevel: PIE: World Init took: (0.000613s)
+[2022.10.27-15.19.28:988][104]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.10.27-15.19.28:988][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.19.28:988][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.19.28:988][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.19.28:988][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.19.28:988][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.19.28:988][104]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.19.28:988][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.19.28:988][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.19.28:989][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.19.28:989][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.19.28:989][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.19.28:990][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.19.29:037][104]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.19.29:037][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.19.29:037][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.19.29:037][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.19.29:038][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2022.10.27-15.19.29:038][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2022.10.27-15.19.29:040][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2022.10.27-15.19.29:040][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2022.10.27-15.19.29:040][104]LogInit: FAudioDevice initialized.
+[2022.10.27-15.19.29:040][104]LogAudio: Display: Audio Device (ID: 31) registered with world 'Untitled'.
+[2022.10.27-15.19.29:330][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.19.29:330][104]LogNet: Browse: 127.0.0.1:17777/Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-15.19.29:330][104]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-15.19.29:330][104]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-15.19.29:331][104]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.19.29:331][104]LogNet: Game client on port 17777, rate 500000
+[2022.10.27-15.19.29:340][104]PIE: Client logged in
+[2022.10.27-15.19.29:347][104]PIE: Play in editor total start time 0.644 seconds.
+[2022.10.27-15.19.29:447][104]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.27-15.19.29:474][105]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.495573
+[2022.10.27-15.19.29:609][112]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.612994
+[2022.10.27-15.19.29:610][112]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.19.29:611][112]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.630283
+[2022.10.27-15.19.29:815][124]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.19.29:932][131]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.937029
+[2022.10.27-15.19.29:934][131]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.19.29:934][131]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.937029, Update Interval: 333.518494
+[2022.10.27-15.19.30:353][156]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51917
+[2022.10.27-15.19.30:353][156]LogHandshake: SendConnectChallenge. Timestamp: 1.666192, Cookie: 183094145167166203123017064135041158129036024062196148162228
+[2022.10.27-15.19.30:354][156]LogHandshake: SendChallengeResponse. Timestamp: 1.666192, Cookie: 183094145167166203123017064135041158129036024062196148162228
+[2022.10.27-15.19.30:369][157]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51917
+[2022.10.27-15.19.30:369][157]LogHandshake: SendChallengeAck. InCookie: 183094145167166203123017064135041158129036024062196148162228
+[2022.10.27-15.19.30:369][157]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51917
+[2022.10.27-15.19.30:370][157]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.19.30:370][157]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 10/27/22 11:19:30, [UNetConnection] RemoteAddr: 127.0.0.1:51917, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.19.30:370][157]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51917, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.19.30:371][157]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: PendingNetDriver IpNetDriver_29, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.19.30:386][158]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.10.27-15.19.30:386][158]LogNet: Remote platform little endian=1
+[2022.10.27-15.19.30:386][158]LogNet: This platform little endian=1
+[2022.10.27-15.19.30:388][158]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:19:30.388Z
+[2022.10.27-15.19.30:388][158]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.19.30:388][158]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.19.30:388][158]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.19.30:389][158]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.19.30:392][158]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2022.10.27-15.19.30:406][159]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.017499
+[2022.10.27-15.19.30:407][159]LogNet: Login request:  userId: UNKNOWN platform: EOS
+[2022.10.27-15.19.30:408][159]LogNet: Welcomed by server (Level: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3, Game: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C)
+[2022.10.27-15.19.30:409][159]LogLoad: LoadMap: 127.0.0.1:17777/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3?game=/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C
+[2022.10.27-15.19.30:409][159]LogWorld: BeginTearingDown for /Temp/Untitled_15
+[2022.10.27-15.19.30:409][159]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.19.30:409][159]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.19.30:457][159]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.19.30:459][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.10.27-15.19.30:524][159]LogAudio: Display: Audio Device (ID: 31) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.19.30:524][159]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.19.30:524][159]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.19.30:525][159]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2022.10.27-15.19.30:562][159]LogWorld: Bringing World /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.19.30
+[2022.10.27-15.19.30:562][159]LogWorld: Bringing up level for play took: 0.036583
+[2022.10.27-15.19.30:562][159]LogLoad: Took 0.154007 seconds to LoadMap(/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3)
+[2022.10.27-15.19.31:504][160]LogNet: Client netspeed is 100000
+[2022.10.27-15.19.31:504][160]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?SplitscreenCount=1
+[2022.10.27-15.19.31:505][160]LogNet: Join succeeded: 285
+[2022.10.27-15.19.31:509][160]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.19.31:509][160]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.19.31:554][162]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 1.144709
+[2022.10.27-15.19.31:555][162]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.19.31:556][162]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1.164596
+[2022.10.27-15.19.31:560][162]Cmd: DisableAllScreenMessages
+[2022.10.27-15.19.31:560][162]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.19.31:560][162]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.19.31:752][172]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.19.31:869][178]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 1.460896
+[2022.10.27-15.19.31:871][178]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.19.31:871][178]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1.460896, Update Interval: 353.576477
+[2022.10.27-15.19.34:682][271]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.19.34:682][271]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.19.34:688][271]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.19.34:688][271]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.19.38:780][425]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.19.38:780][425]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.19.50:061][966]LogCharacterMovement: BP_PlayerCharacter_C_1 is stuck and failed to move! Velocity: X=505.66 Y=-275.82 Z=0.00 Location: X=-11389.70 Y=645.41 Z=1064.41 Normal: X=-0.16 Y=0.99 Z=0.00 PenetrationDepth:5.066 Actor:Auto_Sliding_Door_C_7 Component:Right BoneName:None (0 other events since notify)
+[2022.10.27-15.19.52:117][ 66]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-15.19.52:181][ 69]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.19.52:287][ 74]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.19.52:354][ 77]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.19.52:420][ 80]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-15.19.52:424][ 80]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.19.52:425][ 80]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.19.52:517][ 84]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.19.52:517][ 84]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.19.52:645][ 90]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.19.52:646][ 90]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.19.52:752][ 95]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.20.00:285][410]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.20.00:286][410]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-15.20.01:629][472]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.20.01:629][472]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.20.04:987][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.20.04:987][597]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3
+[2022.10.27-15.20.04:987][597]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.27-15.20.05:021][597]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.20.05:021][597]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.20.05:026][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.20.05:034][597]LogNet: World NetDriver shutdown IpNetDriver_29 [GameNetDriver]
+[2022.10.27-15.20.05:034][597]LogNet: DestroyNamedNetDriver IpNetDriver_29 [GameNetDriver]
+[2022.10.27-15.20.05:034][597]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_29, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID, Channels: 42, Time: 2022.10.27-15.20.05
+[2022.10.27-15.20.05:034][597]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_28, Driver: GameNetDriver IpNetDriver_29, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID
+[2022.10.27-15.20.05:034][597]LogExit: GameNetDriver IpNetDriver_29 shut down
+[2022.10.27-15.20.05:035][597]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.20.05:035][597]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-15.20.05:036][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.20.05:036][597]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.20.05:036][597]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.20.05:036][597]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.20.05:037][597]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.20.05:037][597]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.20.05:037][597]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.20.05:041][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.20.05:088][597]LogNet: World NetDriver shutdown IpNetDriver_28 [GameNetDriver]
+[2022.10.27-15.20.05:088][597]LogNet: DestroyNamedNetDriver IpNetDriver_28 [GameNetDriver]
+[2022.10.27-15.20.05:088][597]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:51917, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.20.05:088][597]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51917, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID, Channels: 42, Time: 2022.10.27-15.20.05
+[2022.10.27-15.20.05:089][597]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.27-15.20.05:089][597]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.27-15.20.05:089][597]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51917, Name: IpConnection_29, Driver: GameNetDriver IpNetDriver_28, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.20.05:089][597]LogExit: GameNetDriver IpNetDriver_28 shut down
+[2022.10.27-15.20.05:089][597]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-15.20.05:099][597]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.20.05:158][597]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.20.05:162][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.10.27-15.20.05:163][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.10.27-15.20.05:168][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.10.27-15.20.05:169][597]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2022.10.27-15.20.05:174][597]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.20.05:197][597]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.10.27-15.20.05:491][598]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.10.27-15.20.05:491][598]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.10.27-15.21.13:478][827]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.21.13:726][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.10.27-15.21.15:589][888]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-15.21.15:596][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-15.21.15:596][888]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Oct 27, 2022, 7:21:15 AM)
+[2022.10.27-15.21.15:596][888]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.21.15:660][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062637s)
+[2022.10.27-15.21.15:660][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.062717s)
+[2022.10.27-15.21.15:660][888]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.21.15:660][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.21.15:660][888]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.10.27-15.21.15:661][888]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2022.10.27-15.21.15:719][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.27-15.21.15:727][888]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2022.10.27-15.21.15:727][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.21.15:727][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.21.15:727][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.21.15:727][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.21.15:727][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.21.15:727][888]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.21.15:727][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.21.15:727][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.21.15:728][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.21.15:728][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.21.15:728][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.21.15:729][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.21.15:781][888]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.21.15:782][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.21.15:782][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.21.15:782][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.21.15:782][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2022.10.27-15.21.15:782][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2022.10.27-15.21.15:784][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2022.10.27-15.21.15:784][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2022.10.27-15.21.15:784][888]LogInit: FAudioDevice initialized.
+[2022.10.27-15.21.15:784][888]LogAudio: Display: Audio Device (ID: 32) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.21.15:792][888]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.10.27-15.21.15:834][888]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.21.15
+[2022.10.27-15.21.15:834][888]LogWorld: Bringing up level for play took: 0.041700
+[2022.10.27-15.21.15:846][888]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:21:15.846Z
+[2022.10.27-15.21.15:846][888]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.21.15:846][888]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.21.15:847][888]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.21.15:847][888]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.21.15:849][888]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2022.10.27-15.21.15:852][888]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.21.15:852][888]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.21.15:852][888]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.27-15.21.15:852][888]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.27-15.21.15:852][888]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.27-15.21.15:852][888]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.27-15.21.15:852][888]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.21.15:852][888]LogNet: GameNetDriver IpNetDriver_30 IpNetDriver listening on port 17777
+[2022.10.27-15.21.15:852][888]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.21.15:854][888]Cmd: DisableAllScreenMessages
+[2022.10.27-15.21.15:854][888]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.21.15:854][888]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.21.15:855][888]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.21.15:855][888]PIE: Server logged in
+[2022.10.27-15.21.15:855][888]PIE: Play in editor total start time 0.259 seconds.
+[2022.10.27-15.21.15:856][888]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.21.15:856][888]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.21.15:856][888]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2022.10.27-15.21.15:856][888]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2022.10.27-15.21.15:856][888]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.21.15:856][888]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.21.15:856][888]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.21.15:856][888]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.21.15:856][888]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.21.15:856][888]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.21.15:856][888]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.21.15:856][888]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.21.15:857][888]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.21.15:857][888]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.21.15:857][888]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.21.15:859][888]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.21.15:905][888]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.21.15:906][888]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.21.15:906][888]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.21.15:906][888]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.21.15:907][888]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2022.10.27-15.21.15:907][888]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=33
+[2022.10.27-15.21.15:908][888]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2022.10.27-15.21.15:908][888]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2022.10.27-15.21.15:908][888]LogInit: FAudioDevice initialized.
+[2022.10.27-15.21.15:908][888]LogAudio: Display: Audio Device (ID: 33) registered with world 'Untitled'.
+[2022.10.27-15.21.16:186][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.21.16:186][888]LogNet: Browse: 127.0.0.1:17777/Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-15.21.16:186][888]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-15.21.16:186][888]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-15.21.16:187][888]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.21.16:187][888]LogNet: Game client on port 17777, rate 500000
+[2022.10.27-15.21.16:195][888]PIE: Client logged in
+[2022.10.27-15.21.16:203][888]PIE: Play in editor total start time 0.607 seconds.
+[2022.10.27-15.21.16:298][888]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.27-15.21.16:321][889]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.474750
+[2022.10.27-15.21.16:487][897]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.625083
+[2022.10.27-15.21.16:488][897]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.21.16:489][897]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.640262
+[2022.10.27-15.21.16:821][910]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.21.16:984][914]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 1.120957
+[2022.10.27-15.21.16:986][914]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.21.16:986][914]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1.120957, Update Interval: 307.509399
+[2022.10.27-15.21.17:213][929]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58857
+[2022.10.27-15.21.17:213][929]LogHandshake: SendConnectChallenge. Timestamp: 2.072651, Cookie: 212179140215237119248093036113094121156155193048195236036165
+[2022.10.27-15.21.17:214][929]LogHandshake: SendChallengeResponse. Timestamp: 2.072651, Cookie: 212179140215237119248093036113094121156155193048195236036165
+[2022.10.27-15.21.17:228][930]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58857
+[2022.10.27-15.21.17:228][930]LogHandshake: SendChallengeAck. InCookie: 212179140215237119248093036113094121156155193048195236036165
+[2022.10.27-15.21.17:228][930]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58857
+[2022.10.27-15.21.17:228][930]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.21.17:228][930]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 10/27/22 11:21:17, [UNetConnection] RemoteAddr: 127.0.0.1:58857, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.21.17:228][930]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58857, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.21.17:229][930]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: PendingNetDriver IpNetDriver_31, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.21.17:243][931]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.10.27-15.21.17:243][931]LogNet: Remote platform little endian=1
+[2022.10.27-15.21.17:243][931]LogNet: This platform little endian=1
+[2022.10.27-15.21.17:245][931]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:21:17.245Z
+[2022.10.27-15.21.17:245][931]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.21.17:245][931]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.21.17:246][931]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.21.17:246][931]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.21.17:248][931]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2022.10.27-15.21.17:261][932]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.015123
+[2022.10.27-15.21.17:262][932]LogNet: Login request:  userId: UNKNOWN platform: EOS
+[2022.10.27-15.21.17:263][932]LogNet: Welcomed by server (Level: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3, Game: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C)
+[2022.10.27-15.21.17:263][932]LogLoad: LoadMap: 127.0.0.1:17777/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3?game=/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C
+[2022.10.27-15.21.17:263][932]LogWorld: BeginTearingDown for /Temp/Untitled_16
+[2022.10.27-15.21.17:263][932]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.21.17:263][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.21.17:310][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.21.17:312][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.10.27-15.21.17:376][932]LogAudio: Display: Audio Device (ID: 33) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.21.17:376][932]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.21.17:376][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.21.17:376][932]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2022.10.27-15.21.17:413][932]LogWorld: Bringing World /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.21.17
+[2022.10.27-15.21.17:414][932]LogWorld: Bringing up level for play took: 0.036354
+[2022.10.27-15.21.17:414][932]LogLoad: Took 0.150812 seconds to LoadMap(/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3)
+[2022.10.27-15.21.17:436][933]LogNet: Client netspeed is 100000
+[2022.10.27-15.21.17:436][933]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?SplitscreenCount=1
+[2022.10.27-15.21.17:438][933]LogNet: Join succeeded: 287
+[2022.10.27-15.21.17:443][933]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.21.17:443][933]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.21.17:530][935]Cmd: DisableAllScreenMessages
+[2022.10.27-15.21.17:530][935]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.21.17:530][935]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.21.17:547][936]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.280420
+[2022.10.27-15.21.17:548][936]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.21.17:549][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.301423
+[2022.10.27-15.21.17:733][947]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.21.17:862][955]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.600178
+[2022.10.27-15.21.17:864][955]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.21.17:864][955]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.600178, Update Interval: 327.294525
+[2022.10.27-15.21.20:458][ 81]LogViewport: Scene viewport resized to 817x582, mode Windowed.
+[2022.10.27-15.21.21:090][120]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.21.21:091][120]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.21.21:098][120]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.21.21:098][120]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.21.25:608][289]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.21.25:608][289]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.21.36:628][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.21.36:628][832]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3
+[2022.10.27-15.21.36:628][832]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.27-15.21.36:661][832]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.21.36:661][832]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.21.36:665][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.21.36:674][832]LogNet: World NetDriver shutdown IpNetDriver_31 [GameNetDriver]
+[2022.10.27-15.21.36:674][832]LogNet: DestroyNamedNetDriver IpNetDriver_31 [GameNetDriver]
+[2022.10.27-15.21.36:674][832]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_31, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID, Channels: 40, Time: 2022.10.27-15.21.36
+[2022.10.27-15.21.36:674][832]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_30, Driver: GameNetDriver IpNetDriver_31, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID
+[2022.10.27-15.21.36:674][832]LogExit: GameNetDriver IpNetDriver_31 shut down
+[2022.10.27-15.21.36:674][832]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.21.36:675][832]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-15.21.36:675][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.21.36:676][832]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.21.36:676][832]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.21.36:676][832]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.21.36:676][832]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.21.36:677][832]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.21.36:677][832]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.21.36:680][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.21.36:741][832]LogNet: World NetDriver shutdown IpNetDriver_30 [GameNetDriver]
+[2022.10.27-15.21.36:741][832]LogNet: DestroyNamedNetDriver IpNetDriver_30 [GameNetDriver]
+[2022.10.27-15.21.36:742][832]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58857, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.21.36:742][832]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58857, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID, Channels: 40, Time: 2022.10.27-15.21.36
+[2022.10.27-15.21.36:742][832]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.27-15.21.36:742][832]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.27-15.21.36:742][832]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58857, Name: IpConnection_31, Driver: GameNetDriver IpNetDriver_30, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.21.36:742][832]LogExit: GameNetDriver IpNetDriver_30 shut down
+[2022.10.27-15.21.36:742][832]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-15.21.36:751][832]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.21.36:810][832]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.21.36:814][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.10.27-15.21.36:816][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2022.10.27-15.21.36:820][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.10.27-15.21.36:821][832]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2022.10.27-15.21.36:825][832]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.21.36:847][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2022.10.27-15.21.37:128][833]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.10.27-15.21.37:129][833]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.10.27-15.21.42:879][ 13]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.21.43:127][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.27-15.21.59:752][605]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.22.00:431][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.10.27-15.22.04:104][771]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-15.22.04:109][771]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-15.22.04:109][771]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Oct 27, 2022, 7:22:04 AM)
+[2022.10.27-15.22.04:109][771]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.22.04:177][771]LogPlayLevel: PIE: StaticDuplicateObject took: (0.066904s)
+[2022.10.27-15.22.04:177][771]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.066991s)
+[2022.10.27-15.22.04:177][771]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.22.04:177][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.22.04:177][771]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.10.27-15.22.04:178][771]LogPlayLevel: PIE: World Init took: (0.000829s)
+[2022.10.27-15.22.04:236][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.10.27-15.22.04:244][771]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2022.10.27-15.22.04:244][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.22.04:244][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.22.04:244][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.22.04:244][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.22.04:244][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.22.04:244][771]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.22.04:244][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.22.04:244][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.22.04:245][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.22.04:245][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.22.04:245][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.22.04:246][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.22.04:299][771]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.22.04:299][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.22.04:299][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.22.04:299][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.22.04:300][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2022.10.27-15.22.04:300][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2022.10.27-15.22.04:301][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2022.10.27-15.22.04:301][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2022.10.27-15.22.04:301][771]LogInit: FAudioDevice initialized.
+[2022.10.27-15.22.04:301][771]LogAudio: Display: Audio Device (ID: 34) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.22.04:312][771]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.10.27-15.22.04:353][771]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.22.04
+[2022.10.27-15.22.04:354][771]LogWorld: Bringing up level for play took: 0.041776
+[2022.10.27-15.22.04:365][771]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:22:04.365Z
+[2022.10.27-15.22.04:365][771]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.22.04:365][771]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.22.04:366][771]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.22.04:366][771]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.22.04:368][771]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2022.10.27-15.22.04:371][771]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.22.04:371][771]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.22.04:371][771]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.27-15.22.04:371][771]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.27-15.22.04:371][771]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.27-15.22.04:371][771]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.27-15.22.04:371][771]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.22.04:371][771]LogNet: GameNetDriver IpNetDriver_32 IpNetDriver listening on port 17777
+[2022.10.27-15.22.04:371][771]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.22.04:373][771]Cmd: DisableAllScreenMessages
+[2022.10.27-15.22.04:373][771]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.22.04:373][771]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.22.04:374][771]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.22.04:374][771]PIE: Server logged in
+[2022.10.27-15.22.04:374][771]PIE: Play in editor total start time 0.265 seconds.
+[2022.10.27-15.22.04:375][771]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.22.04:375][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.22.04:375][771]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2022.10.27-15.22.04:375][771]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2022.10.27-15.22.04:375][771]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.22.04:375][771]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.22.04:375][771]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.22.04:375][771]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.22.04:375][771]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.22.04:375][771]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.22.04:375][771]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.22.04:375][771]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.22.04:376][771]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.22.04:376][771]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.22.04:376][771]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.22.04:378][771]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.22.04:424][771]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.22.04:425][771]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.22.04:425][771]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.22.04:425][771]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.22.04:425][771]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2022.10.27-15.22.04:425][771]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2022.10.27-15.22.04:427][771]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2022.10.27-15.22.04:427][771]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2022.10.27-15.22.04:427][771]LogInit: FAudioDevice initialized.
+[2022.10.27-15.22.04:427][771]LogAudio: Display: Audio Device (ID: 35) registered with world 'Untitled'.
+[2022.10.27-15.22.04:706][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.22.04:706][771]LogNet: Browse: 127.0.0.1:17777/Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-15.22.04:706][771]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-15.22.04:706][771]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-15.22.04:706][771]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.22.04:706][771]LogNet: Game client on port 17777, rate 500000
+[2022.10.27-15.22.04:714][771]PIE: Client logged in
+[2022.10.27-15.22.04:721][771]PIE: Play in editor total start time 0.611 seconds.
+[2022.10.27-15.22.04:748][771]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.27-15.22.04:834][772]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.468304
+[2022.10.27-15.22.05:145][779]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.757220
+[2022.10.27-15.22.05:146][779]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.22.05:147][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.779182
+[2022.10.27-15.22.05:321][788]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.22.05:433][794]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 1.048689
+[2022.10.27-15.22.05:435][794]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.22.05:435][794]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1.048689, Update Interval: 306.465637
+[2022.10.27-15.22.05:726][810]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49630
+[2022.10.27-15.22.05:727][810]LogHandshake: SendConnectChallenge. Timestamp: 1.634053, Cookie: 186096054088171066239104118151097087234116174195137226004055
+[2022.10.27-15.22.05:728][810]LogHandshake: SendChallengeResponse. Timestamp: 1.634053, Cookie: 186096054088171066239104118151097087234116174195137226004055
+[2022.10.27-15.22.05:744][811]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:49630
+[2022.10.27-15.22.05:744][811]LogHandshake: SendChallengeAck. InCookie: 186096054088171066239104118151097087234116174195137226004055
+[2022.10.27-15.22.05:744][811]LogNet: Server accepting post-challenge connection from: 127.0.0.1:49630
+[2022.10.27-15.22.05:744][811]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.22.05:745][811]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 10/27/22 11:22:05, [UNetConnection] RemoteAddr: 127.0.0.1:49630, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.22.05:745][811]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:49630, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.22.05:746][811]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: PendingNetDriver IpNetDriver_33, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.22.05:762][812]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.10.27-15.22.05:762][812]LogNet: Remote platform little endian=1
+[2022.10.27-15.22.05:762][812]LogNet: This platform little endian=1
+[2022.10.27-15.22.05:764][812]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:22:05.764Z
+[2022.10.27-15.22.05:764][812]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.22.05:764][812]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.22.05:765][812]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.22.05:765][812]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.22.05:789][812]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2022.10.27-15.22.05:805][813]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.040269
+[2022.10.27-15.22.05:807][813]LogNet: Login request:  userId: UNKNOWN platform: EOS
+[2022.10.27-15.22.05:808][813]LogNet: Welcomed by server (Level: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3, Game: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C)
+[2022.10.27-15.22.05:808][813]LogLoad: LoadMap: 127.0.0.1:17777/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3?game=/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C
+[2022.10.27-15.22.05:808][813]LogWorld: BeginTearingDown for /Temp/Untitled_17
+[2022.10.27-15.22.05:808][813]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.22.05:808][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.22.05:861][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.22.05:863][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2022.10.27-15.22.05:926][813]LogAudio: Display: Audio Device (ID: 35) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.22.05:926][813]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.22.05:926][813]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.22.05:927][813]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2022.10.27-15.22.05:961][813]LogWorld: Bringing World /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.22.05
+[2022.10.27-15.22.05:961][813]LogWorld: Bringing up level for play took: 0.034037
+[2022.10.27-15.22.05:961][813]LogLoad: Took 0.153124 seconds to LoadMap(/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3)
+[2022.10.27-15.22.05:985][814]LogNet: Client netspeed is 100000
+[2022.10.27-15.22.05:985][814]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?SplitscreenCount=1
+[2022.10.27-15.22.05:987][814]LogNet: Join succeeded: 289
+[2022.10.27-15.22.05:991][814]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.22.05:991][814]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.22.06:093][817]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.305476
+[2022.10.27-15.22.06:094][817]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.22.06:095][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.328329
+[2022.10.27-15.22.06:099][817]Cmd: DisableAllScreenMessages
+[2022.10.27-15.22.06:099][817]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.22.06:099][817]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.22.06:320][827]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.22.06:426][832]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.640141
+[2022.10.27-15.22.06:428][832]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.22.06:429][832]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.640141, Update Interval: 305.912659
+[2022.10.27-15.22.09:458][974]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.22.09:459][974]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.22.09:465][974]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.22.09:465][974]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.22.09:492][974]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.22.09:492][974]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.22.17:208][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.22.17:208][318]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3
+[2022.10.27-15.22.17:208][318]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.27-15.22.17:244][318]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.22.17:244][318]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.22.17:248][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.22.17:259][318]LogNet: World NetDriver shutdown IpNetDriver_33 [GameNetDriver]
+[2022.10.27-15.22.17:259][318]LogNet: DestroyNamedNetDriver IpNetDriver_33 [GameNetDriver]
+[2022.10.27-15.22.17:259][318]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: GameNetDriver IpNetDriver_33, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID, Channels: 40, Time: 2022.10.27-15.22.17
+[2022.10.27-15.22.17:259][318]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_32, Driver: GameNetDriver IpNetDriver_33, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID
+[2022.10.27-15.22.17:259][318]LogExit: GameNetDriver IpNetDriver_33 shut down
+[2022.10.27-15.22.17:260][318]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.22.17:260][318]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-15.22.17:261][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.22.17:261][318]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.22.17:261][318]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.22.17:261][318]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.22.17:262][318]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.22.17:262][318]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.22.17:262][318]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.22.17:265][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.22.17:312][318]LogNet: World NetDriver shutdown IpNetDriver_32 [GameNetDriver]
+[2022.10.27-15.22.17:312][318]LogNet: DestroyNamedNetDriver IpNetDriver_32 [GameNetDriver]
+[2022.10.27-15.22.17:312][318]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:49630, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.22.17:312][318]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:49630, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID, Channels: 40, Time: 2022.10.27-15.22.17
+[2022.10.27-15.22.17:312][318]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.27-15.22.17:312][318]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.27-15.22.17:312][318]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:49630, Name: IpConnection_33, Driver: GameNetDriver IpNetDriver_32, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.22.17:313][318]LogExit: GameNetDriver IpNetDriver_32 shut down
+[2022.10.27-15.22.17:313][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-15.22.17:322][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.22.17:372][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.22.17:376][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.10.27-15.22.17:378][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2022.10.27-15.22.17:382][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.10.27-15.22.17:383][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2022.10.27-15.22.17:387][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.22.17:410][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.10.27-15.22.17:693][319]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.10.27-15.22.17:693][319]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.10.27-15.23.30:054][ 17]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14811.537109
+[2022.10.27-15.23.30:184][ 21]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-15.23.30:184][ 21]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14811.624023, Update Interval: 312.706085
+[2022.10.27-15.23.32:722][179]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.23.32:983][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.10.27-15.23.37:721][339]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-15.23.37:726][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-15.23.37:726][339]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Oct 27, 2022, 7:23:37 AM)
+[2022.10.27-15.23.37:727][339]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.23.37:788][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062564s)
+[2022.10.27-15.23.37:788][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.062648s)
+[2022.10.27-15.23.37:788][339]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.23.37:788][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.23.37:789][339]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.10.27-15.23.37:789][339]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2022.10.27-15.23.37:845][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.10.27-15.23.37:853][339]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2022.10.27-15.23.37:853][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.23.37:853][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.23.37:853][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.23.37:853][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.23.37:853][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.23.37:854][339]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.23.37:854][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.23.37:854][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.23.37:854][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.23.37:854][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.23.37:854][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.23.37:856][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.23.37:910][339]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.23.37:910][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.23.37:910][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.23.37:910][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.23.37:911][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2022.10.27-15.23.37:911][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2022.10.27-15.23.37:912][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2022.10.27-15.23.37:912][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2022.10.27-15.23.37:912][339]LogInit: FAudioDevice initialized.
+[2022.10.27-15.23.37:912][339]LogAudio: Display: Audio Device (ID: 36) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.23.37:932][339]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.10.27-15.23.37:973][339]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.23.37
+[2022.10.27-15.23.37:974][339]LogWorld: Bringing up level for play took: 0.041805
+[2022.10.27-15.23.37:984][339]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:23:37.984Z
+[2022.10.27-15.23.37:984][339]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.23.37:984][339]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.23.37:985][339]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.23.37:985][339]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.23.37:987][339]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2022.10.27-15.23.37:990][339]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.23.37:990][339]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.23.37:990][339]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.27-15.23.37:990][339]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.27-15.23.37:990][339]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.27-15.23.37:990][339]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.27-15.23.37:990][339]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.23.37:990][339]LogNet: GameNetDriver IpNetDriver_34 IpNetDriver listening on port 17777
+[2022.10.27-15.23.37:990][339]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.23.37:992][339]Cmd: DisableAllScreenMessages
+[2022.10.27-15.23.37:992][339]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.23.37:992][339]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.23.37:993][339]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.23.37:993][339]PIE: Server logged in
+[2022.10.27-15.23.37:993][339]PIE: Play in editor total start time 0.268 seconds.
+[2022.10.27-15.23.37:994][339]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.23.37:994][339]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.23.37:994][339]LogPlayLevel: PIE: World Init took: (0.000570s)
+[2022.10.27-15.23.37:994][339]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2022.10.27-15.23.37:994][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.23.37:994][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.23.37:994][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.23.37:994][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.23.37:994][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.23.37:994][339]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.23.37:994][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.23.37:994][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.23.37:995][339]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.23.37:995][339]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.23.37:995][339]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.23.37:997][339]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.23.38:043][339]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.23.38:044][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.23.38:044][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.23.38:044][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.23.38:045][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2022.10.27-15.23.38:045][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2022.10.27-15.23.38:046][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2022.10.27-15.23.38:046][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2022.10.27-15.23.38:046][339]LogInit: FAudioDevice initialized.
+[2022.10.27-15.23.38:046][339]LogAudio: Display: Audio Device (ID: 37) registered with world 'Untitled'.
+[2022.10.27-15.23.38:340][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.23.38:341][339]LogNet: Browse: 127.0.0.1:17777/Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-15.23.38:341][339]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-15.23.38:341][339]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-15.23.38:341][339]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.23.38:341][339]LogNet: Game client on port 17777, rate 500000
+[2022.10.27-15.23.38:350][339]PIE: Client logged in
+[2022.10.27-15.23.38:357][339]PIE: Play in editor total start time 0.631 seconds.
+[2022.10.27-15.23.38:415][339]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.27-15.23.38:472][340]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.486674
+[2022.10.27-15.23.38:625][349]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.624909
+[2022.10.27-15.23.38:626][349]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.23.38:627][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.640563
+[2022.10.27-15.23.38:810][360]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.23.38:926][367]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.924800
+[2022.10.27-15.23.38:929][367]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.23.38:929][367]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.924800, Update Interval: 312.880035
+[2022.10.27-15.23.39:361][393]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57086
+[2022.10.27-15.23.39:361][393]LogHandshake: SendConnectChallenge. Timestamp: 1.649505, Cookie: 152230043050141193036196062229124074227004232149160160013148
+[2022.10.27-15.23.39:362][393]LogHandshake: SendChallengeResponse. Timestamp: 1.649505, Cookie: 152230043050141193036196062229124074227004232149160160013148
+[2022.10.27-15.23.39:378][394]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57086
+[2022.10.27-15.23.39:378][394]LogHandshake: SendChallengeAck. InCookie: 152230043050141193036196062229124074227004232149160160013148
+[2022.10.27-15.23.39:378][394]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57086
+[2022.10.27-15.23.39:379][394]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.23.39:379][394]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 10/27/22 11:23:39, [UNetConnection] RemoteAddr: 127.0.0.1:57086, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_34, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.23.39:379][394]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57086, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_34, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.23.39:380][394]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_34, Driver: PendingNetDriver IpNetDriver_35, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.23.39:395][395]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.10.27-15.23.39:395][395]LogNet: Remote platform little endian=1
+[2022.10.27-15.23.39:395][395]LogNet: This platform little endian=1
+[2022.10.27-15.23.39:396][395]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:23:39.396Z
+[2022.10.27-15.23.39:396][395]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.23.39:396][395]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.23.39:397][395]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.23.39:397][395]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.23.39:399][395]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2022.10.27-15.23.39:414][396]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.016807
+[2022.10.27-15.23.39:414][396]LogNet: Login request:  userId: UNKNOWN platform: EOS
+[2022.10.27-15.23.39:416][396]LogNet: Welcomed by server (Level: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3, Game: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C)
+[2022.10.27-15.23.39:416][396]LogLoad: LoadMap: 127.0.0.1:17777/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3?game=/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C
+[2022.10.27-15.23.39:416][396]LogWorld: BeginTearingDown for /Temp/Untitled_18
+[2022.10.27-15.23.39:416][396]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.23.39:416][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.23.39:465][396]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.23.39:467][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.10.27-15.23.39:529][396]LogAudio: Display: Audio Device (ID: 37) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.23.39:529][396]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.23.39:529][396]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.23.39:530][396]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2022.10.27-15.23.39:563][396]LogWorld: Bringing World /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.23.39
+[2022.10.27-15.23.39:564][396]LogWorld: Bringing up level for play took: 0.033252
+[2022.10.27-15.23.39:564][396]LogLoad: Took 0.148645 seconds to LoadMap(/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3)
+[2022.10.27-15.23.39:587][397]LogNet: Client netspeed is 100000
+[2022.10.27-15.23.39:587][397]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?SplitscreenCount=1
+[2022.10.27-15.23.39:589][397]LogNet: Join succeeded: 291
+[2022.10.27-15.23.39:593][397]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.23.39:593][397]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.23.39:651][398]Cmd: DisableAllScreenMessages
+[2022.10.27-15.23.39:651][398]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.23.39:651][398]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.23.39:710][401]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.294230
+[2022.10.27-15.23.39:711][401]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.23.39:712][401]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.313351
+[2022.10.27-15.23.39:895][411]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.23.40:018][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.604026
+[2022.10.27-15.23.40:020][418]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.23.40:020][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.604026, Update Interval: 342.483582
+[2022.10.27-15.23.43:094][574]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.23.43:095][574]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.23.43:100][574]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.23.43:100][574]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.23.43:202][574]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.23.43:202][574]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.23.48:407][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.23.48:407][777]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3
+[2022.10.27-15.23.48:407][777]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.27-15.23.48:444][777]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.23.48:444][777]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.23.48:448][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.23.48:460][777]LogNet: World NetDriver shutdown IpNetDriver_35 [GameNetDriver]
+[2022.10.27-15.23.48:460][777]LogNet: DestroyNamedNetDriver IpNetDriver_35 [GameNetDriver]
+[2022.10.27-15.23.48:461][777]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_35, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID, Channels: 40, Time: 2022.10.27-15.23.48
+[2022.10.27-15.23.48:461][777]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_34, Driver: GameNetDriver IpNetDriver_35, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID
+[2022.10.27-15.23.48:461][777]LogExit: GameNetDriver IpNetDriver_35 shut down
+[2022.10.27-15.23.48:461][777]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.23.48:461][777]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-15.23.48:462][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.23.48:463][777]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.23.48:463][777]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.23.48:463][777]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.23.48:463][777]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.23.48:463][777]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.23.48:463][777]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.23.48:467][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.23.48:514][777]LogNet: World NetDriver shutdown IpNetDriver_34 [GameNetDriver]
+[2022.10.27-15.23.48:514][777]LogNet: DestroyNamedNetDriver IpNetDriver_34 [GameNetDriver]
+[2022.10.27-15.23.48:514][777]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57086, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_34, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.23.48:514][777]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57086, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_34, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID, Channels: 40, Time: 2022.10.27-15.23.48
+[2022.10.27-15.23.48:514][777]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.27-15.23.48:514][777]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.27-15.23.48:514][777]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57086, Name: IpConnection_35, Driver: GameNetDriver IpNetDriver_34, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.23.48:515][777]LogExit: GameNetDriver IpNetDriver_34 shut down
+[2022.10.27-15.23.48:515][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-15.23.48:525][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.23.48:588][777]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.23.48:591][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.10.27-15.23.48:592][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2022.10.27-15.23.48:597][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.10.27-15.23.48:598][777]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2022.10.27-15.23.48:602][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.23.48:627][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.10.27-15.23.48:896][778]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.10.27-15.23.48:896][778]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.10.27-15.26.30:552][977]LogEditorTransaction: Undo Create Pin Link
+[2022.10.27-15.26.31:790][ 28]LogEditorTransaction: Undo Create Pin Link
+[2022.10.27-15.27.24:282][480]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.27.24:523][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.10.27-15.27.33:960][877]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-15.27.33:965][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-15.27.33:965][877]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Oct 27, 2022, 7:27:33 AM)
+[2022.10.27-15.27.33:965][877]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.27.34:029][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063984s)
+[2022.10.27-15.27.34:029][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.064066s)
+[2022.10.27-15.27.34:029][877]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.27.34:030][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.27.34:030][877]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.10.27-15.27.34:030][877]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2022.10.27-15.27.34:089][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.10.27-15.27.34:097][877]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2022.10.27-15.27.34:097][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.27.34:097][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.27.34:097][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.27.34:098][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.27.34:098][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.27.34:098][877]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.27.34:098][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.27.34:098][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.27.34:098][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.27.34:098][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.27.34:098][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.27.34:100][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.27.34:155][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.27.34:155][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.27.34:156][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.27.34:156][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.27.34:157][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2022.10.27-15.27.34:157][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2022.10.27-15.27.34:158][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2022.10.27-15.27.34:158][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2022.10.27-15.27.34:158][877]LogInit: FAudioDevice initialized.
+[2022.10.27-15.27.34:158][877]LogAudio: Display: Audio Device (ID: 38) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.27.34:170][877]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.10.27-15.27.34:211][877]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.27.34
+[2022.10.27-15.27.34:211][877]LogWorld: Bringing up level for play took: 0.041175
+[2022.10.27-15.27.34:223][877]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:27:34.223Z
+[2022.10.27-15.27.34:223][877]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.27.34:223][877]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.27.34:224][877]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.27.34:224][877]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.27.34:227][877]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2022.10.27-15.27.34:229][877]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.27.34:229][877]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.27.34:229][877]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.27-15.27.34:229][877]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.27-15.27.34:230][877]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.27-15.27.34:230][877]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.27-15.27.34:230][877]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.27.34:230][877]LogNet: GameNetDriver IpNetDriver_36 IpNetDriver listening on port 17777
+[2022.10.27-15.27.34:230][877]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.27.34:231][877]Cmd: DisableAllScreenMessages
+[2022.10.27-15.27.34:231][877]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.27.34:231][877]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.27.34:232][877]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.27.34:232][877]PIE: Server logged in
+[2022.10.27-15.27.34:233][877]PIE: Play in editor total start time 0.268 seconds.
+[2022.10.27-15.27.34:233][877]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.27.34:233][877]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.27.34:233][877]LogPlayLevel: PIE: World Init took: (0.000580s)
+[2022.10.27-15.27.34:233][877]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2022.10.27-15.27.34:233][877]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.27.34:233][877]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.27.34:233][877]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.27.34:233][877]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.27.34:234][877]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.27.34:234][877]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.27.34:234][877]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.27.34:234][877]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.27.34:234][877]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.27.34:234][877]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.27.34:234][877]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.27.34:236][877]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.27.34:282][877]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.27.34:283][877]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.27.34:283][877]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.27.34:283][877]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.27.34:284][877]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2022.10.27-15.27.34:284][877]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2022.10.27-15.27.34:286][877]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2022.10.27-15.27.34:286][877]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2022.10.27-15.27.34:286][877]LogInit: FAudioDevice initialized.
+[2022.10.27-15.27.34:286][877]LogAudio: Display: Audio Device (ID: 39) registered with world 'Untitled'.
+[2022.10.27-15.27.34:563][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.27.34:563][877]LogNet: Browse: 127.0.0.1:17777/Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-15.27.34:564][877]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-15.27.34:564][877]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-15.27.34:564][877]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.27.34:564][877]LogNet: Game client on port 17777, rate 500000
+[2022.10.27-15.27.34:571][877]PIE: Client logged in
+[2022.10.27-15.27.34:579][877]PIE: Play in editor total start time 0.614 seconds.
+[2022.10.27-15.27.34:678][877]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.27-15.27.34:709][878]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.484234
+[2022.10.27-15.27.34:836][885]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.595869
+[2022.10.27-15.27.34:837][885]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.27.34:838][885]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.612650
+[2022.10.27-15.27.35:015][895]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.27.35:135][902]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.893399
+[2022.10.27-15.27.35:137][902]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.27.35:137][902]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.893399, Update Interval: 348.357788
+[2022.10.27-15.27.35:590][928]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63194
+[2022.10.27-15.27.35:590][928]LogHandshake: SendConnectChallenge. Timestamp: 1.640575, Cookie: 124072176083252205125020080188119169231208143150086181053091
+[2022.10.27-15.27.35:591][928]LogHandshake: SendChallengeResponse. Timestamp: 1.640575, Cookie: 124072176083252205125020080188119169231208143150086181053091
+[2022.10.27-15.27.35:606][929]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63194
+[2022.10.27-15.27.35:606][929]LogHandshake: SendChallengeAck. InCookie: 124072176083252205125020080188119169231208143150086181053091
+[2022.10.27-15.27.35:606][929]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63194
+[2022.10.27-15.27.35:606][929]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.27.35:607][929]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 10/27/22 11:27:35, [UNetConnection] RemoteAddr: 127.0.0.1:63194, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.27.35:607][929]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63194, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.27.35:608][929]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: PendingNetDriver IpNetDriver_37, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.27.35:623][930]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.10.27-15.27.35:623][930]LogNet: Remote platform little endian=1
+[2022.10.27-15.27.35:623][930]LogNet: This platform little endian=1
+[2022.10.27-15.27.35:624][930]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:27:35.624Z
+[2022.10.27-15.27.35:624][930]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.27.35:625][930]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.27.35:625][930]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.27.35:625][930]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.27.35:628][930]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2022.10.27-15.27.35:643][931]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.017006
+[2022.10.27-15.27.35:643][931]LogNet: Login request:  userId: UNKNOWN platform: EOS
+[2022.10.27-15.27.35:644][931]LogNet: Welcomed by server (Level: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3, Game: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C)
+[2022.10.27-15.27.35:645][931]LogLoad: LoadMap: 127.0.0.1:17777/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3?game=/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C
+[2022.10.27-15.27.35:645][931]LogWorld: BeginTearingDown for /Temp/Untitled_19
+[2022.10.27-15.27.35:645][931]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.27.35:645][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.27.35:696][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.27.35:698][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.10.27-15.27.35:760][931]LogAudio: Display: Audio Device (ID: 39) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.27.35:760][931]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.27.35:761][931]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.27.35:761][931]LogPlayLevel: PIE: World Init took: (0.000722s)
+[2022.10.27-15.27.35:795][931]LogWorld: Bringing World /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.27.35
+[2022.10.27-15.27.35:796][931]LogWorld: Bringing up level for play took: 0.034169
+[2022.10.27-15.27.35:796][931]LogLoad: Took 0.151033 seconds to LoadMap(/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3)
+[2022.10.27-15.27.35:819][932]LogNet: Client netspeed is 100000
+[2022.10.27-15.27.35:819][932]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?SplitscreenCount=1
+[2022.10.27-15.27.35:820][932]LogNet: Join succeeded: 293
+[2022.10.27-15.27.35:825][932]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.27.35:825][932]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.27.35:906][934]Cmd: DisableAllScreenMessages
+[2022.10.27-15.27.35:906][934]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.27.35:906][934]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.27.35:928][935]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.275585
+[2022.10.27-15.27.35:929][935]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.27.35:930][935]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.302615
+[2022.10.27-15.27.36:123][945]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.27.36:255][952]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.611434
+[2022.10.27-15.27.36:258][952]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.27.36:258][952]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.611434, Update Interval: 303.189789
+[2022.10.27-15.27.39:333][117]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.27.39:333][117]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.27.39:339][117]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.27.39:339][117]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.27.39:368][117]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.27.39:368][117]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.27.49:241][596]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'A_TPP_Pistol_Idle' into a pose that is expected to be additive in anim instance 'ABP_Base_TPP_C /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_PlayerCharacter_C_1.CharacterMesh0.ABP_Base_TPP_C_0'
+[2022.10.27-15.27.54:879][857]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-15.27.54:990][862]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.27.55:032][864]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.27.55:101][867]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.27.55:194][871]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.27.55:194][871]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.27.55:261][874]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.27.55:325][877]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.27.55:437][882]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.27.55:437][882]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.27.55:550][887]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.27.55:550][887]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.27.55:661][892]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.27.55:661][892]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-15.27.55:765][897]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-15.27.55:765][897]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-15.27.55:832][900]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-15.27.55:882][902]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-15.27.55:943][905]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-15.27.55:964][906]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-15.27.56:017][908]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-15.27.56:061][910]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-15.27.56:062][910]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-15.27.56:195][916]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-15.27.56:195][916]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-15.27.56:284][920]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-15.27.56:284][920]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-15.27.56:414][926]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-15.28.03:593][246]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.28.03:593][246]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-15.28.05:965][377]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.28.05:965][377]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.28.14:375][828]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-15.28.14:489][834]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.28.14:583][839]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.28.14:622][841]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.28.14:724][846]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.28.14:724][846]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.28.14:825][851]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-15.28.14:828][851]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.28.14:828][851]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.28.14:981][856]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.28.14:981][856]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.28.15:041][859]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.28.15:041][859]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.28.15:139][864]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.28.21:920][214]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.28.21:920][214]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-15.28.24:015][291]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.28.24:015][291]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.28.36:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.28.36:986][  0]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3
+[2022.10.27-15.28.36:986][  0]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.27-15.28.37:021][  0]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.28.37:021][  0]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.28.37:026][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.28.37:038][  0]LogNet: World NetDriver shutdown IpNetDriver_37 [GameNetDriver]
+[2022.10.27-15.28.37:038][  0]LogNet: DestroyNamedNetDriver IpNetDriver_37 [GameNetDriver]
+[2022.10.27-15.28.37:038][  0]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID, Channels: 53, Time: 2022.10.27-15.28.37
+[2022.10.27-15.28.37:038][  0]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_36, Driver: GameNetDriver IpNetDriver_37, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID
+[2022.10.27-15.28.37:038][  0]LogExit: GameNetDriver IpNetDriver_37 shut down
+[2022.10.27-15.28.37:038][  0]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.28.37:039][  0]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-15.28.37:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.28.37:040][  0]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.28.37:040][  0]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.28.37:041][  0]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.28.37:041][  0]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.28.37:041][  0]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.28.37:041][  0]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.28.37:041][  0]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.28.37:041][  0]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.28.37:045][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.28.37:092][  0]LogNet: World NetDriver shutdown IpNetDriver_36 [GameNetDriver]
+[2022.10.27-15.28.37:092][  0]LogNet: DestroyNamedNetDriver IpNetDriver_36 [GameNetDriver]
+[2022.10.27-15.28.37:092][  0]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:63194, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.28.37:092][  0]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63194, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID, Channels: 53, Time: 2022.10.27-15.28.37
+[2022.10.27-15.28.37:092][  0]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.27-15.28.37:092][  0]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.27-15.28.37:092][  0]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63194, Name: IpConnection_37, Driver: GameNetDriver IpNetDriver_36, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.28.37:093][  0]LogExit: GameNetDriver IpNetDriver_36 shut down
+[2022.10.27-15.28.37:093][  0]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-15.28.37:102][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.28.37:157][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.10.27-15.28.37:159][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2022.10.27-15.28.37:165][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.28.37:170][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.10.27-15.28.37:172][  0]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2022.10.27-15.28.37:202][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.10.27-15.28.37:437][  1]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2022.10.27-15.28.37:437][  1]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2022.10.27-15.29.28:275][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.10.27-15.29.28:278][231]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_Iteration3' took 0.056
+[2022.10.27-15.29.28:278][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/GameModes/BP_Base_GM] ([2] browsable assets)...
+[2022.10.27-15.29.28:278][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/GameModes/BP_Base_GM]
+[2022.10.27-15.29.28:382][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GM_Auto5
+[2022.10.27-15.29.28:383][231]LogSavePackage: Moving '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_Base_GM_Auto5506589EC4D04B1BECDCF2F87F6AFC291.tmp' to '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Blueprints/GameModes/BP_Base_GM_Auto5.uasset'
+[2022.10.27-15.29.28:384][231]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM] ([2] browsable assets)...
+[2022.10.27-15.29.28:384][231]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM]
+[2022.10.27-15.29.28:386][231]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM_Auto5
+[2022.10.27-15.29.28:386][231]LogSavePackage: Moving '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_Conquest_GM_Auto50C4EB4B84B7FAB829C5BC1B0D05263E4.tmp' to '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM_Auto5.uasset'
+[2022.10.27-15.29.28:387][231]LogFileHelpers: Auto-saving content packages took 0.109
+[2022.10.27-15.29.30:893][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15172.360352
+[2022.10.27-15.29.31:151][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-15.29.31:151][315]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15172.609375, Update Interval: 306.216614
+[2022.10.27-15.30.05:827][238]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.30.06:080][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.10.27-15.30.08:865][301]LogViewport: Scene viewport resized to 1391x902, mode Windowed.
+[2022.10.27-15.30.18:464][762]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter
+[2022.10.27-15.30.18:491][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.30.41:961][541]LogSlate: Window 'Find Results' being destroyed
+[2022.10.27-15.30.43:486][562]LogSlate: Window 'Find Results' being destroyed
+[2022.10.27-15.33.27:549][784]LogSlate: Window 'Find Results' being destroyed
+[2022.10.27-15.33.27:626][784]LogSlate: Window 'Find Results' being destroyed
+[2022.10.27-15.34.49:303][150]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.34.49:616][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.10.27-15.34.56:736][531]LogViewport: Scene viewport resized to 817x582, mode Windowed.
+[2022.10.27-15.34.57:414][531]LogViewport: Scene viewport resized to 1391x902, mode Windowed.
+[2022.10.27-15.35.00:866][756]LogViewport: Scene viewport resized to 817x582, mode Windowed.
+[2022.10.27-15.35.01:869][766]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.27-15.35.02:130][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.27-15.35.02:130][766]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Oct 27, 2022, 7:35:02 AM)
+[2022.10.27-15.35.02:131][766]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.35.02:193][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062475s)
+[2022.10.27-15.35.02:193][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.062574s)
+[2022.10.27-15.35.02:193][766]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.35.02:194][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.35.02:194][766]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.10.27-15.35.02:194][766]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2022.10.27-15.35.02:255][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.27-15.35.02:262][766]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2022.10.27-15.35.02:262][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.35.02:262][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.35.02:262][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.35.02:262][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.35.02:262][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.35.02:262][766]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.35.02:262][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.35.02:262][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.35.02:263][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.35.02:263][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.35.02:263][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.35.02:264][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.35.02:317][766]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.35.02:318][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.35.02:318][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.35.02:318][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.35.02:318][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2022.10.27-15.35.02:318][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2022.10.27-15.35.02:320][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2022.10.27-15.35.02:320][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2022.10.27-15.35.02:320][766]LogInit: FAudioDevice initialized.
+[2022.10.27-15.35.02:320][766]LogAudio: Display: Audio Device (ID: 40) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.35.02:332][766]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.10.27-15.35.02:378][766]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.35.02
+[2022.10.27-15.35.02:379][766]LogWorld: Bringing up level for play took: 0.046129
+[2022.10.27-15.35.02:389][766]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:35:02.389Z
+[2022.10.27-15.35.02:389][766]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.35.02:389][766]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.35.02:390][766]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.35.02:390][766]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.35.02:392][766]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2022.10.27-15.35.02:395][766]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.35.02:395][766]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.35.02:395][766]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.10.27-15.35.02:395][766]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.10.27-15.35.02:395][766]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.10.27-15.35.02:395][766]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.10.27-15.35.02:395][766]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.35.02:395][766]LogNet: GameNetDriver IpNetDriver_38 IpNetDriver listening on port 17777
+[2022.10.27-15.35.02:395][766]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.35.02:397][766]Cmd: DisableAllScreenMessages
+[2022.10.27-15.35.02:397][766]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.35.02:397][766]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.35.02:398][766]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.10.27-15.35.02:398][766]PIE: Server logged in
+[2022.10.27-15.35.02:398][766]PIE: Play in editor total start time 0.268 seconds.
+[2022.10.27-15.35.02:398][766]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.35.02:399][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.35.02:399][766]LogPlayLevel: PIE: World Init took: (0.000578s)
+[2022.10.27-15.35.02:399][766]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2022.10.27-15.35.02:399][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.27-15.35.02:399][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.27-15.35.02:399][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.27-15.35.02:399][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.27-15.35.02:399][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.27-15.35.02:399][766]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.27-15.35.02:399][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.27-15.35.02:399][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.27-15.35.02:400][766]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.27-15.35.02:400][766]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.27-15.35.02:400][766]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.27-15.35.02:401][766]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.27-15.35.02:448][766]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.27-15.35.02:448][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.27-15.35.02:448][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.27-15.35.02:448][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.27-15.35.02:449][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2022.10.27-15.35.02:449][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2022.10.27-15.35.02:450][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2022.10.27-15.35.02:450][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2022.10.27-15.35.02:450][766]LogInit: FAudioDevice initialized.
+[2022.10.27-15.35.02:450][766]LogAudio: Display: Audio Device (ID: 41) registered with world 'Untitled'.
+[2022.10.27-15.35.02:738][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.35.02:738][766]LogNet: Browse: 127.0.0.1:17777/Game/FB_UI/Maps/NewMainMenu
+[2022.10.27-15.35.02:739][766]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.10.27-15.35.02:739][766]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.10.27-15.35.02:739][766]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.35.02:739][766]LogNet: Game client on port 17777, rate 500000
+[2022.10.27-15.35.02:747][766]PIE: Client logged in
+[2022.10.27-15.35.02:753][766]PIE: Play in editor total start time 0.622 seconds.
+[2022.10.27-15.35.02:773][766]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.10.27-15.35.02:864][767]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.474012
+[2022.10.27-15.35.02:984][776]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.582093
+[2022.10.27-15.35.02:985][776]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.35.02:986][776]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.593081
+[2022.10.27-15.35.03:377][793]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.35.03:538][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 1.098409
+[2022.10.27-15.35.03:540][798]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.35.03:540][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1.098409, Update Interval: 341.423370
+[2022.10.27-15.35.03:753][817]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57810
+[2022.10.27-15.35.03:753][817]LogHandshake: SendConnectChallenge. Timestamp: 2.678313, Cookie: 043107052165083163048101116051232254108245103107019251039137
+[2022.10.27-15.35.03:754][817]LogHandshake: SendChallengeResponse. Timestamp: 2.678313, Cookie: 043107052165083163048101116051232254108245103107019251039137
+[2022.10.27-15.35.03:764][818]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57810
+[2022.10.27-15.35.03:764][818]LogHandshake: SendChallengeAck. InCookie: 043107052165083163048101116051232254108245103107019251039137
+[2022.10.27-15.35.03:764][818]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57810
+[2022.10.27-15.35.03:765][818]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.10.27-15.35.03:765][818]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 10/27/22 11:35:03, [UNetConnection] RemoteAddr: 127.0.0.1:57810, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.35.03:765][818]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57810, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.35.03:766][818]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_38, Driver: PendingNetDriver IpNetDriver_39, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.10.27-15.35.03:777][819]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.10.27-15.35.03:777][819]LogNet: Remote platform little endian=1
+[2022.10.27-15.35.03:777][819]LogNet: This platform little endian=1
+[2022.10.27-15.35.03:778][819]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-10-27T15:35:03.778Z
+[2022.10.27-15.35.03:778][819]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.10.27-15.35.03:778][819]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.35.03:779][819]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.10.27-15.35.03:779][819]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.10.27-15.35.03:781][819]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2022.10.27-15.35.03:791][820]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.012062
+[2022.10.27-15.35.03:792][820]LogNet: Login request:  userId: UNKNOWN platform: EOS
+[2022.10.27-15.35.03:793][820]LogNet: Welcomed by server (Level: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3, Game: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C)
+[2022.10.27-15.35.03:793][820]LogLoad: LoadMap: 127.0.0.1:17777/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3?game=/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C
+[2022.10.27-15.35.03:793][820]LogWorld: BeginTearingDown for /Temp/Untitled_20
+[2022.10.27-15.35.03:793][820]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.35.03:794][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.35.03:847][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.35.03:849][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.10.27-15.35.03:912][820]LogAudio: Display: Audio Device (ID: 41) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.10.27-15.35.03:912][820]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.27-15.35.03:912][820]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.35.03:913][820]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2022.10.27-15.35.03:948][820]LogWorld: Bringing World /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.10.27-11.35.03
+[2022.10.27-15.35.03:949][820]LogWorld: Bringing up level for play took: 0.034985
+[2022.10.27-15.35.03:949][820]LogLoad: Took 0.155892 seconds to LoadMap(/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3)
+[2022.10.27-15.35.03:966][821]LogNet: Client netspeed is 100000
+[2022.10.27-15.35.03:966][821]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?SplitscreenCount=1
+[2022.10.27-15.35.03:968][821]LogNet: Join succeeded: 295
+[2022.10.27-15.35.03:972][821]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.35.03:973][821]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.10.27-15.35.04:499][824]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.704958
+[2022.10.27-15.35.04:500][824]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.10.27-15.35.04:501][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.720105
+[2022.10.27-15.35.04:505][824]Cmd: DisableAllScreenMessages
+[2022.10.27-15.35.04:505][824]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.10.27-15.35.04:505][824]LogStreaming: Warning: Failed to read file '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.10.27-15.35.04:687][837]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.10.27-15.35.04:791][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.998084
+[2022.10.27-15.35.04:793][844]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.10.27-15.35.04:793][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.998084, Update Interval: 315.295258
+[2022.10.27-15.35.07:538][ 35]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.35.07:538][ 35]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.10.27-15.35.07:546][ 35]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.35.07:546][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.35.07:574][ 35]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.35.07:574][ 35]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.35.16:709][673]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15518.100586
+[2022.10.27-15.35.16:808][680]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-15.35.16:808][680]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15518.185547, Update Interval: 303.971680
+[2022.10.27-15.35.39:945][200]LogCharacterMovement: BP_PlayerCharacter_C_1 is stuck and failed to move! Velocity: X=498.21 Y=289.07 Z=0.00 Location: X=-15267.97 Y=564.79 Z=1061.53 Normal: X=-0.52 Y=0.85 Z=0.00 PenetrationDepth:23.180 Actor:Auto_Sliding_Door_C_5 Component:Right BoneName:None (0 other events since notify)
+[2022.10.27-15.35.49:728][763]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-15.35.49:833][769]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.35.49:940][775]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.35.49:995][778]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.35.50:054][781]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.35.50:054][781]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.35.50:163][787]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-15.35.50:168][787]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.35.50:168][787]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.35.50:286][793]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.35.50:286][793]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.35.50:400][799]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.35.50:400][799]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.35.50:496][804]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.35.50:496][804]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-15.35.50:602][810]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_3.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-15.35.57:229][193]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.35.57:229][193]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-15.35.59:269][328]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.35.59:269][328]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.36.15:824][322]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-15.36.15:967][331]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.36.16:014][334]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.36.16:064][337]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.36.16:158][343]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.36.16:158][343]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.36.16:240][348]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.36.16:289][351]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.36.16:385][357]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.36.16:386][357]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.36.16:494][364]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.36.16:494][364]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.36.16:589][370]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_6 NOT Supported.
+[2022.10.27-15.36.16:638][373]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-15.36.16:689][376]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_7 NOT Supported.
+[2022.10.27-15.36.16:705][377]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-15.36.16:745][379]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-15.36.16:795][382]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_8 NOT Supported.
+[2022.10.27-15.36.16:849][385]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-15.36.16:915][389]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_9 NOT Supported.
+[2022.10.27-15.36.16:963][392]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-15.36.17:011][395]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_10 NOT Supported.
+[2022.10.27-15.36.20:481][621]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_11 NOT Supported.
+[2022.10.27-15.36.21:165][666]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_12 NOT Supported.
+[2022.10.27-15.36.21:657][698]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_13 NOT Supported.
+[2022.10.27-15.36.22:348][744]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_14 NOT Supported.
+[2022.10.27-15.36.22:746][770]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_5.ParticleSystemComponent_15 NOT Supported.
+[2022.10.27-15.36.23:719][832]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.36.23:719][832]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-15.36.25:300][928]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.10.27-15.36.25:300][928]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.10.27-15.36.32:386][339]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_0 NOT Supported.
+[2022.10.27-15.36.32:598][348]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_1 NOT Supported.
+[2022.10.27-15.36.32:653][351]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.36.32:706][354]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_2 NOT Supported.
+[2022.10.27-15.36.32:723][355]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.10.27-15.36.32:767][357]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.36.32:825][360]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_3 NOT Supported.
+[2022.10.27-15.36.32:862][362]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.36.32:915][365]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_4 NOT Supported.
+[2022.10.27-15.36.32:951][367]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.36.33:058][373]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_7.ParticleSystemComponent_5 NOT Supported.
+[2022.10.27-15.36.39:740][762]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.10.27-15.36.39:740][762]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.10.27-15.36.42:887][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.36.42:887][876]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3
+[2022.10.27-15.36.42:887][876]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.10.27-15.36.42:923][876]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.36.42:923][876]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.36.42:927][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.36.42:935][876]LogNet: World NetDriver shutdown IpNetDriver_39 [GameNetDriver]
+[2022.10.27-15.36.42:935][876]LogNet: DestroyNamedNetDriver IpNetDriver_39 [GameNetDriver]
+[2022.10.27-15.36.42:936][876]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_39, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID, Channels: 51, Time: 2022.10.27-15.36.42
+[2022.10.27-15.36.42:936][876]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_38, Driver: GameNetDriver IpNetDriver_39, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID
+[2022.10.27-15.36.42:936][876]LogExit: GameNetDriver IpNetDriver_39 shut down
+[2022.10.27-15.36.42:936][876]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.10.27-15.36.42:937][876]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.10.27-15.36.42:938][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.36.42:938][876]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.10.27-15.36.42:938][876]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.36.42:938][876]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.36.42:939][876]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.36.42:939][876]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.36.42:939][876]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.10.27-15.36.42:939][876]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.36.42:943][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.36.42:990][876]LogNet: World NetDriver shutdown IpNetDriver_38 [GameNetDriver]
+[2022.10.27-15.36.42:990][876]LogNet: DestroyNamedNetDriver IpNetDriver_38 [GameNetDriver]
+[2022.10.27-15.36.42:990][876]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:57810, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.36.42:990][876]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57810, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID, Channels: 51, Time: 2022.10.27-15.36.42
+[2022.10.27-15.36.42:990][876]LogNet: UNetConnection::Close: CloseReason:
+[2022.10.27-15.36.42:990][876]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.10.27-15.36.42:990][876]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57810, Name: IpConnection_39, Driver: GameNetDriver IpNetDriver_38, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.10.27-15.36.42:990][876]LogExit: GameNetDriver IpNetDriver_38 shut down
+[2022.10.27-15.36.42:990][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.27-15.36.43:000][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.36.43:062][876]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.27-15.36.43:064][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.10.27-15.36.43:065][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2022.10.27-15.36.43:071][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.10.27-15.36.43:072][876]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2022.10.27-15.36.43:076][876]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.27-15.36.43:100][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.10.27-15.36.43:304][877]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2022.10.27-15.36.43:304][877]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2022.10.27-15.36.46:280][ 24]LogViewport: Scene viewport resized to 1391x902, mode Windowed.
+[2022.10.27-15.38.44:293][124]BlueprintLog: New page: Compile BP_Base_GM
+[2022.10.27-15.38.44:555][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.10.27-15.40.40:975][226]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/PlayerController/BP_BasePlayerController.BP_BasePlayerController
+[2022.10.27-15.40.40:976][226]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.40.59:983][427]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FPS/UI/Gameplay/WB_PlayerTag.WB_PlayerTag
+[2022.10.27-15.40.59:984][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.41.00:017][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.27-15.41.00:494][427]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-15.41.00:494][427]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.10.27-15.41.14:283][311]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15875.670898
+[2022.10.27-15.41.14:400][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.10.27-15.41.14:400][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15875.776367, Update Interval: 344.897003
+[2022.10.27-15.41.17:665][489]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.41.17:665][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.41.17:696][489]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.10.27-15.41.17:696][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.27-15.42.42:694][178]LogSlate: Window 'Find Results' being destroyed
+[2022.10.27-15.42.42:770][178]LogSlate: Window 'Find Results' being destroyed
+[2022.10.27-15.42.48:571][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.10.27-15.42.49:010][278]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/BP_Base_GM
+[2022.10.27-15.42.49:010][278]LogSavePackage: Moving '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_Base_GM682FCA8B44DE88B314529198EC6CDBE4.tmp' to '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FPS/Blueprints/GameModes/BP_Base_GM.uasset'
+[2022.10.27-15.42.49:013][278]LogSavePackage: Moving output files for package: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM
+[2022.10.27-15.42.49:013][278]LogSavePackage: Moving '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_Conquest_GME98003024A4B04016D6937B9A2F6024E.tmp' to '../../../../FPS_Multiplayer/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.uasset'
+[2022.10.27-15.42.49:107][278]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.27-15.42.49:107][278]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/BP_Base_GM.BP_Base_GM
+[2022.10.27-15.42.49:107][278]LogContentValidation: Display: Validating Blueprint /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM
