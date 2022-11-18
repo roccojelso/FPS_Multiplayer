@@ -1,0 +1,1583 @@
+﻿Log file open, 11/15/22 13:11:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=20136)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Multiplayer_Flutterbeam
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Multiplayer_Flutterbeam.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 1600 Six-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ffe5b2444512f8c5e1b3f9b96194bec9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.246998
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-BCF462A248349B4C6B302CB7BA50822F
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading IOS ini files took 0.12 seconds
+LogConfig: Display: Loading Mac ini files took 0.12 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.13 seconds
+LogConfig: Display: Loading Unix ini files took 0.14 seconds
+LogConfig: Display: Loading TVOS ini files took 0.14 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.17 seconds
+LogConfig: Display: Loading Linux ini files took 0.17 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SocketSubsystemEOS
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineServicesEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogWindows: Failed to load 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Binaries/Win64/EOSSDK-Win64-Shipping.dll' (GetLastError=126)
+LogWindows: File 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Binaries/Win64/EOSSDK-Win64-Shipping.dll' does not exist
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogEOSSDK: Initializing EOSSDK Version:1.14.2-20976885
+LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-11-15T18:11:08.849Z
+LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+LogEOSSDK: LogEOSRTC: LibRTCCore: Initializing LibRTC...
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: EOS
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.15-18.11.09:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.15-18.11.09:242][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.15-18.11.09:242][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.15-18.11.09:243][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.15-18.11.09:244][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.15-18.11.09:244][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.15-18.11.09:244][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.15-18.11.09:255][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.15-18.11.09:256][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.15-18.11.09:256][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.15-18.11.09:256][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.15-18.11.09:373][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.15-18.11.09:378][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.15-18.11.09:378][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.11.15-18.11.09:378][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.15-18.11.09:378][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.11.15-18.11.09:378][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.15-18.11.09:379][  0]LogD3D11RHI:     AdapterLuid : 0 68161084
+[2022.11.15-18.11.09:649][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_1)
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:       8081/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     Revision    : 0000
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.15-18.11.09:650][  0]LogD3D11RHI:     AdapterLuid : 0 54609
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.15-18.11.09:656][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.15-18.11.09:657][  0]LogD3D11RHI:     AdapterLuid : 0 68161084
+[2022.11.15-18.11.09:657][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.15-18.11.09:657][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.15-18.11.09:658][  0]LogHAL: Display: Platform has ~ 16 GB [17129910272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.15-18.11.09:659][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.15-18.11.09:659][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.15-18.11.09:659][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.15-18.11.09:661][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.15-18.11.09:661][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.15-18.11.09:662][  0]LogInit: Computer: GAMEDEVBATTLEST
+[2022.11.15-18.11.09:662][  0]LogInit: User: ronni
+[2022.11.15-18.11.09:662][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.15-18.11.09:662][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.15-18.11.09:662][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.11.15-18.11.09:662][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.15-18.11.09:662][  0]LogMemory: Process Physical Memory: 279.60 MB used, 285.86 MB peak
+[2022.11.15-18.11.09:662][  0]LogMemory: Process Virtual Memory: 232.73 MB used, 232.73 MB peak
+[2022.11.15-18.11.09:662][  0]LogMemory: Physical Memory: 7252.71 MB used,  9083.64 MB free, 16336.36 MB total
+[2022.11.15-18.11.09:662][  0]LogMemory: Virtual Memory: 10133.49 MB used,  14138.86 MB free, 24272.36 MB total
+[2022.11.15-18.11.09:662][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.15-18.11.09:676][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.15-18.11.09:743][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.15-18.11.09:755][  0]LogInit: Using OS detected language (en-US).
+[2022.11.15-18.11.09:755][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.15-18.11.09:799][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.15-18.11.10:361][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.15-18.11.10:416][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.15-18.11.10:416][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.15-18.11.10:416][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.15-18.11.10:532][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.15-18.11.10:532][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.15-18.11.17:046][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.15-18.11.17:046][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.15-18.11.17:046][  0]LogWindows: Attached monitors:
+[2022.11.15-18.11.17:047][  0]LogWindows:     resolution: 1600x900, work area: (1920, 0) -> (3520, 900), device: '\\.\DISPLAY1'
+[2022.11.15-18.11.17:047][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.11.15-18.11.17:047][  0]LogWindows: Found 2 attached monitors.
+[2022.11.15-18.11.17:047][  0]LogWindows: EnumDisplayDevices:
+[2022.11.15-18.11.17:047][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.11.15-18.11.17:048][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.11.15-18.11.17:048][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.15-18.11.17:049][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.15-18.11.17:049][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.15-18.11.17:049][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.11.15-18.11.17:049][  0]LogD3D11RHI:   Driver Version: 526.86 (internal:31.0.15.2686, unified:526.86)
+[2022.11.15-18.11.17:049][  0]LogD3D11RHI:      Driver Date: 11-8-2022
+[2022.11.15-18.11.17:049][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2022.11.15-18.11.17:049][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.15-18.11.17:049][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.15-18.11.17:050][  0]LogD3D11RHI:     AdapterLuid : 0 68161084
+[2022.11.15-18.11.17:241][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.15-18.11.17:241][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.15-18.11.17:241][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.11.15-18.11.17:241][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.15-18.11.17:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.11.15-18.11.17:453][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.15-18.11.17:477][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -platform=all'
+[2022.11.15-18.11.17:477][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -platform=all" ]
+[2022.11.15-18.11.17:579][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.15-18.11.17:673][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.15-18.11.17:673][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.15-18.11.17:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.15-18.11.17:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.15-18.11.17:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.15-18.11.17:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.15-18.11.17:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.15-18.11.17:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.15-18.11.17:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.15-18.11.17:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.15-18.11.17:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.15-18.11.17:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.15-18.11.17:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.15-18.11.17:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.15-18.11.17:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.15-18.11.17:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.15-18.11.17:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.15-18.11.17:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.15-18.11.17:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.15-18.11.17:791][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.15-18.11.17:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.15-18.11.17:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.15-18.11.17:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.15-18.11.17:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.15-18.11.17:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.15-18.11.17:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.15-18.11.17:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.15-18.11.17:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.15-18.11.17:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.15-18.11.17:866][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.15-18.11.17:987][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.15-18.11.17:995][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.15-18.11.17:996][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.15-18.11.17:996][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.15-18.11.17:996][  0]LogTargetPlatformManager:   PCM
+[2022.11.15-18.11.18:005][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.15-18.11.18:005][  0]LogTargetPlatformManager:   BINKA
+[2022.11.15-18.11.18:005][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.15-18.11.18:005][  0]LogTargetPlatformManager:   OGG
+[2022.11.15-18.11.18:005][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.15-18.11.18:005][  0]LogTargetPlatformManager:   OPUS
+[2022.11.15-18.11.18:333][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.15-18.11.18:352][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.15-18.11.18:366][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.15-18.11.18:366][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.15-18.11.18:366][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.15-18.11.18:366][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.15-18.11.18:366][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.15-18.11.18:366][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.15-18.11.18:366][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.15-18.11.18:367][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.15-18.11.18:371][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.15-18.11.18:392][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.15-18.11.18:393][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.15-18.11.18:409][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.15-18.11.18:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.15-18.11.18:419][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.15-18.11.18:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.15-18.11.18:419][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.15-18.11.18:494][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.15-18.11.18:495][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.15-18.11.18:495][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.15-18.11.18:532][  0]LogDerivedDataCache: Speed tests for C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.11.15-18.11.18:532][  0]LogDerivedDataCache: Display: Performance to C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.29ms. RandomReadSpeed=65.86MBs, RandomWriteSpeed=51.74MBs. Assigned SpeedClass 'Local'
+[2022.11.15-18.11.18:534][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.15-18.11.18:534][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.15-18.11.18:534][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.15-18.11.18:555][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.15-18.11.18:555][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.15-18.11.18:566][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/Shaders/WorkingDirectory/20772/).
+[2022.11.15-18.11.18:567][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ronni/AppData/Local/Temp/UnrealShaderWorkingDir/7E20CFC3422694A58F8786902D3A6689/'.
+[2022.11.15-18.11.18:568][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.15-18.11.18:568][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.11.15-18.11.32:255][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.15-18.11.32:255][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.15-18.11.32:297][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.15-18.11.32:421][  0]LogAssetRegistry: FAssetRegistry took 0.0508 seconds to start up
+[2022.11.15-18.11.32:438][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.15-18.11.33:166][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.15-18.11.33:175][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.15-18.11.34:216][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.15-18.11.34:216][  0]LogDeviceProfileManager: Active device profile: [00000890AD3371C0][00000890A4887800 50] WindowsEditor
+[2022.11.15-18.11.34:216][  0]LogDeviceProfileManager: Profiles: [00000890AD336C80][00000890A4885000 50] Windows, [00000890AD3371C0][00000890A4887800 50] WindowsEditor, [00000890AD335E80][00000890A4880000 50] WindowsServer, [00000890AD3363C0][00000890A4827800 50] WindowsClient, [00000890AD333480][0000089094A57800 50] IOS, [00000890AD336200][00000890A074C800 50] iPadAir2, [00000890AD336040][00000890A4FFC800 50] IPadPro, [00000890AD336AC0][000008909F902800 50] iPadAir3, [00000890AD3347C0][00000890AD590000 50] iPadAir4, [00000890AD333F00][00000890AD595000 50] iPadMini4, [00000890AD334EC0][00000890AD597800 50] iPadMini5, [00000890AD337700][00000890AD59A000 50] iPadMini6, [00000890AD33A640][00000890AD660000 50] iPhone6S, [00000890AD33A9C0][00000890AD662800 50] iPhone7, [00000890AD337380][00000890AD665000 50] iPodTouch7, [00000890AD332F40][00000890AD66A000 50] iPhone6SPlus, [00000890AD335940][00000890AD66C800 50] iPhone7Plus, [00000890AD332140][00000890A4882800 50] iPhoneSE, [00000890AD338C00][00000890AD59C800 50] iPhone8, [00000890AD335B00][00000890AD667800 50] iPhone8Plus, [00000890AD3355C0][00000890AD5C0000 50] iPhoneX, [00000890AD33AB80][00000890AD5C5000 50] iPhoneXS, [00000890AD332300][00000890AD5C7800 50] iPhoneXSMax, [00000890AD339300][00000890AD5CA000 50] iPhoneXR, [00000890AD334B40][00000890AD5CC800 50] iPhone11, [00000890AD33A800][00000890AD592800 50] iPhone11Pro, [00000890AD336580][00000890AD5D0000 50] iPhone11ProMax, [00000890AD338DC0][00000890AD5D5000 50] iPhoneSE2, [00000890AD335780][00000890AD5D7800 50] iPhone12Mini, [00000890AD336740][00000890AD5DA000 50] iPhone12, [00000890AD3378C0][00000890AD5DC800 50] iPhone12Pro, [00000890AD337000][00000890AD5C2800 50] iPhone12ProMax, [00000890AD337540][00000890AD5E0000 50] iPhone13Mini, [00000890AD3394C0][00000890AD5E5000 50] iPhone13, [00000890AD333640][00000890AD5E7800 50] iPhone13Pro, [00000890AD337E00][00000890AD5EA000 50] iPhone13ProMax, [00000890AD332BC0][00000890AD5EC800 50] iPadPro105, [00000890AD334600][00000890AD5D2800 50] iPadPro129, [00000890AD33A2C0][00000890AD570000 50] iPadPro97, [00000890AD332840][00000890AD575000 50] iPadPro2_129, [00000890AD339BC0][00000890AD577800 50] iPad5, [00000890AD337A80][00000890AD57A000 50] iPad6, [00000890AD338A40][00000890AD57C800 50] iPad7, [00000890AD333100][00000890AD5E2800 50] iPad8, [00000890AD33A100][00000890AD620000 50] iPad9, [00000890AD333B80][00000890AD625000 50] iPadPro11, [00000890AD339140][00000890AD627800 50] iPadPro2_11, [00000890AD331F80][00000890AD62A000 50] iPadPro3_11, [00000890AD338340][00000890AD62C800 50] iPadPro3_129, [00000890AD333D40][00000890AD572800 50] iPadPro4_129, [00000890AD337FC0][00000890AD630000 50] iPadPro5_129, [00000890AD339680][00000890AD635000 50] AppleTV, [00000890AD338180][00000890AD637800 50] AppleTV4K, [00000890AD335240][00000890AD63A000 50] TVOS, [00000890AD33C240][00000890AD622800 50] Mac, [00000890AD33C5C0][00000890AD63C800 50] MacEditor, [00000890AD334980][00000890AD5F0000 50] MacClient, [00000890AD33C400][00000890AD5F5000 50] MacServer, [00000890AD332D80][00000890AD5FA000 50] Linux, [00000890AD336900][00000890AD5F7800 50] LinuxEditor, [00000890AD33B0C0][00000890AD5FC800 50] LinuxArm64Editor, [00000890AD337C40][00000890AD632800 50] LinuxArm64, [00000890AD33B440][00000890AD650000 50] LinuxClient, [00000890AD339840][00000890AD655000 50] LinuxArm64Client, [00000890AD338F80][00000890AD657800 50] LinuxServer, [00000890AD335400][00000890AD65A000 50] LinuxArm64Server, [00000890AD338500][00000890AD65C800 50] Android, [00000890AD334280][00000890AD5F2800 50] Android_Preview_OpenGL, [00000890AD339A00][00000890AD680000 50] Android_Preview_Vulkan, [00000890AD33AD40][00000890AD685000 50] Android_Low, [00000890AD335CC0][00000890AD687800 50] Android_Mid, [00000890AD33BD00][00000890AD68A000 50] Android_High, [00000890AD33B7C0][00000890AD68C800 50] Android_Default, [00000890AD33BB40][00000890AD652800 50] Android_Adreno4xx, [00000890AD332A00][00000890AD690000 50] Android_Adreno5xx_Low, [00000890AD333800][00000890AD695000 50] Android_Adreno5xx, [00000890AD334D00][00000890AD697800 50] Android_Adreno6xx, [00000890AD334440][00000890AD69A000 50] Android_Adreno6xx_Vulkan, [00000890AD33B980][00000890AD69C800 50] Android_Adreno7xx, [00000890AD33C080][00000890AD682800 50] Android_Adreno7xx_Vulkan, [00000890AD33CCC0][00000890AD6A0000 50] Android_Mali_T6xx, [00000890AD3339C0][00000890AD6A5000 50] Android_Mali_T7xx, [00000890AD33CE80][00000890AD6A7800 50] Android_Mali_T8xx, [00000890AD339F40][00000890AD6AA000 50] Android_Mali_G71, [00000890AD3386C0][00000890AD6AC800 50] Android_Mali_G72, [00000890AD33CB00][00000890AD692800 50] Android_Mali_G72_Vulkan, [00000890AD335080][00000890AD6B0000 50] Android_Mali_G76, [00000890AD33D040][00000890AD6B5000 50] Android_Mali_G76_Vulkan, [00000890AD33B280][00000890AD6B7800 50] Android_Mali_G77, [00000890AD33DC80][00000890AD6BA000 50] Android_Mali_G77_Vulkan, [00000890AD338880][00000890AD6BC800 50] Android_Mali_G78, [00000890AD33DE40][00000890AD6A2800 50] Android_Mali_G78_Vulkan, [00000890AD33BEC0][00000890AD6C0000 50] Android_Mali_G710, [00000890AD339D80][00000890AD6C5000 50] Android_Mali_G710_Vulkan, [00000890AD3332C0][00000890AD6C7800 50] Android_Xclipse_920, [00000890AD33D3C0][00000890AD6CA000 50] Android_Xclipse_920_Vulkan, [00000890AD33EC40][00000890AD6CC800 50] Android_Vulkan_SM5, [00000890AD33D900][00000890AD6B2800 50] Android_PowerVR_G6xxx, [00000890AD33B600][00000890AD6D0000 50] Android_PowerVR_GT7xxx, [00000890AD33E1C0][00000890AD6D5000 50] Android_PowerVR_GE8xxx, [00000890AD33D200][00000890AD6D7800 50] Android_PowerVR_GM9xxx, [00000890AD33C780][00000890AD6DA000 50] Android_PowerVR_GM9xxx_Vulkan, [00000890AD33EFC0][00000890AD6DC800 50] Android_TegraK1, [00000890AD332680][00000890AD6C2800 50] Android_Unknown_Vulkan, [00000890AD33E000][00000890AD6E0000 50] Oculus_Quest, [00000890AD33A480][00000890AD6E5000 50] Oculus_Quest2, [00000890AC6BFC00][00000890AD6E7800 50] HoloLens, 
+[2022.11.15-18.11.34:217][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.15-18.11.34:231][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.11.15-18.11.34:231][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.15-18.11.34:231][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.15-18.11.34:231][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.15-18.11.34:231][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.15-18.11.34:515][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.15-18.11.35:209][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.15-18.11.35:209][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.15-18.11.35:209][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.15-18.11.35:209][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.15-18.11.35:210][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.15-18.11.35:338][  0]LogNetVersion: Multiplayer_Flutterbeam 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1122345460)
+[2022.11.15-18.11.36:742][  0]LogSlate: Border
+[2022.11.15-18.11.36:743][  0]LogSlate: BreadcrumbButton
+[2022.11.15-18.11.36:743][  0]LogSlate: Default
+[2022.11.15-18.11.36:743][  0]LogSlate: Icons.Save
+[2022.11.15-18.11.36:743][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.15-18.11.36:743][  0]LogSlate: ListView
+[2022.11.15-18.11.36:743][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.15-18.11.36:743][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.15-18.11.36:743][  0]LogSlate: TableView.DarkRow
+[2022.11.15-18.11.36:743][  0]LogSlate: TableView.Row
+[2022.11.15-18.11.36:743][  0]LogSlate: TreeView
+[2022.11.15-18.11.38:285][  0]SourceControl: Source control is disabled
+[2022.11.15-18.11.38:532][  0]SourceControl: Source control is disabled
+[2022.11.15-18.11.38:532][  0]SourceControl: Source control is disabled
+[2022.11.15-18.11.39:182][  0]LogUObjectArray: 20572 objects as part of root set at end of initial load.
+[2022.11.15-18.11.39:183][  0]LogUObjectAllocator: 5608512 out of 0 bytes used by permanent object pool.
+[2022.11.15-18.11.39:183][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.15-18.11.40:283][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E009E2F845DAA30FA1639486FE8BE55E | Instance: 5B33B73846C1A2A48705EE91696F85B3 (GAMEDEVBATTLEST-20772).
+[2022.11.15-18.11.40:529][  0]LogPython: Using Python 3.9.7
+[2022.11.15-18.11.43:588][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.15-18.11.43:607][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.15-18.11.45:242][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2022.11.15-18.11.45:247][  0]LogSteamShared: Steam SDK Loaded!
+[2022.11.15-18.11.45:420][  0]SourceControl: Source control is disabled
+[2022.11.15-18.11.45:453][  0]SourceControl: Source control is disabled
+[2022.11.15-18.11.45:464][  0]SourceControl: Source control is disabled
+[2022.11.15-18.11.45:506][  0]LogUProjectInfo: Found projects:
+[2022.11.15-18.11.46:289][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.15-18.11.47:272][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.15-18.11.47:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.15-18.11.47:328][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.15-18.11.47:891][  0]LogCollectionManager: Loaded 0 collections in 0.006583 seconds
+[2022.11.15-18.11.48:092][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Collections/' took 0.00s
+[2022.11.15-18.11.48:092][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Developers/ronni/Collections/' took 0.00s
+[2022.11.15-18.11.48:092][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Collections/' took 0.00s
+[2022.11.15-18.11.49:166][  0]LogEngine: Initializing Engine...
+[2022.11.15-18.11.49:203][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.15-18.11.49:253][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.15-18.11.51:051][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.15-18.11.51:055][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.15-18.11.51:093][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-18.11.51:184][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.15-18.11.51:194][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.15-18.11.51:253][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.15-18.11.51:504][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.15-18.11.51:506][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.15-18.11.51:507][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.15-18.11.51:507][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.15-18.11.51:508][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.15-18.11.51:508][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.15-18.11.51:508][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.15-18.11.51:508][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.15-18.11.51:508][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.15-18.11.51:508][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.15-18.11.51:508][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.15-18.11.51:525][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.15-18.11.51:525][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.15-18.11.51:526][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.15-18.11.51:557][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.15-18.11.51:730][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3 X)
+[2022.11.15-18.11.51:732][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.15-18.11.51:787][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.15-18.11.51:788][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.15-18.11.51:790][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.15-18.11.51:791][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.15-18.11.51:794][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.15-18.11.51:794][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.15-18.11.51:794][  0]LogInit: FAudioDevice initialized.
+[2022.11.15-18.11.51:794][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.15-18.11.51:795][  0]LogNetVersion: Set ProjectVersion to 4.1.0.0. Version Checksum will be recalculated on next use.
+[2022.11.15-18.11.51:795][  0]LogInit: Texture streaming: Enabled
+[2022.11.15-18.11.51:879][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.15-18.11.51:901][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.15-18.11.51:969][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.15-18.11.51:991][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.15-18.11.51:991][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.15-18.11.56:033][  0]LogLiveCoding: Display: First instance in process group "UE_Multiplayer_Flutterbeam_0x0feaea4f", spawning console
+[2022.11.15-18.11.56:033][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.15-18.11.56:033][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.15-18.11.56:125][  0]LogInit: Transaction tracking system initialized
+[2022.11.15-18.11.56:338][  0]BlueprintLog: New page: Editor Load
+[2022.11.15-18.11.56:906][  0]LocalizationService: Localization service is disabled
+[2022.11.15-18.11.57:053][  0]TimingProfiler: Initialize
+[2022.11.15-18.11.57:054][  0]TimingProfiler: OnSessionChanged
+[2022.11.15-18.11.57:054][  0]LoadingProfiler: Initialize
+[2022.11.15-18.11.57:055][  0]LoadingProfiler: OnSessionChanged
+[2022.11.15-18.11.57:056][  0]NetworkingProfiler: Initialize
+[2022.11.15-18.11.57:059][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.15-18.11.57:059][  0]MemoryProfiler: Initialize
+[2022.11.15-18.11.57:059][  0]MemoryProfiler: OnSessionChanged
+[2022.11.15-18.11.57:226][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_9'
+[2022.11.15-18.11.57:226][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_9
+[2022.11.15-18.11.59:893][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/' took 0.08s
+[2022.11.15-18.11.59:893][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.15-18.12.00:096][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.15-18.12.00:106][  0]SourceControl: Source control is disabled
+[2022.11.15-18.12.00:107][  0]LogUnrealEdMisc: Loading editor; pre map load, took 58.629
+[2022.11.15-18.12.00:109][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Map3/Sunlight_Museum_Iteration3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.15-18.12.00:110][  0]LightingResults: New page: Lighting Build
+[2022.11.15-18.12.00:130][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-18.12.00:132][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-18.12.00:133][  0]MapCheck: New page: Map Check
+[2022.11.15-18.12.00:133][  0]LightingResults: New page: Lighting Build
+[2022.11.15-18.12.00:156][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.15-18.12.00:170][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.15-18.12.29:054][  0]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Content\OurEnvironmentArt\Garden_Patio_Pieces\BottomWall\BottomWall.uasset: Failed to load '/Game/Megascans/Surfaces/Pink_Stucco_Facade_tjtmeari/MI_Pink_Stucco_Facade_tjtmeari_2K': Can't find file.
+[2022.11.15-18.12.29:055][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Pink_Stucco_Facade_tjtmeari/MI_Pink_Stucco_Facade_tjtmeari_2K'
+[2022.11.15-18.12.55:546][  0]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FPS/Effects/Meshes/Weapon/SM_MuzzleCone) ...
+[2022.11.15-18.12.56:985][  0]LogSkeletalMesh: Display: [AssetLog] D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Content\FPS\Weapons\SubmachineGun\SK_SMG.uasset: FMeshUtilities::CreateImportDataFromLODModel: ImportData created for LOD 0
+[2022.11.15-18.12.59:049][  0]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ConquestFlag) ...
+[2022.11.15-18.13.01:022][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.11.15-18.13.01:022][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.11.15-18.13.01:885][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.11.15-18.13.01:885][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.15-18.13.01:885][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-18.13.01:886][  0]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.11.15-18.13.02:558][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.11.15-18.13.02:558][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.11.15-18.13.02:561][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.11.15-18.13.02:561][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.11.15-18.13.02:564][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.11.15-18.13.02:564][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.11.15-18.13.02:661][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.15-18.13.02:803][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.11.15-18.13.02:806][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.15-18.13.02:807][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.775ms to complete.
+[2022.11.15-18.13.02:808][  0]LogFileHelpers: Loading map 'Sunlight_Museum_Iteration3' took 62.699
+[2022.11.15-18.13.02:874][  0]LogUnrealEdMisc: Total Editor Startup Time, took 121.396
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: ================================================
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.15-18.13.02:875][  0]LogShaderCompilers: Display: ================================================
+[2022.11.15-18.13.03:044][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:045][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:050][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:050][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:050][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:050][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:050][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:050][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:050][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.15-18.13.03:098][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.13.03:116][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.13.03:132][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.13.03:149][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.13.03:245][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:245][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:263][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:263][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:279][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:279][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:294][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:294][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:328][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:328][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:344][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:344][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:358][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:358][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:372][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:373][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:386][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:386][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:401][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.15-18.13.03:401][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.15-18.13.03:402][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.15-18.13.05:214][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2022.11.15-18.13.05:797][  0]LogSlate: Took 0.017882 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.15-18.13.05:820][  0]LogSlate: Took 0.016221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.15-18.13.05:850][  0]LogSlate: Took 0.015850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.15-18.13.05:864][  0]LogSlate: Took 0.010509 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.15-18.13.05:883][  0]LogSlate: Took 0.016656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.15-18.13.06:040][  0]LogViewport: Scene viewport resized to 1096x553, mode Windowed.
+[2022.11.15-18.13.06:641][  0]LogStall: Startup...
+[2022.11.15-18.13.06:645][  0]LogStall: Startup complete.
+[2022.11.15-18.13.06:709][  0]LogLoad: (Engine Initialization) Total time: 125.23 seconds
+[2022.11.15-18.13.06:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.15-18.13.07:051][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.15-18.13.07:541][  1]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 118.653778
+[2022.11.15-18.13.07:819][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/' took 0.94s
+[2022.11.15-18.13.08:262][  2]LogAssetRegistry: Asset discovery search completed in 95.8451 seconds
+[2022.11.15-18.13.08:366][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.11.15-18.13.08:533][  2]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.15-18.13.08:533][  2]LogSlate: Took 0.014017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.15-18.13.08:802][  4]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 119.733582
+[2022.11.15-18.13.08:806][  4]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.13.08:806][  4]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.11.15-18.13.08:810][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 119.916016
+[2022.11.15-18.13.09:991][  8]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.13.10:655][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 121.433632
+[2022.11.15-18.13.10:660][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.11.15-18.13.10:660][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 121.433632, Update Interval: 357.980286
+[2022.11.15-18.13.42:962][106]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:24.350 and deleted 452 file(s) with total size 142 MiB.
+[2022.11.15-18.14.31:856][732]LogViewport: Scene viewport resized to 1096x555, mode Windowed.
+[2022.11.15-18.14.31:994][734]LogViewport: Scene viewport resized to 1096x629, mode Windowed.
+[2022.11.15-18.14.32:146][736]LogViewport: Scene viewport resized to 1096x718, mode Windowed.
+[2022.11.15-18.14.32:270][738]LogViewport: Scene viewport resized to 1096x778, mode Windowed.
+[2022.11.15-18.14.34:677][851]LogViewport: Scene viewport resized to 1096x766, mode Windowed.
+[2022.11.15-18.14.34:818][853]LogViewport: Scene viewport resized to 1096x595, mode Windowed.
+[2022.11.15-18.14.34:913][855]LogViewport: Scene viewport resized to 1096x535, mode Windowed.
+[2022.11.15-18.14.34:990][857]LogViewport: Scene viewport resized to 1096x521, mode Windowed.
+[2022.11.15-18.14.48:947][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon.BP_Scorpion_Weapon
+[2022.11.15-18.14.48:949][557]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-18.14.54:200][557]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2022.11.15-18.14.54:200][557]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049535s
+[2022.11.15-18.14.58:247][557]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.004979s (4.122640s overbudget)
+[2022.11.15-18.14.58:313][557]LogSlate: Took 0.011585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.15-18.15.00:765][679]LogTurnkeySupport: Display: Adding device menu item for GAMEDEVBATTLEST
+[2022.11.15-18.15.00:765][679]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -Device=Win64@GAMEDEVBATTLEST'
+[2022.11.15-18.15.00:765][679]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_1.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_1.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -Device=Win64@GAMEDEVBATTLEST" -nocompile ]
+[2022.11.15-18.15.03:064][752]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.15-18.15.03:064][752]LogTurnkeySupport: Turnkey Device: Win64@GAMEDEVBATTLEST: (Name=GAMEDEVBATTLEST, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.11.15-18.15.39:189][859]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.15-18.15.39:211][859]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.15-18.15.39:211][859]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Nov 15, 2022, 8:15:39 AM)
+[2022.11.15-18.15.39:214][859]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-11-15T18:15:39.214Z
+[2022.11.15-18.15.39:214][859]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.11.15-18.15.39:214][859]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.15.39:216][859]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.11.15-18.15.39:217][859]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.11.15-18.15.39:224][859]LogOnline: OSS: Created online subsystem instance for: EOS
+[2022.11.15-18.15.39:224][859]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+[2022.11.15-18.15.39:225][859]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.11.15-18.15.39:661][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.436638s)
+[2022.11.15-18.15.39:661][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.437220s)
+[2022.11.15-18.15.39:661][859]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.15-18.15.39:661][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-18.15.39:662][859]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.11.15-18.15.39:663][859]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2022.11.15-18.15.39:765][859]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.11.15-18.15.39:767][859]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.15-18.15.39:767][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.15-18.15.39:767][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.15-18.15.39:767][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.15-18.15.39:767][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.15-18.15.39:767][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.15-18.15.39:767][859]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.15-18.15.39:767][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.15-18.15.39:767][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.15-18.15.39:768][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.15-18.15.39:769][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.15-18.15.39:769][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.15-18.15.39:773][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.15-18.15.39:835][859]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3 X)
+[2022.11.15-18.15.39:836][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.15-18.15.39:836][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.15-18.15.39:836][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.15-18.15.39:837][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.11.15-18.15.39:837][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.11.15-18.15.39:842][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.11.15-18.15.39:842][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.11.15-18.15.39:842][859]LogInit: FAudioDevice initialized.
+[2022.11.15-18.15.39:842][859]LogAudio: Display: Audio Device (ID: 2) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.11.15-18.15.39:888][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.15.39:889][859]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.11.15-18.15.40:159][859]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.11.15-13.15.40
+[2022.11.15-18.15.40:161][859]LogWorld: Bringing up level for play took: 0.272636
+[2022.11.15-18.15.40:163][859]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-11-15T18:15:40.163Z
+[2022.11.15-18.15.40:163][859]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.11.15-18.15.40:163][859]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.15.40:165][859]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.11.15-18.15.40:166][859]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.11.15-18.15.40:173][859]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.11.15-18.15.40:187][859]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.15-18.15.40:188][859]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.15-18.15.40:205][859]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2022.11.15-18.15.40:206][859]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2022.11.15-18.15.40:206][859]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2022.11.15-18.15.40:207][859]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2022.11.15-18.15.40:207][859]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.11.15-18.15.40:208][859]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2022.11.15-18.15.40:208][859]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.15-18.15.40:227][859]Cmd: DisableAllScreenMessages
+[2022.11.15-18.15.40:229][859]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.11.15-18.15.40:229][859]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.11.15-18.15.40:231][859]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.15-18.15.40:235][859]PIE: Server logged in
+[2022.11.15-18.15.40:238][859]PIE: Play in editor total start time 1.029 seconds.
+[2022.11.15-18.15.40:239][859]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.15-18.15.40:239][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-18.15.40:240][859]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2022.11.15-18.15.40:241][859]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.15-18.15.40:241][859]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.15-18.15.40:241][859]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.15-18.15.40:241][859]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.15-18.15.40:241][859]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.15-18.15.40:241][859]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.15-18.15.40:241][859]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.15-18.15.40:241][859]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.15-18.15.40:241][859]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.15-18.15.40:242][859]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.15-18.15.40:242][859]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.15-18.15.40:242][859]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.15-18.15.40:246][859]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.15-18.15.40:298][859]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3 X)
+[2022.11.15-18.15.40:299][859]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.15-18.15.40:299][859]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.15-18.15.40:299][859]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.15-18.15.40:301][859]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.11.15-18.15.40:301][859]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.11.15-18.15.40:305][859]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.11.15-18.15.40:305][859]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.11.15-18.15.40:305][859]LogInit: FAudioDevice initialized.
+[2022.11.15-18.15.40:305][859]LogAudio: Display: Audio Device (ID: 3) registered with world 'Untitled'.
+[2022.11.15-18.15.40:343][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.15.40:344][859]LogNet: Browse: 127.0.0.1:17777/Game/FB_UI/Maps/NewMainMenu
+[2022.11.15-18.15.40:345][859]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2022.11.15-18.15.40:345][859]LogNet: Created socket for bind address: 0.0.0.0 on port 0
+[2022.11.15-18.15.40:346][859]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.11.15-18.15.40:346][859]LogNet: Game client on port 17777, rate 500000
+[2022.11.15-18.15.40:350][859]PIE: Client logged in
+[2022.11.15-18.15.40:354][859]PIE: Play in editor total start time 1.146 seconds.
+[2022.11.15-18.15.40:471][859]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2022.11.15-18.15.40:817][859]LogViewport: Scene viewport resized to 640x480, mode Windowed.
+[2022.11.15-18.15.41:070][860]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 1.853162
+[2022.11.15-18.15.41:070][860]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.903958
+[2022.11.15-18.15.42:812][861]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52761
+[2022.11.15-18.15.42:812][861]LogHandshake: SendConnectChallenge. Timestamp: 3.955520, Cookie: 203044213192080135104101228055201018178113176082243025011211
+[2022.11.15-18.15.42:824][861]LogHandshake: SendChallengeResponse. Timestamp: 3.955520, Cookie: 203044213192080135104101228055201018178113176082243025011211
+[2022.11.15-18.15.42:868][862]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52761
+[2022.11.15-18.15.42:868][862]LogHandshake: SendChallengeAck. InCookie: 203044213192080135104101228055201018178113176082243025011211
+[2022.11.15-18.15.42:868][862]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52761
+[2022.11.15-18.15.42:869][862]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2022.11.15-18.15.42:871][862]LogNet: NotifyAcceptedConnection: Name: Sunlight_Museum_Iteration3, TimeStamp: 11/15/22 13:15:42, [UNetConnection] RemoteAddr: 127.0.0.1:52761, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.11.15-18.15.42:871][862]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52761, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.11.15-18.15.42:877][862]LogNetVersion: Multiplayer_Flutterbeam 4.1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 269414161)
+[2022.11.15-18.15.42:877][862]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2022.11.15-18.15.42:910][863]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3: Accepted
+[2022.11.15-18.15.42:910][863]LogNet: Remote platform little endian=1
+[2022.11.15-18.15.42:910][863]LogNet: This platform little endian=1
+[2022.11.15-18.15.42:917][863]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-11-15T18:15:42.916Z
+[2022.11.15-18.15.42:917][863]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.11.15-18.15.42:917][863]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.15.42:922][863]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.11.15-18.15.42:922][863]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.11.15-18.15.42:930][863]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.11.15-18.15.42:958][864]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 3.687417
+[2022.11.15-18.15.42:962][864]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.11.15-18.15.42:966][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3.741502
+[2022.11.15-18.15.42:966][864]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 2.738977
+[2022.11.15-18.15.42:969][864]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.11.15-18.15.42:972][864]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2.799717
+[2022.11.15-18.15.42:972][864]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.049326
+[2022.11.15-18.15.42:984][864]LogNet: Login request:  userId: UNKNOWN platform: EOS
+[2022.11.15-18.15.42:993][864]LogNet: Welcomed by server (Level: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3, Game: /Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C)
+[2022.11.15-18.15.42:994][864]LogLoad: LoadMap: 127.0.0.1:17777/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3?game=/Game/FPS/Blueprints/GameModes/Conquest/BP_Conquest_GM.BP_Conquest_GM_C
+[2022.11.15-18.15.42:994][864]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2022.11.15-18.15.42:994][864]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-18.15.42:994][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-18.15.43:121][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.15-18.15.43:238][864]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
+[2022.11.15-18.15.43:839][864]LogAudio: Display: Audio Device (ID: 3) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.11.15-18.15.43:839][864]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.15-18.15.43:839][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-18.15.43:841][864]LogPlayLevel: PIE: World Init took: (0.002591s)
+[2022.11.15-18.15.44:060][864]LogWorld: Bringing World /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.11.15-13.15.44
+[2022.11.15-18.15.44:062][864]LogWorld: Bringing up level for play took: 0.216610
+[2022.11.15-18.15.44:062][864]LogLoad: Took 1.068372 seconds to LoadMap(/Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3)
+[2022.11.15-18.15.44:132][865]LogNet: Client netspeed is 100000
+[2022.11.15-18.15.44:132][865]LogNet: Join request: /Game/FB_UI/Maps/NewMainMenu?SplitscreenCount=1
+[2022.11.15-18.15.44:137][865]LogNet: Join succeeded: 257
+[2022.11.15-18.15.44:158][865]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.15-18.15.44:158][865]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.15-18.15.44:573][867]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 1.538422
+[2022.11.15-18.15.44:577][867]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.11.15-18.15.44:580][867]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1.650061
+[2022.11.15-18.15.44:644][868]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.15.44:645][868]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.15.44:779][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.502590
+[2022.11.15-18.15.44:787][870]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.11.15-18.15.44:787][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.502590, Update Interval: 350.053406
+[2022.11.15-18.15.44:788][870]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 4.554420
+[2022.11.15-18.15.44:796][870]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.11.15-18.15.44:796][870]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4.554420, Update Interval: 302.752167
+[2022.11.15-18.15.44:830][870]Cmd: DisableAllScreenMessages
+[2022.11.15-18.15.44:830][870]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.11.15-18.15.44:831][870]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.11.15-18.15.44:944][872]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-18.15.45:068][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 2.081692
+[2022.11.15-18.15.45:077][874]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.11.15-18.15.45:077][874]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2.081692, Update Interval: 355.482666
+[2022.11.15-18.15.50:688][916]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.15-18.15.50:689][916]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.15-18.15.52:770][935]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.15-18.15.52:770][935]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.15-18.15.53:048][939]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_0.ParticleSystemComponent_0 NOT Supported.
+[2022.11.15-18.15.56:719][996]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.15-18.15.56:719][996]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.15-18.16.27:422][534]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_0.ParticleSystemComponent_1 NOT Supported.
+[2022.11.15-18.16.27:771][540]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_0.ParticleSystemComponent_2 NOT Supported.
+[2022.11.15-18.16.29:989][573]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.11.15-18.16.30:012][573]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: ParticleSystemComponent /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.BP_AssaultRifle_Weapon_C_1.ParticleSystemComponent_0 NOT Supported.
+[2022.11.15-18.16.37:001][698]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.15-18.16.37:001][698]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.11.15-18.16.43:066][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.16.43:066][814]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_1_Sunlight_Museum_Iteration3
+[2022.11.15-18.16.43:068][814]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Client 1]  (64-bit/SM5)' being destroyed
+[2022.11.15-18.16.43:076][814]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.11.15-18.16.43:076][814]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-18.16.43:095][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-18.16.43:113][814]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2022.11.15-18.16.43:113][814]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2022.11.15-18.16.43:115][814]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID, Channels: 101, Time: 2022.11.15-18.16.43
+[2022.11.15-18.16.43:115][814]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_BasePlayerController_C_0, Owner: BP_BasePlayerController_C_0, UniqueId: INVALID
+[2022.11.15-18.16.43:115][814]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2022.11.15-18.16.43:116][814]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.11.15-18.16.43:117][814]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.11.15-18.16.43:118][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-18.16.43:118][814]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Server]  (64-bit/SM5)' being destroyed
+[2022.11.15-18.16.43:155][814]LogScript: Warning: Script Msg: DestroySession - Cannot map local player to unique net ID
+[2022.11.15-18.16.43:155][814]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.11.15-18.16.43:156][814]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-18.16.43:180][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-18.16.43:197][814]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2022.11.15-18.16.43:197][814]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2022.11.15-18.16.43:198][814]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:52761, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.11.15-18.16.43:198][814]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52761, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID, Channels: 101, Time: 2022.11.15-18.16.43
+[2022.11.15-18.16.43:198][814]LogNet: UNetConnection::Close: CloseReason:
+[2022.11.15-18.16.43:198][814]LogNet:  - Result=Cleanup, ErrorContext="Cleanup"
+[2022.11.15-18.16.43:198][814]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52761, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_BasePlayerController_C_1, Owner: BP_BasePlayerController_C_1, UniqueId: INVALID
+[2022.11.15-18.16.43:199][814]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2022.11.15-18.16.43:200][814]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.15-18.16.43:224][814]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-18.16.43:360][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.15-18.16.43:365][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.11.15-18.16.43:376][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.15-18.16.43:380][814]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.11.15-18.16.43:521][814]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2022.11.15-18.16.43:596][815]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.11.15-18.16.43:596][815]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.11.15-18.18.08:776][444]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Meshes/BP_HealthPickup.BP_HealthPickup
+[2022.11.15-18.18.08:776][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-18.18.59:997][271]LogViewport: Scene viewport resized to 1141x566, mode Windowed.
+[2022.11.15-18.21.35:205][787]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 355.987915
+[2022.11.15-18.21.36:205][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-18.21.36:205][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 356.654449, Update Interval: 340.364990
+[2022.11.15-18.24.11:125][626]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2022.11.15-18.24.11:129][626]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_Iteration3' took 0.118
+[2022.11.15-18.24.11:130][626]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Meshes/BP_HealthPickup] ([2] browsable assets)...
+[2022.11.15-18.24.11:199][626]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Meshes/BP_HealthPickup.BP_HealthPickup]
+[2022.11.15-18.24.11:199][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/BP_HealthPickup]
+[2022.11.15-18.24.11:227][626]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.026974 seconds
+[2022.11.15-18.24.11:263][626]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Meshes/BP_HealthPickup_Auto1
+[2022.11.15-18.24.11:264][626]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_HealthPickup_Auto1809C0308464CF51B8E64A0B810E65BB4.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/Meshes/BP_HealthPickup_Auto1.uasset'
+[2022.11.15-18.24.11:266][626]LogFileHelpers: Auto-saving content packages took 0.137
+[2022.11.15-18.27.18:988][491]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 699.769836
+[2022.11.15-18.27.19:266][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-18.27.19:266][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 700.033630, Update Interval: 340.511475
+[2022.11.15-18.33.04:551][519]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1045.330200
+[2022.11.15-18.33.04:848][536]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-18.33.04:849][536]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1045.612915, Update Interval: 359.747314
+[2022.11.15-18.39.16:110][100]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1416.890259
+[2022.11.15-18.39.16:438][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-18.39.16:438][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1417.203613, Update Interval: 350.300598
+[2022.11.15-18.45.34:665][ 63]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1795.445190
+[2022.11.15-18.45.35:001][ 83]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-18.45.35:001][ 83]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1795.757080, Update Interval: 327.726685
+[2022.11.15-18.51.39:602][971]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2160.365723
+[2022.11.15-18.51.39:906][990]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-18.51.39:907][990]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2160.656738, Update Interval: 316.492798
+[2022.11.15-18.57.50:923][503]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2531.701172
+[2022.11.15-18.57.51:042][510]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-18.57.51:042][510]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2531.795654, Update Interval: 351.908325
+[2022.11.15-19.04.36:059][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2936.823486
+[2022.11.15-19.04.36:175][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.04.36:175][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2936.915771, Update Interval: 303.079926
+[2022.11.15-19.04.50:889][969]LogTurnkeySupport: Display: Adding device menu item for GAMEDEVBATTLEST
+[2022.11.15-19.04.56:946][265]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.15-19.04.56:966][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.15-19.04.56:966][265]PIE: New page: PIE session: Sunlight_Museum_Iteration3 (Nov 15, 2022, 9:04:56 AM)
+[2022.11.15-19.04.56:966][265]LogPlayLevel: Creating play world package: /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.11.15-19.04.57:385][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.417994s)
+[2022.11.15-19.04.57:385][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 to /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 (0.418246s)
+[2022.11.15-19.04.57:385][265]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.15-19.04.57:385][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.04.57:387][265]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.11.15-19.04.57:388][265]LogPlayLevel: PIE: World Init took: (0.003554s)
+[2022.11.15-19.04.57:508][265]LogUObjectHash: Compacting FUObjectHashTables data took   9.77ms
+[2022.11.15-19.04.57:511][265]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.15-19.04.57:511][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.15-19.04.57:511][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.15-19.04.57:511][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.15-19.04.57:511][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.15-19.04.57:511][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.15-19.04.57:511][265]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.15-19.04.57:511][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.15-19.04.57:511][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.15-19.04.57:512][265]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.15-19.04.57:512][265]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.15-19.04.57:512][265]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.15-19.04.57:517][265]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.15-19.04.57:583][265]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3 X)
+[2022.11.15-19.04.57:584][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.15-19.04.57:584][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.15-19.04.57:584][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.15-19.04.57:586][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.15-19.04.57:586][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.15-19.04.57:589][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.15-19.04.57:589][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.15-19.04.57:589][265]LogInit: FAudioDevice initialized.
+[2022.11.15-19.04.57:589][265]LogAudio: Display: Audio Device (ID: 4) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.11.15-19.04.57:630][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-19.04.57:631][265]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.11.15-19.04.57:903][265]LogWorld: Bringing World /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3 up for play (max tick rate 0) at 2022.11.15-14.04.57
+[2022.11.15-19.04.57:906][265]LogWorld: Bringing up level for play took: 0.274296
+[2022.11.15-19.04.57:907][265]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-11-15T19:04:57.907Z
+[2022.11.15-19.04.57:907][265]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+[2022.11.15-19.04.57:907][265]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-19.04.57:910][265]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2022.11.15-19.04.57:910][265]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2022.11.15-19.04.57:917][265]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.11.15-19.04.57:925][265]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.15-19.04.57:925][265]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.15-19.04.57:925][265]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.15-19.04.57:937][265]Cmd: DisableAllScreenMessages
+[2022.11.15-19.04.57:938][265]LogEngine: Onscreen warnings/messages are now DISABLED
+[2022.11.15-19.04.57:938][265]LogStreaming: Warning: Failed to read file 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/SaveGames/Slot_01.sav' error.
+[2022.11.15-19.04.57:939][265]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.15-19.04.57:943][265]PIE: Server logged in
+[2022.11.15-19.04.57:945][265]PIE: Play in editor total start time 0.981 seconds.
+[2022.11.15-19.04.58:018][265]LogViewport: Scene viewport resized to 1914x1040, mode Windowed.
+[2022.11.15-19.04.58:351][266]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.440045
+[2022.11.15-19.04.58:553][270]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 0.613395
+[2022.11.15-19.04.58:556][270]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.11.15-19.04.58:560][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 0.641457
+[2022.11.15-19.04.58:787][278]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.15-19.04.58:914][283]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 0.979797
+[2022.11.15-19.04.58:920][283]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.11.15-19.04.58:920][283]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 0.979797, Update Interval: 332.906891
+[2022.11.15-19.05.02:968][437]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.15-19.05.02:969][437]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.15-19.05.02:995][437]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.15-19.05.02:995][437]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.11.15-19.06.18:595][146]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.11.15-19.06.18:596][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-19.06.18:597][146]LogWorld: BeginTearingDown for /Game/Map3/UEDPIE_0_Sunlight_Museum_Iteration3
+[2022.11.15-19.06.18:601][146]LogSlate: Window 'Multiplayer_Flutterbeam Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.15-19.06.18:619][146]LogSpawn: Warning: SpawnActor failed because we are in the process of tearing down the world
+[2022.11.15-19.06.18:619][146]LogWorld: UWorld::CleanupWorld for Sunlight_Museum_Iteration3, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.06.18:639][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.06.18:658][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.15-19.06.18:679][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.06.18:785][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.15-19.06.18:805][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.15-19.06.18:808][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.15-19.06.18:867][146]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2022.11.15-19.06.18:934][147]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.11.15-19.06.20:610][243]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.06.20:610][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.06.21:431][267]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.15-19.06.21:432][267]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.06.21:432][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.10.16:268][128]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/CZScorpion.fbx)
+[2022.11.15-19.10.16:323][128]LogFbx: Loading FBX Scene from D:/Unreal Projects/Flutterbeam Meshes/CZScorpion.fbx
+[2022.11.15-19.10.16:403][128]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.15-19.10.21:787][128]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.15-19.10.21:850][128]LogFbx: Display: Triangulating static mesh MagazineCatch_low
+[2022.11.15-19.10.21:884][128]LogFbx: Display: Triangulating static mesh ReceiverTriggerUnit_low
+[2022.11.15-19.10.23:090][128]LogFbx: Display: Triangulating static mesh CockingHandle_low
+[2022.11.15-19.10.23:146][128]LogStaticMesh: Display: Building static mesh CZScorpion...
+[2022.11.15-19.10.24:025][128]LogStaticMesh: Built static mesh [0.88s] /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+[2022.11.15-19.10.24:248][128]LogStaticMesh: Display: Building static mesh CZScorpion...
+[2022.11.15-19.10.24:248][128]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FPS/Weapons/Scorpion/CZScorpion) ...
+[2022.11.15-19.10.25:209][128]LogStaticMesh: Built static mesh [0.89s] /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+[2022.11.15-19.10.28:127][222]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+[2022.11.15-19.10.28:188][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.10.29:215][222]LogViewport: Scene viewport resized to 534x54, mode Windowed.
+[2022.11.15-19.10.29:594][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2022.11.15-19.10.29:600][223]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_Iteration3' took 0.155
+[2022.11.15-19.10.29:601][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Weapons/Scorpion/CZScorpion] ([1] browsable assets)...
+[2022.11.15-19.10.29:615][223]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion]
+[2022.11.15-19.10.29:615][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/CZScorpion]
+[2022.11.15-19.10.29:737][223]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/CZScorpion_Auto2
+[2022.11.15-19.10.29:737][223]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/CZScorpion_Auto299D3A069461A92035E0F1A92E297353E.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/CZScorpion_Auto2.uasset'
+[2022.11.15-19.10.29:738][223]LogFileHelpers: Auto-saving content packages took 0.138
+[2022.11.15-19.10.31:130][254]LogViewport: Scene viewport resized to 1405x942, mode Windowed.
+[2022.11.15-19.10.31:672][290]LogSlate: Window 'CZScorpion' being destroyed
+[2022.11.15-19.10.33:209][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3293.973145
+[2022.11.15-19.10.33:304][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.10.33:304][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3294.056152, Update Interval: 315.461884
+[2022.11.15-19.10.49:782][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon.BP_Scorpion_Weapon
+[2022.11.15-19.10.49:784][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.10.52:643][146]LogViewport: Scene viewport resized to 1426x908, mode Windowed.
+[2022.11.15-19.11.13:809][292]LogSlate: Window 'Bridge' being destroyed
+[2022.11.15-19.11.13:814][292]LogSlate: Window 'Multiplayer_Flutterbeam - Unreal Editor' being destroyed
+[2022.11.15-19.11.14:032][292]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.11.14:032][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.11.14:092][292]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.11.14:092][292]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2022.11.15-19.11.14:239][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2022.11.15-19.11.14:241][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2022.11.15-19.11.14:242][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2022.11.15-19.11.14:243][292]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2022.11.15-19.11.14:243][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.11.15-19.11.14:243][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.11.15-19.11.14:243][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.11.15-19.11.14:243][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2022.11.15-19.11.14:244][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2022.11.15-19.11.14:244][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2022.11.15-19.11.14:244][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2022.11.15-19.11.14:244][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2022.11.15-19.11.14:244][292]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2022.11.15-19.11.14:286][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-19.11.14:308][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-19.11.14:332][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-19.11.14:350][292]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.15-19.11.14:411][292]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2022.11.15-19.11.14:439][292]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2022.11.15-19.11.14:717][292]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon.BP_Scorpion_Weapon) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.15-19.11.14:717][292]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon.BP_Scorpion_Weapon
+[2022.11.15-19.11.14:718][292]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.11.23:647][698]LogViewport: Scene viewport resized to 1141x917, mode Windowed.
+[2022.11.15-19.11.24:824][748]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.15-19.11.29:529][ 11]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.15-19.11.34:671][295]LogSlate: Took 0.000629 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.15-19.11.50:614][172]LogStatusBar: Looking status bar with open content browser drawer...
+[2022.11.15-19.11.50:614][172]LogStatusBar: StatusBar: BlueprintEditorApp_4 was content browser was not opened
+[2022.11.15-19.11.50:614][172]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2022.11.15-19.11.50:667][172]LogViewport: Scene viewport resized to 1526x611, mode Windowed.
+[2022.11.15-19.11.57:009][480]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.11.15-19.11.57:009][480]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.11.15-19.12.06:411][975]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED
+[2022.11.15-19.12.06:476][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.12.06:492][975]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.12.08:710][975]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.11.15-19.12.45:196][952]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+[2022.11.15-19.12.45:244][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.12.46:152][952]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2022.11.15-19.13.38:973][331]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:20.296 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.15-19.16.21:684][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3642.438721
+[2022.11.15-19.16.22:684][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.16.22:684][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3643.104980, Update Interval: 326.322205
+[2022.11.15-19.22.36:090][936]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4016.846924
+[2022.11.15-19.22.37:425][940]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.22.37:426][940]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4017.850098, Update Interval: 319.638672
+[2022.11.15-19.28.54:097][ 66]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4394.848145
+[2022.11.15-19.28.55:096][ 69]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.28.55:097][ 69]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4395.514648, Update Interval: 341.721863
+[2022.11.15-19.35.09:527][188]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4770.281250
+[2022.11.15-19.35.10:539][191]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.35.10:539][191]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4770.960449, Update Interval: 339.517212
+[2022.11.15-19.40.21:203][193]LogUObjectHash: Compacting FUObjectHashTables data took   7.51ms
+[2022.11.15-19.40.22:477][193]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.15-19.40.22:631][193]LogSlate: Window 'CZScorpion' being destroyed
+[2022.11.15-19.40.22:728][193]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.40.22:728][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.40.22:778][193]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+	Asset Type: StaticMesh
+[2022.11.15-19.40.24:938][193]LogUObjectHash: Compacting FUObjectHashTables data took   5.76ms
+[2022.11.15-19.40.25:064][193]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2022.11.15-19.40.25:160][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.11.15-19.40.30:964][353]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.30:964][353]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.34:374][540]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.34:374][540]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.36:038][630]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.36:038][630]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.41:137][967]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.41:137][967]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.44:202][168]LogUObjectGlobals: Reloading 1 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Skeleton
+[2022.11.15-19.40.44:458][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2022.11.15-19.40.50:431][168]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.15-19.40.50:655][168]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2022.11.15-19.40.55:065][288]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.55:065][288]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.56:598][368]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.40.56:598][368]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.15-19.41.00:471][565]LogUObjectGlobals: Reloading 3 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Skeleton
+	Asset Name: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_PhysicsAsset
+	Asset Name: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED
+[2022.11.15-19.41.00:609][565]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2022.11.15-19.41.06:419][565]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.15-19.41.06:491][565]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.15-19.41.06:627][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.11.15-19.41.06:935][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.DirectionalLightComponent_83) Not registered. Aborting.
+[2022.11.15-19.41.06:935][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.SkyLightComponent_31) Not registered. Aborting.
+[2022.11.15-19.41.06:936][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.LineBatchComponent_142) Not registered. Aborting.
+[2022.11.15-19.41.06:936][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_56) Not registered. Aborting.
+[2022.11.15-19.41.06:936][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.PostProcessComponent_1) Not registered. Aborting.
+[2022.11.15-19.41.06:936][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.StaticMeshComponent_57) Not registered. Aborting.
+[2022.11.15-19.41.06:936][565]LogActorComponent: UnregisterComponent: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Not registered. Aborting.
+[2022.11.15-19.41.06:936][565]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.41.06:936][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.41.07:064][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2022.11.15-19.41.12:705][565]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2022.11.15-19.41.12:707][565]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED
+[2022.11.15-19.41.12:722][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.41.12:735][565]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.41.13:791][565]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.11.15-19.41.40:589][348]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5161.346680
+[2022.11.15-19.41.40:877][365]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.41.40:877][365]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5161.621582, Update Interval: 302.147888
+[2022.11.15-19.41.44:179][557]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.41.44:179][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.41.46:963][667]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Skeleton.ScorpionRIGGED_Skeleton
+[2022.11.15-19.41.46:977][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.41.46:993][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.41.47:437][667]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.41.47:634][667]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.11.15-19.41.55:247][125]LogSlate: Window 'Select folder to import to' being destroyed
+[2022.11.15-19.42.26:608][ 59]Cmd: TRANSACTION UNDO
+[2022.11.15-19.42.26:616][ 59]LogEditorTransaction: Undo Translate Bone
+[2022.11.15-19.42.26:648][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.42.43:095][922]Cmd: TRANSACTION UNDO
+[2022.11.15-19.42.43:095][922]LogEditorTransaction: Undo Rotate Bone
+[2022.11.15-19.42.43:125][922]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.42.45:918][ 48]Cmd: TRANSACTION UNDO
+[2022.11.15-19.42.45:918][ 48]LogEditorTransaction: Undo Rotate Bone
+[2022.11.15-19.42.45:949][ 48]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.42.55:682][585]Cmd: TRANSACTION UNDO
+[2022.11.15-19.42.55:682][585]LogEditorTransaction: Undo Rotate Bone
+[2022.11.15-19.42.55:714][585]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.43.03:461][980]Cmd: TRANSACTION UNDO
+[2022.11.15-19.43.03:462][980]LogEditorTransaction: Undo Rotate Bone
+[2022.11.15-19.43.03:492][980]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.43.22:366][ 37]Cmd: TRANSACTION UNDO
+[2022.11.15-19.43.22:366][ 37]LogEditorTransaction: Undo Translate Bone
+[2022.11.15-19.43.22:403][ 37]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.43.32:309][546]Cmd: TRANSACTION UNDO
+[2022.11.15-19.43.32:309][546]LogEditorTransaction: Undo Rotate Bone
+[2022.11.15-19.43.32:340][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.43.36:651][819]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.43.36:651][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.43.36:813][819]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.43.36:813][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.43.50:614][259]LogSlate: Window 'Message' being destroyed
+[2022.11.15-19.43.50:628][259]Message dialog closed, result: YesAll, title: Message, text: Do you want to overwrite the existing asset?
+
+An asset already exists at the import location: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED
+[2022.11.15-19.43.50:632][259]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx)
+[2022.11.15-19.43.50:644][259]LogEditorFactories: Performing atomic reimport of [D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx]
+[2022.11.15-19.43.50:671][259]LogFbx: Loading FBX Scene from D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx
+[2022.11.15-19.43.50:726][259]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.15-19.43.50:730][259]LogFbx: Valid bind pose for Pose (Mesh.001) - ReceiverTriggerUnit_low
+[2022.11.15-19.43.50:736][259]LogFbx: Triangulating skeletal mesh ReceiverTriggerUnit_low
+[2022.11.15-19.43.51:750][259]LogFbx: Warning: Bones digested - 9  Depth of hierarchy - 3
+[2022.11.15-19.43.53:404][259]LogSkeletalMesh: Section 0: Material=0, 17554 triangles
+[2022.11.15-19.43.53:411][259]LogEditorFactories: -- imported successfully
+[2022.11.15-19.43.53:431][259]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED...
+[2022.11.15-19.43.53:431][259]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.15-19.43.55:036][259]LogSkeletalMesh: Built Skeletal Mesh [1.62s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED
+[2022.11.15-19.43.55:036][259]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Base_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Base_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.15-19.43.55:037][259]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.15-19.43.55:037][259]FBXImport: Warning: The following bones are missing from the bind pose:
+Magazine_end  
+CockingHandle_end  
+Trigger_end  
+MagRelease_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2022.11.15-19.43.55:060][259]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.15-19.43.55:142][259]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.15-19.44.02:183][578]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Skeleton.ScorpionRIGGED_Skeleton
+[2022.11.15-19.44.02:197][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.44.02:219][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.44.02:643][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.44.02:827][578]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.11.15-19.44.13:442][367]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.44.13:442][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.44.13:581][367]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.11.15-19.44.13:581][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.15-19.44.16:905][506]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED
+[2022.11.15-19.44.16:919][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.44.16:952][506]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.15-19.44.17:612][506]LogViewport: Scene viewport resized to 1141x906, mode Windowed.
+[2022.11.15-19.47.18:666][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5499.462891
+[2022.11.15-19.47.19:678][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.15-19.47.19:678][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5500.138184, Update Interval: 325.732605
+[2022.11.15-19.49.20:981][104]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/CZScorpion.fbx)
+[2022.11.15-19.49.21:009][104]LogFbx: Loading FBX Scene from D:/Unreal Projects/Flutterbeam Meshes/Scorpion/CZScorpion.fbx
+[2022.11.15-19.49.21:087][104]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.15-19.49.23:337][104]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.15-19.49.23:379][104]LogFbx: Display: Triangulating static mesh MagazineCatch_low
+[2022.11.15-19.49.23:403][104]LogFbx: Display: Triangulating static mesh ReceiverTriggerUnit_low
+[2022.11.15-19.49.24:685][104]LogFbx: Display: Triangulating static mesh CockingHandle_low
+[2022.11.15-19.49.24:742][104]LogStaticMesh: Display: Building static mesh CZScorpion...
+[2022.11.15-19.49.25:610][104]LogStaticMesh: Built static mesh [0.87s] /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+[2022.11.15-19.49.25:840][104]LogStaticMesh: Display: Building static mesh CZScorpion...
+[2022.11.15-19.49.25:840][104]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FPS/Weapons/Scorpion/CZScorpion) ...
+[2022.11.15-19.49.26:784][104]LogStaticMesh: Built static mesh [0.87s] /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+[2022.11.15-19.49.28:551][174]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+[2022.11.15-19.49.28:617][174]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.49.29:543][174]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2022.11.15-19.49.38:445][443]LogViewport: Scene viewport resized to 1214x795, mode Windowed.
+[2022.11.15-19.49.38:602][445]LogViewport: Scene viewport resized to 1405x942, mode Windowed.
+[2022.11.15-19.49.38:783][456]LogSlate: Window 'CZScorpion' being destroyed
+[2022.11.15-19.49.42:763][686]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.11.15-19.49.42:781][686]LogContentBrowser: Creating deferred item: NewFolder
+[2022.11.15-19.49.42:808][687]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.11.15-19.49.45:501][784]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2022.11.15-19.49.45:502][784]LogContentBrowser: End creating deferred item NewFolder
+[2022.11.15-19.49.54:265][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Base_BaseColor.png)
+[2022.11.15-19.49.55:353][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Base_Emissive.png)
+[2022.11.15-19.49.56:025][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_BaseColor.Scorpion_low_Base_BaseColor (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.49.56:119][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_Emissive.Scorpion_low_Base_Emissive (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.49.56:119][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Base_Normal.png)
+[2022.11.15-19.49.57:777][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_Normal.Scorpion_low_Base_Normal (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.49.57:876][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Base_OcclusionRoughnessMetallic.png)
+[2022.11.15-19.49.59:260][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_OcclusionRoughnessMetallic.Scorpion_low_Base_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.49.59:260][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Iron Sights_BaseColor.png)
+[2022.11.15-19.49.59:609][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Iron_Sights_BaseColor.Scorpion_low_Iron_Sights_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.49.59:609][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Iron Sights_Emissive.png)
+[2022.11.15-19.49.59:817][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Iron_Sights_Emissive.Scorpion_low_Iron_Sights_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.49.59:817][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Iron Sights_Normal.png)
+[2022.11.15-19.50.00:176][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Iron Sights_OcclusionRoughnessMetallic.png)
+[2022.11.15-19.50.00:438][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Iron_Sights_Normal.Scorpion_low_Iron_Sights_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.00:523][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Magazine_BaseColor.png)
+[2022.11.15-19.50.00:837][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic.Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.00:871][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Magazine_Emissive.png)
+[2022.11.15-19.50.01:055][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Magazine_BaseColor.Scorpion_low_Magazine_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.01:118][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Magazine_Emissive.Scorpion_low_Magazine_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.01:118][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Magazine_Normal.png)
+[2022.11.15-19.50.01:720][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Magazine_Normal.Scorpion_low_Magazine_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.01:721][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Magazine_OcclusionRoughnessMetallic.png)
+[2022.11.15-19.50.02:095][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Magazine_OcclusionRoughnessMetallic.Scorpion_low_Magazine_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.02:124][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Stock_BaseColor.png)
+[2022.11.15-19.50.02:517][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_BaseColor.Scorpion_low_Stock_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.02:517][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Stock_Emissive.png)
+[2022.11.15-19.50.02:732][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Stock_Normal.png)
+[2022.11.15-19.50.03:026][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_Emissive.Scorpion_low_Stock_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.03:056][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_Normal.Scorpion_low_Stock_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.03:097][894]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/Scorpion/Textures/Scorpion_low_Stock_OcclusionRoughnessMetallic.png)
+[2022.11.15-19.50.03:479][894]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_OcclusionRoughnessMetallic.Scorpion_low_Stock_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.15-19.50.06:711][988]LogViewport: Scene viewport resized to 1526x606, mode Windowed.
+[2022.11.15-19.50.06:876][990]LogViewport: Scene viewport resized to 1526x568, mode Windowed.
+[2022.11.15-19.50.07:040][992]LogViewport: Scene viewport resized to 1526x544, mode Windowed.
+[2022.11.15-19.50.07:167][994]LogViewport: Scene viewport resized to 1526x526, mode Windowed.
+[2022.11.15-19.50.07:290][996]LogViewport: Scene viewport resized to 1526x503, mode Windowed.
+[2022.11.15-19.50.07:402][998]LogViewport: Scene viewport resized to 1526x492, mode Windowed.
+[2022.11.15-19.50.07:518][  0]LogViewport: Scene viewport resized to 1526x487, mode Windowed.
+[2022.11.15-19.50.07:664][  4]LogViewport: Scene viewport resized to 1526x479, mode Windowed.
+[2022.11.15-19.50.07:836][  6]LogViewport: Scene viewport resized to 1526x462, mode Windowed.
+[2022.11.15-19.50.09:930][ 65]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.11.15-19.50.09:946][ 65]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.11.15-19.50.09:964][ 66]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.11.15-19.50.18:113][337]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Scorpion_Base
+[2022.11.15-19.50.18:118][337]LogContentBrowser: End creating deferred item NewMaterial
+[2022.11.15-19.50.20:170][398]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FPS/Weapons/Scorpion/Textures/M_Scorpion_Base.M_Scorpion_Base
+[2022.11.15-19.50.20:192][398]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: DFB04FB063EA44E677CE9CFAD7CCEC5A8623D00E), compiling. 
+[2022.11.15-19.50.20:437][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.15-19.50.20:618][398]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 8E20DD0CCF3AD5E8F7D11F328C7D6D8E9B0B71A3), compiling. 
+[2022.11.15-19.50.20:633][398]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 3B658DDC8B9CFF628E5CC49DF57CF0956350F15F), compiling. 
+[2022.11.15-19.50.20:725][398]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.15-19.50.20:725][398]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.15-19.50.20:725][398]MaterialEditorStats: Shader Count: 0
+[2022.11.15-19.50.20:732][398]LogViewport: Scene viewport resized to 376x469, mode Windowed.
+[2022.11.15-19.50.23:678][489]LogShaderCompilers: Display: ================================================
+[2022.11.15-19.50.23:679][489]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.15-19.50.23:679][489]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.11.15-19.50.23:679][489]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.11.15-19.50.23:679][489]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.15-19.50.23:679][489]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Shaders Compiled: 12
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.05 s
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Job execution time: average 2.80 s, max 2.80 s
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Job life time (pending + execution): average 2.85 s, max 2.85
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.85 s
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Average processing rate: 0.35 jobs/sec
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Effective parallelization: 0.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.79 sec, max 0.79 sec, min 0.79 sec)
+[2022.11.15-19.50.23:680][489]LogShaderCompilers: Display: ================================================
+[2022.11.15-19.50.24:980][540]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.15-19.50.24:980][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.15-19.50.24:980][540]MaterialEditorStats: Shader Count: 4
+[2022.11.15-19.50.33:689][887]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: BBFF2125C743CBBCFB60B4E3B1C488FE210BB036), compiling. 
+[2022.11.15-19.50.33:699][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C36725BE7CFC098D025E3D088C21CA4468C0CD50), compiling. 
+[2022.11.15-19.50.33:706][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1A0E1D4A2160AF47349D98808CDD7A9DD715725E), compiling. 
+[2022.11.15-19.50.33:735][887]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: A3B26A591E722C6DF5C2F39EBF20F1B8C9ED571E), compiling. 
+[2022.11.15-19.50.33:743][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 615D4B9618F0E6831CA3FB81D5E130B4113F6822), compiling. 
+[2022.11.15-19.50.33:749][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E90C81A530C8F3C8A4241197E98A576E635938F5), compiling. 
+[2022.11.15-19.50.33:754][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E721404A5F218210373F02F1EA8927B0629A80E8), compiling. 
+[2022.11.15-19.50.33:783][887]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 28343C910C4D029AD5D03B99335F40E9B6051D96), compiling. 
+[2022.11.15-19.50.33:791][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 38A7C865E09194ED7B3E315C4C61248755F460FB), compiling. 
+[2022.11.15-19.50.33:796][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0C774DA5B759851B8FD4B829564309FCD73F7549), compiling. 
+[2022.11.15-19.50.33:801][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2BED5755809DD5E2EDDAC3CDDCBF53ABB28EA050), compiling. 
+[2022.11.15-19.50.33:806][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 721E77C4B11630EFEAF3411C4F94D920869F6119), compiling. 
+[2022.11.15-19.50.33:835][887]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: ACFA6040479F87308A0EE4A51705EACDA11D9FFD), compiling. 
+[2022.11.15-19.50.33:843][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: BC9D71E75CCE5A992749B1C51B676D7632456650), compiling. 
+[2022.11.15-19.50.33:848][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0DC22E2689A6917BE2E781EC1A53AA12748C4A0F), compiling. 
+[2022.11.15-19.50.33:853][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B224379FEFE8BD7FC1D4770BA18406FFEFC9FD3F), compiling. 
+[2022.11.15-19.50.33:858][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AB57031B8321AC9A56008A20F41E62F5D40AB531), compiling. 
+[2022.11.15-19.50.33:863][887]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: F78466B4B691AC7EBCD9CFFABD6DACD9F77624D1), compiling. 
+[2022.11.15-19.50.33:875][887]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.15-19.50.33:875][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.15-19.50.33:875][887]MaterialEditorStats: Shader Count: 0
+[2022.11.15-19.50.34:037][889]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.15-19.50.34:037][889]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.15-19.50.34:037][889]MaterialEditorStats: Shader Count: 4
+[2022.11.15-19.50.49:078][560]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: DFDD856C97CBB2D235D058B614FE92F05960E2B1), compiling. 
+[2022.11.15-19.50.49:088][560]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BC01269892BE34BB8720C6287A9256F42231FAB0), compiling. 
+[2022.11.15-19.50.49:097][560]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.15-19.50.49:097][560]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.15-19.50.49:097][560]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2022.11.15-19.50.49:097][560]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.50.49:097][560]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.50.49:097][560]MaterialEditorStats: Shader Count: 0
+[2022.11.15-19.50.50:211][591]MaterialEditorStats: Texture samplers: 1/16
+[2022.11.15-19.50.50:212][591]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.15-19.50.50:212][591]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2022.11.15-19.50.50:212][591]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.50.50:212][591]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.50.50:212][591]MaterialEditorStats: Shader Count: 1
+[2022.11.15-19.50.51:111][619]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.15-19.50.51:111][619]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2022.11.15-19.50.51:111][619]MaterialEditorStats: Virtual Texture Lookups (Est.): 1
+[2022.11.15-19.50.51:111][619]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.50.51:111][619]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.50.51:111][619]MaterialEditorStats: Shader Count: 4
+[2022.11.15-19.50.56:254][866]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 2672E4B02F447B15B9DCAE68252CEB8B319B687B), compiling. 
+[2022.11.15-19.50.56:262][866]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 302F6230856E4C8C098CE214EF61CDAB40D3AC50), compiling. 
+[2022.11.15-19.50.56:271][866]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.15-19.50.56:271][866]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.11.15-19.50.56:271][866]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2022.11.15-19.50.56:271][866]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.50.56:271][866]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.50.56:271][866]MaterialEditorStats: Shader Count: 0
+[2022.11.15-19.50.57:476][899]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.15-19.50.57:476][899]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.11.15-19.50.57:476][899]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2022.11.15-19.50.57:476][899]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.50.57:476][899]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.50.57:476][899]MaterialEditorStats: Shader Count: 1
+[2022.11.15-19.50.58:397][928]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.15-19.50.58:397][928]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2022.11.15-19.50.58:397][928]MaterialEditorStats: Virtual Texture Lookups (Est.): 2
+[2022.11.15-19.50.58:397][928]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.50.58:397][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.50.58:397][928]MaterialEditorStats: Shader Count: 4
+[2022.11.15-19.51.02:326][ 98]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 31A2A2C8D09210F9C0C0744DBD066CF09ECD4641), compiling. 
+[2022.11.15-19.51.02:335][ 98]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 259E16AF681F50CE7516B5C679965C3341E019B8), compiling. 
+[2022.11.15-19.51.02:345][ 98]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.15-19.51.02:345][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.15-19.51.02:345][ 98]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2022.11.15-19.51.02:345][ 98]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.51.02:345][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.51.02:345][ 98]MaterialEditorStats: Shader Count: 0
+[2022.11.15-19.51.03:564][133]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.15-19.51.03:564][133]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.15-19.51.03:564][133]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2022.11.15-19.51.03:564][133]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.51.03:564][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.51.03:564][133]MaterialEditorStats: Shader Count: 1
+[2022.11.15-19.51.04:353][157]MaterialEditorStats: Texture samplers: 5/16
+[2022.11.15-19.51.04:353][157]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2022.11.15-19.51.04:353][157]MaterialEditorStats: Virtual Texture Lookups (Est.): 3
+[2022.11.15-19.51.04:353][157]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.51.04:353][157]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.51.04:354][157]MaterialEditorStats: Shader Count: 4
+[2022.11.15-19.51.09:070][374]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 33242FD084F5A0A6AE976D12DA2F5B1E82E8979F), compiling. 
+[2022.11.15-19.51.09:079][374]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 6B49D8DB04452AB532916D0EA282E9118E687E52), compiling. 
+[2022.11.15-19.51.09:088][374]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.15-19.51.09:088][374]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.11.15-19.51.09:088][374]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2022.11.15-19.51.09:088][374]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.51.09:088][374]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.51.09:088][374]MaterialEditorStats: Shader Count: 0
+[2022.11.15-19.51.11:123][439]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 185F776C4DDDB309FAB24D98ECEBC9CC392C96CA), compiling. 
+[2022.11.15-19.51.11:132][439]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 73297882DFAEAF8E393040C5F58A67F5960B721C), compiling. 
+[2022.11.15-19.51.14:638][567]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: 2FF247961A7655CFA9CA9A580CED64A19CF5BEC7), compiling. 
+[2022.11.15-19.51.14:647][567]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: D84E5CBBBF226035C96CA635EC8DC383D64A40D4), compiling. 
+[2022.11.15-19.51.15:911][601]MaterialEditorStats: Texture samplers: 4/16
+[2022.11.15-19.51.15:911][601]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.11.15-19.51.15:911][601]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2022.11.15-19.51.15:911][601]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.51.15:911][601]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.51.15:911][601]MaterialEditorStats: Shader Count: 1
+[2022.11.15-19.51.16:826][629]MaterialEditorStats: Texture samplers: 6/16
+[2022.11.15-19.51.16:827][629]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2022.11.15-19.51.16:827][629]MaterialEditorStats: Virtual Texture Lookups (Est.): 4
+[2022.11.15-19.51.16:827][629]MaterialEditorStats: Virtual Texture Stacks: 1
+[2022.11.15-19.51.16:827][629]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.11.15-19.51.16:827][629]MaterialEditorStats: Shader Count: 4
+[2022.11.15-19.51.27:090][141]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FPS/Weapons/Scorpion/CZScorpion) ...
+[2022.11.15-19.51.29:504][259]LogMaterialEditor: Saving and Compiling material M_Scorpion_Base
+[2022.11.15-19.51.38:518][259]LogMaterial: Display: Missing cached shadermap for Preview:M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: B56394C58B8A6F6FE15641B4A4BB08F25567A415), compiling. 
+[2022.11.15-19.51.38:577][259]LogMaterial: Display: Missing cached shadermap for M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: D15F2650667B8FAAEC653C3039F2A7DBA5CEB8D7), compiling. 
+[2022.11.15-19.51.38:888][259]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2022.11.15-19.51.42:471][259]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
