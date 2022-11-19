@@ -55,8 +55,8 @@
 #define NDEBUG 1
 #define UE_BUILD_DEVELOPMENT 1
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME VRExpPluginExample
-#define UE_TARGET_NAME VRExpPluginExampleEditor
+#define UE_PROJECT_NAME Multiplayer_Flutterbeam
+#define UE_TARGET_NAME UnrealEditor
 #define WITH_ADVANCED_SESSIONS 1
 #define UE_MODULE_NAME "AdvancedSessions"
 #define UE_PLUGIN_NAME "AdvancedSessions"
@@ -71,7 +71,7 @@
 #define UE_MEMORY_TAGS_TRACE_ENABLED 1
 #define UE_ENABLE_ICU 1
 #define WITH_ADDITIONAL_CRASH_CONTEXTS 1
-#define WITH_VS_PERF_PROFILER 1
+#define WITH_VS_PERF_PROFILER 0
 #define WITH_SUPERLUMINAL_PROFILER 0
 #define WITH_CONCURRENCYVIEWER_PROFILER 0
 #define WITH_DIRECTXMATH 0
