@@ -1,0 +1,1476 @@
+﻿Log file open, 11/19/22 22:48:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=28964)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Multiplayer_Flutterbeam
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Multiplayer_Flutterbeam.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 1600 Six-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ffe5b2444512f8c5e1b3f9b96194bec9"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.230923
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-793ED13D4D6CF2B683F1308FFC0A4F0C
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading Mac ini files took 0.12 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.12 seconds
+LogConfig: Display: Loading IOS ini files took 0.12 seconds
+LogConfig: Display: Loading Unix ini files took 0.14 seconds
+LogConfig: Display: Loading TVOS ini files took 0.15 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.16 seconds
+LogConfig: Display: Loading Linux ini files took 0.17 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogConfig: Display: Loading Windows ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystemEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin SocketSubsystemEOS
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineServicesEOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogWindows: Failed to load 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Binaries/Win64/EOSSDK-Win64-Shipping.dll' (GetLastError=126)
+LogWindows: File 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Binaries/Win64/EOSSDK-Win64-Shipping.dll' does not exist
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogEOSSDK: Initializing EOSSDK Version:1.14.2-20976885
+LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.14.2-20976885 booting at 2022-11-20T03:48:06.368Z
+LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.1741.64bit, ClientId=xyza7891lbQJFfWvSNG6A83tMuYmzHLu, ProductId=7256738d1a2c4a82b3ea8eae16ef3a04, SandboxId=4bcdb0944e9c46fdaa449a484b02bad5, DeploymentId=0b4e53cce5bb4f3d93c1c63040ce8520, ProductName=Multiplayer_Flutterbeam, ProductVersion=++UE5+Release-5.0-CL-20979098, IsServer=false, Flags=DisableOverlay]
+LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+LogEOSSDK: LogEOSRTC: LibRTCCore: Initializing LibRTC...
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: EOS
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [EOS]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: AMD Ryzen 5 1600 Six-Core Processor            , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.20-03.48.06:791][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.20-03.48.06:791][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.20-03.48.06:791][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.20-03.48.06:791][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.20-03.48.06:792][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.20-03.48.06:792][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.20-03.48.06:792][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.20-03.48.06:793][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.20-03.48.06:805][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.20-03.48.06:805][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.20-03.48.06:805][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.20-03.48.06:806][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.20-03.48.06:883][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_1
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI: Testing D3D11 Adapter 0:
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.20-03.48.06:889][  0]LogD3D11RHI:     AdapterLuid : 0 68161084
+[2022.11.20-03.48.07:169][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_1)
+[2022.11.20-03.48.07:169][  0]LogD3D11RHI:       8081/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI: Testing D3D11 Adapter 1:
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     Description : Microsoft Basic Render Driver
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     VendorId    : 1414
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     DeviceId    : 008c
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     SubSysId    : 0000
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     Revision    : 0000
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     DedicatedVideoMemory : 0 bytes
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.20-03.48.07:170][  0]LogD3D11RHI:     AdapterLuid : 0 54609
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_1)
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.20-03.48.07:175][  0]LogD3D11RHI:     AdapterLuid : 0 68161084
+[2022.11.20-03.48.07:175][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.20-03.48.07:176][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.20-03.48.07:177][  0]LogHAL: Display: Platform has ~ 16 GB [17129910272 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.20-03.48.07:177][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.20-03.48.07:177][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.20-03.48.07:178][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.20-03.48.07:179][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.20-03.48.07:179][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.20-03.48.07:180][  0]LogInit: Computer: GAMEDEVBATTLEST
+[2022.11.20-03.48.07:180][  0]LogInit: User: ronni
+[2022.11.20-03.48.07:180][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.11.20-03.48.07:180][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.20-03.48.07:181][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.11.20-03.48.07:181][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.20-03.48.07:181][  0]LogMemory: Process Physical Memory: 279.74 MB used, 286.05 MB peak
+[2022.11.20-03.48.07:181][  0]LogMemory: Process Virtual Memory: 234.08 MB used, 234.08 MB peak
+[2022.11.20-03.48.07:181][  0]LogMemory: Physical Memory: 8703.32 MB used,  7633.04 MB free, 16336.36 MB total
+[2022.11.20-03.48.07:181][  0]LogMemory: Virtual Memory: 13456.93 MB used,  10815.43 MB free, 24272.36 MB total
+[2022.11.20-03.48.07:181][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.20-03.48.07:195][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.20-03.48.07:260][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.20-03.48.07:265][  0]LogInit: Using OS detected language (en-US).
+[2022.11.20-03.48.07:265][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.20-03.48.07:311][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.20-03.48.07:875][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.20-03.48.07:928][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.20-03.48.07:928][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.20-03.48.07:928][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.20-03.48.08:046][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.20-03.48.08:046][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.20-03.48.14:686][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.20-03.48.14:686][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.20-03.48.14:687][  0]LogWindows: Attached monitors:
+[2022.11.20-03.48.14:687][  0]LogWindows:     resolution: 1600x900, work area: (1920, 0) -> (3520, 900), device: '\\.\DISPLAY1'
+[2022.11.20-03.48.14:687][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1080), device: '\\.\DISPLAY2' [PRIMARY]
+[2022.11.20-03.48.14:687][  0]LogWindows: Found 2 attached monitors.
+[2022.11.20-03.48.14:687][  0]LogWindows: EnumDisplayDevices:
+[2022.11.20-03.48.14:687][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.11.20-03.48.14:688][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1), name: '\\.\DISPLAY2'
+[2022.11.20-03.48.14:688][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.11.20-03.48.14:689][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.20-03.48.14:689][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:   Driver Version: 526.86 (internal:31.0.15.2686, unified:526.86)
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:      Driver Date: 11-8-2022
+[2022.11.20-03.48.14:689][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:     SubSysId    : 61733842
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.20-03.48.14:689][  0]LogD3D11RHI:     DedicatedVideoMemory : 8473542656 bytes
+[2022.11.20-03.48.14:690][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.20-03.48.14:690][  0]LogD3D11RHI:     SharedSystemMemory : 8564955136 bytes
+[2022.11.20-03.48.14:690][  0]LogD3D11RHI:     AdapterLuid : 0 68161084
+[2022.11.20-03.48.14:887][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.20-03.48.14:887][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.20-03.48.14:888][  0]LogD3D11RHI: D3D11_MAP_WRITE_NO_OVERWRITE for dynamic buffer SRVs is supported
+[2022.11.20-03.48.14:888][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.20-03.48.14:991][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.11.20-03.48.15:073][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.20-03.48.15:097][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -platform=all'
+[2022.11.20-03.48.15:097][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Multiplayer_Flutterbeam.uproject"  -platform=all" ]
+[2022.11.20-03.48.15:167][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.20-03.48.15:203][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.20-03.48.15:203][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.20-03.48.15:232][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.20-03.48.15:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.20-03.48.15:295][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.20-03.48.15:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.20-03.48.15:307][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.20-03.48.15:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.20-03.48.15:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.20-03.48.15:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.20-03.48.15:319][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.20-03.48.15:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.20-03.48.15:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.20-03.48.15:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.20-03.48.15:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.20-03.48.15:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.20-03.48.15:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.20-03.48.15:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.20-03.48.15:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.20-03.48.15:358][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.20-03.48.15:358][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.20-03.48.15:388][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.20-03.48.15:396][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.20-03.48.15:396][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.20-03.48.15:396][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.20-03.48.15:396][  0]LogTargetPlatformManager:   PCM
+[2022.11.20-03.48.15:406][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.20-03.48.15:406][  0]LogTargetPlatformManager:   BINKA
+[2022.11.20-03.48.15:406][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.20-03.48.15:406][  0]LogTargetPlatformManager:   OGG
+[2022.11.20-03.48.15:406][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.20-03.48.15:406][  0]LogTargetPlatformManager:   OPUS
+[2022.11.20-03.48.15:655][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.20-03.48.15:675][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.20-03.48.15:688][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.20-03.48.15:688][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.20-03.48.15:688][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.20-03.48.15:688][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.20-03.48.15:688][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.20-03.48.15:688][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.20-03.48.15:688][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.20-03.48.15:689][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.20-03.48.15:693][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.20-03.48.15:705][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.20-03.48.15:706][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.20-03.48.15:714][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.20-03.48.15:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.20-03.48.15:724][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.20-03.48.15:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.20-03.48.15:725][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.20-03.48.15:789][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.20-03.48.15:790][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.20-03.48.15:790][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.20-03.48.15:827][  0]LogDerivedDataCache: Speed tests for C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2022.11.20-03.48.15:827][  0]LogDerivedDataCache: Display: Performance to C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.28ms. RandomReadSpeed=62.87MBs, RandomWriteSpeed=52.73MBs. Assigned SpeedClass 'Local'
+[2022.11.20-03.48.15:829][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.20-03.48.15:829][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.20-03.48.15:829][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.20-03.48.15:850][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.20-03.48.15:850][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.20-03.48.15:861][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Intermediate/Shaders/WorkingDirectory/37268/).
+[2022.11.20-03.48.15:862][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ronni/AppData/Local/Temp/UnrealShaderWorkingDir/A33E5C3F4D9EBE68574E85B3863DB28D/'.
+[2022.11.20-03.48.15:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.20-03.48.15:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.11.20-03.48.29:814][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.20-03.48.29:814][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.20-03.48.29:856][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.20-03.48.29:982][  0]LogAssetRegistry: FAssetRegistry took 0.0495 seconds to start up
+[2022.11.20-03.48.30:000][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.20-03.48.30:706][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.20-03.48.30:716][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.20-03.48.31:757][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.20-03.48.31:758][  0]LogDeviceProfileManager: Active device profile: [00000918A55E55C0][000009189D117800 50] WindowsEditor
+[2022.11.20-03.48.31:758][  0]LogDeviceProfileManager: Profiles: [00000918A55E5080][000009189D115000 50] Windows, [00000918A55E55C0][000009189D117800 50] WindowsEditor, [00000918A55E2D80][000009189D110000 50] WindowsServer, [00000918A55E1500][000009189D097800 50] WindowsClient, [00000918A55E1880][000009188D2A7800 50] IOS, [00000918A55E4600][000009189D04C800 50] iPadAir2, [00000918A55E4EC0][000009189D88C800 50] IPadPro, [00000918A55E0540][0000091898102800 50] iPadAir3, [00000918A55E3F00][00000918A5610000 50] iPadAir4, [00000918A55E3D40][00000918A5615000 50] iPadMini4, [00000918A55E08C0][00000918A5617800 50] iPadMini5, [00000918A55E4B40][00000918A561A000 50] iPadMini6, [00000918A55E8180][00000918A56D0000 50] iPhone6S, [00000918A55E8500][00000918A56D2800 50] iPhone7, [00000918A55E8880][00000918A56D5000 50] iPodTouch7, [00000918A55E3640][00000918A56DA000 50] iPhone6SPlus, [00000918A55E7C40][00000918A56DC800 50] iPhone7Plus, [00000918A55E0FC0][000009189D112800 50] iPhoneSE, [00000918A55E4D00][00000918A561C800 50] iPhone8, [00000918A55E86C0][00000918A56D7800 50] iPhone8Plus, [00000918A55E5B00][00000918A5680000 50] iPhoneX, [00000918A55E32C0][00000918A5685000 50] iPhoneXS, [00000918A55E1F80][00000918A5687800 50] iPhoneXSMax, [00000918A55E2300][00000918A568A000 50] iPhoneXR, [00000918A55E3480][00000918A568C800 50] iPhone11, [00000918A55E8C00][00000918A5612800 50] iPhone11Pro, [00000918A55E7A80][00000918A5670000 50] iPhone11ProMax, [00000918A55E5CC0][00000918A5675000 50] iPhoneSE2, [00000918A55E78C0][00000918A5677800 50] iPhone12Mini, [00000918A55E40C0][00000918A567A000 50] iPhone12, [00000918A55E7700][00000918A567C800 50] iPhone12Pro, [00000918A55E0700][00000918A5682800 50] iPhone12ProMax, [00000918A55E0E00][00000918A5690000 50] iPhone13Mini, [00000918A55E71C0][00000918A5695000 50] iPhone13, [00000918A55E3800][00000918A5697800 50] iPhone13Pro, [00000918A55E5940][00000918A569A000 50] iPhone13ProMax, [00000918A55E1340][00000918A569C800 50] iPadPro105, [00000918A55E5400][00000918A5672800 50] iPadPro129, [00000918A55E1A40][00000918A56B0000 50] iPadPro97, [00000918A55E6580][00000918A56B5000 50] iPadPro2_129, [00000918A55E5E80][00000918A56B7800 50] iPad5, [00000918A55E0C40][00000918A56BA000 50] iPad6, [00000918A55E6AC0][00000918A56BC800 50] iPad7, [00000918A55E6040][00000918A5692800 50] iPad8, [00000918A55E7FC0][00000918A56C0000 50] iPad9, [00000918A55E6C80][00000918A56C5000 50] iPadPro11, [00000918A55E63C0][00000918A56C7800 50] iPadPro2_11, [00000918A55E4980][00000918A56CA000 50] iPadPro3_11, [00000918A55E4280][00000918A56CC800 50] iPadPro3_129, [00000918A55E3B80][00000918A56B2800 50] iPadPro4_129, [00000918A55E24C0][00000918A56F0000 50] iPadPro5_129, [00000918A55E6740][00000918A56F5000 50] AppleTV, [00000918A55E7380][00000918A56F7800 50] AppleTV4K, [00000918A55E0A80][00000918A56FA000 50] TVOS, [00000918A55EA9C0][00000918A56C2800 50] Mac, [00000918A55EA800][00000918A56FC800 50] MacEditor, [00000918A55E3100][00000918A5700000 50] MacClient, [00000918A55E9140][00000918A5705000 50] MacServer, [00000918A55EB0C0][00000918A570A000 50] Linux, [00000918A55EB440][00000918A5707800 50] LinuxEditor, [00000918A55E1180][00000918A570C800 50] LinuxArm64Editor, [00000918A55E47C0][00000918A56F2800 50] LinuxArm64, [00000918A55E7540][00000918A5710000 50] LinuxClient, [00000918A55E8A40][00000918A5715000 50] LinuxArm64Client, [00000918A55E0000][00000918A5717800 50] LinuxServer, [00000918A55E9840][00000918A571A000 50] LinuxArm64Server, [00000918A55EA100][00000918A571C800 50] Android, [00000918A55E8F80][00000918A5702800 50] Android_Preview_OpenGL, [00000918A55E9F40][00000918A5720000 50] Android_Preview_Vulkan, [00000918A55E2140][00000918A5725000 50] Android_Low, [00000918A55E7000][00000918A5727800 50] Android_Mid, [00000918A55E16C0][00000918A572A000 50] Android_High, [00000918A55EBB40][00000918A572C800 50] Android_Default, [00000918A55E39C0][00000918A5712800 50] Android_Adreno4xx, [00000918A55E9A00][00000918A5740000 50] Android_Adreno5xx_Low, [00000918A55E5780][00000918A5745000 50] Android_Adreno5xx, [00000918A55E9BC0][00000918A5747800 50] Android_Adreno6xx, [00000918A55EAB80][00000918A574A000 50] Android_Adreno6xx_Vulkan, [00000918A55E9D80][00000918A574C800 50] Android_Adreno7xx, [00000918A55E8DC0][00000918A5722800 50] Android_Adreno7xx_Vulkan, [00000918A55EB600][00000918A5750000 50] Android_Mali_T6xx, [00000918A55E1C00][00000918A5755000 50] Android_Mali_T7xx, [00000918A55EB7C0][00000918A5757800 50] Android_Mali_T8xx, [00000918A55EBD00][00000918A575A000 50] Android_Mali_G71, [00000918A55EBEC0][00000918A575C800 50] Android_Mali_G72, [00000918A55EC080][00000918A5742800 50] Android_Mali_G72_Vulkan, [00000918A55EA480][00000918A5760000 50] Android_Mali_G76, [00000918A55EC400][00000918A5765000 50] Android_Mali_G76_Vulkan, [00000918A55EAF00][00000918A5767800 50] Android_Mali_G77, [00000918A55EC780][00000918A576A000 50] Android_Mali_G77_Vulkan, [00000918A55EA2C0][00000918A576C800 50] Android_Mali_G78, [00000918A55ECB00][00000918A5752800 50] Android_Mali_G78_Vulkan, [00000918A55EB980][00000918A5770000 50] Android_Mali_G710, [00000918A55E1DC0][00000918A5775000 50] Android_Mali_G710_Vulkan, [00000918A55E9300][00000918A5777800 50] Android_Xclipse_920, [00000918A55E2680][00000918A577A000 50] Android_Xclipse_920_Vulkan, [00000918A55E2A00][00000918A577C800 50] Android_Vulkan_SM5, [00000918A55EA640][00000918A5762800 50] Android_PowerVR_G6xxx, [00000918A55E01C0][00000918A5780000 50] Android_PowerVR_GT7xxx, [00000918A55EB280][00000918A5785000 50] Android_PowerVR_GE8xxx, [00000918A55EC5C0][00000918A5787800 50] Android_PowerVR_GM9xxx, [00000918A55E6200][00000918A578A000 50] Android_PowerVR_GM9xxx_Vulkan, [00000918A55EDAC0][00000918A578C800 50] Android_TegraK1, [00000918A55EC240][00000918A5772800 50] Android_Unknown_Vulkan, [00000918A55E2F40][00000918A5790000 50] Oculus_Quest, [00000918A55E4440][00000918A5795000 50] Oculus_Quest2, [00000918A55E2BC0][00000918A5797800 50] HoloLens, 
+[2022.11.20-03.48.31:758][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.20-03.48.31:772][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.11.20-03.48.31:772][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.11.20-03.48.31:772][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.20-03.48.31:772][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.11.20-03.48.31:772][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.19041.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.11.20-03.48.31:902][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.20-03.48.32:596][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.20-03.48.32:596][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.20-03.48.32:596][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.20-03.48.32:596][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.20-03.48.32:597][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.20-03.48.32:674][  0]LogNetVersion: Multiplayer_Flutterbeam 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1122345460)
+[2022.11.20-03.48.33:548][  0]LogSlate: Border
+[2022.11.20-03.48.33:548][  0]LogSlate: BreadcrumbButton
+[2022.11.20-03.48.33:548][  0]LogSlate: Default
+[2022.11.20-03.48.33:548][  0]LogSlate: Icons.Save
+[2022.11.20-03.48.33:548][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.20-03.48.33:548][  0]LogSlate: ListView
+[2022.11.20-03.48.33:548][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.20-03.48.33:548][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.20-03.48.33:548][  0]LogSlate: TableView.DarkRow
+[2022.11.20-03.48.33:548][  0]LogSlate: TableView.Row
+[2022.11.20-03.48.33:548][  0]LogSlate: TreeView
+[2022.11.20-03.48.34:369][  0]SourceControl: Source control is disabled
+[2022.11.20-03.48.34:479][  0]SourceControl: Source control is disabled
+[2022.11.20-03.48.34:479][  0]SourceControl: Source control is disabled
+[2022.11.20-03.48.34:894][  0]LogUObjectArray: 20572 objects as part of root set at end of initial load.
+[2022.11.20-03.48.34:895][  0]LogUObjectAllocator: 5608512 out of 0 bytes used by permanent object pool.
+[2022.11.20-03.48.34:895][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.20-03.48.36:419][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: B25D08A845452939BEDA28A16AB94898 | Instance: 14571D20493BB31CD16EAE8383351765 (GAMEDEVBATTLEST-37268).
+[2022.11.20-03.48.36:643][  0]LogPython: Using Python 3.9.7
+[2022.11.20-03.48.39:122][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.20-03.48.39:140][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.20-03.48.39:310][  0]LogSteamShared: Display: Loading Steam SDK 1.51
+[2022.11.20-03.48.39:314][  0]LogSteamShared: Steam SDK Loaded!
+[2022.11.20-03.48.39:505][  0]SourceControl: Source control is disabled
+[2022.11.20-03.48.39:532][  0]SourceControl: Source control is disabled
+[2022.11.20-03.48.39:566][  0]SourceControl: Source control is disabled
+[2022.11.20-03.48.39:582][  0]LogUProjectInfo: Found projects:
+[2022.11.20-03.48.41:042][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.20-03.48.41:203][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.20-03.48.41:305][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.20-03.48.41:305][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.20-03.48.41:632][  0]LogCollectionManager: Loaded 0 collections in 0.006474 seconds
+[2022.11.20-03.48.41:920][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Collections/' took 0.00s
+[2022.11.20-03.48.41:920][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Developers/ronni/Collections/' took 0.00s
+[2022.11.20-03.48.41:920][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Collections/' took 0.00s
+[2022.11.20-03.48.42:850][  0]LogEngine: Initializing Engine...
+[2022.11.20-03.48.42:887][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.20-03.48.42:893][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.20-03.48.44:151][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.20-03.48.44:155][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.20-03.48.44:193][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-03.48.44:284][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.20-03.48.44:293][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.20-03.48.44:352][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.20-03.48.44:467][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.20-03.48.44:469][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.20-03.48.44:469][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.20-03.48.44:470][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.20-03.48.44:470][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.20-03.48.44:471][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.20-03.48.44:471][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.20-03.48.44:471][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.20-03.48.44:471][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.20-03.48.44:471][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.20-03.48.44:471][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.20-03.48.44:480][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.20-03.48.44:480][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.20-03.48.44:480][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.20-03.48.44:511][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.20-03.48.44:592][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Razer Kraken V3 X)
+[2022.11.20-03.48.44:594][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.20-03.48.44:603][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.20-03.48.44:603][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.20-03.48.44:606][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.20-03.48.44:606][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.20-03.48.44:609][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.20-03.48.44:609][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.20-03.48.44:609][  0]LogInit: FAudioDevice initialized.
+[2022.11.20-03.48.44:610][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.20-03.48.44:610][  0]LogNetVersion: Set ProjectVersion to 4.1.0.0. Version Checksum will be recalculated on next use.
+[2022.11.20-03.48.44:610][  0]LogInit: Texture streaming: Enabled
+[2022.11.20-03.48.44:694][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.20-03.48.44:716][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.20-03.48.44:773][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.20-03.48.44:795][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.20-03.48.44:795][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.20-03.48.49:020][  0]LogLiveCoding: Display: First instance in process group "UE_Multiplayer_Flutterbeam_0x0feaea4f", spawning console
+[2022.11.20-03.48.49:020][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.20-03.48.49:020][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.20-03.48.49:114][  0]LogInit: Transaction tracking system initialized
+[2022.11.20-03.48.49:333][  0]BlueprintLog: New page: Editor Load
+[2022.11.20-03.48.49:883][  0]LocalizationService: Localization service is disabled
+[2022.11.20-03.48.50:018][  0]TimingProfiler: Initialize
+[2022.11.20-03.48.50:019][  0]TimingProfiler: OnSessionChanged
+[2022.11.20-03.48.50:019][  0]LoadingProfiler: Initialize
+[2022.11.20-03.48.50:019][  0]LoadingProfiler: OnSessionChanged
+[2022.11.20-03.48.50:021][  0]NetworkingProfiler: Initialize
+[2022.11.20-03.48.50:023][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.20-03.48.50:023][  0]MemoryProfiler: Initialize
+[2022.11.20-03.48.50:024][  0]MemoryProfiler: OnSessionChanged
+[2022.11.20-03.48.50:188][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_9'
+[2022.11.20-03.48.50:189][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_9
+[2022.11.20-03.48.52:700][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/' took 0.08s
+[2022.11.20-03.48.52:700][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.20-03.48.52:875][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.20-03.48.52:885][  0]SourceControl: Source control is disabled
+[2022.11.20-03.48.52:886][  0]LogUnrealEdMisc: Loading editor; pre map load, took 53.714
+[2022.11.20-03.48.52:888][  0]Cmd: MAP LOAD FILE="D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Map3/Sunlight_Museum_Iteration3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.20-03.48.52:984][  0]LightingResults: New page: Lighting Build
+[2022.11.20-03.48.53:003][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-03.48.53:004][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-03.48.53:005][  0]MapCheck: New page: Map Check
+[2022.11.20-03.48.53:005][  0]LightingResults: New page: Lighting Build
+[2022.11.20-03.48.53:028][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.20-03.48.53:044][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.20-03.49.13:864][  0]LogLinker: Warning: [AssetLog] D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Content\OurEnvironmentArt\Garden_Patio_Pieces\BottomWall\BottomWall.uasset: Failed to load '/Game/Megascans/Surfaces/Pink_Stucco_Facade_tjtmeari/MI_Pink_Stucco_Facade_tjtmeari_2K': Can't find file.
+[2022.11.20-03.49.13:865][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Pink_Stucco_Facade_tjtmeari/MI_Pink_Stucco_Facade_tjtmeari_2K'
+[2022.11.20-03.49.29:475][  0]LogSkeletalMesh: Display: [AssetLog] D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Content\FPS\Weapons\SubmachineGun\SK_SMG.uasset: FMeshUtilities::CreateImportDataFromLODModel: ImportData created for LOD 0
+[2022.11.20-03.49.32:257][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Architecture/Wall_Door_400x300.Wall_Door_400x300 should be resaved to improve async compilation performance.
+[2022.11.20-03.49.32:257][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_QuadPyramid.Shape_QuadPyramid should be resaved to improve async compilation performance.
+[2022.11.20-03.49.33:267][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Sunlight_Museum_Iteration3'.
+[2022.11.20-03.49.33:267][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.20-03.49.33:268][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-03.49.33:268][  0]LogAIModule: Creating AISystem for world Sunlight_Museum_Iteration3
+[2022.11.20-03.49.34:315][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.11.20-03.49.34:315][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.11.20-03.49.34:320][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.11.20-03.49.34:320][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.11.20-03.49.34:324][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: [ClothingSimulationFactoryNv] is currently unable to provide a fully functional simulation for each of this SkeletalMesh's clothing assets.
+[2022.11.20-03.49.34:324][  0]LogSkeletalMesh: Display: OnRegister[/Game/FPS/Gameplay/ConquestFlag/ConquestFlag.ConquestFlag]: The ClothingSimulationFactory property will now be automatically updated to use the most functional simulation that can be found.
+[2022.11.20-03.49.34:419][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.20-03.49.34:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.11.20-03.49.34:606][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.20-03.49.34:608][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.337ms to complete.
+[2022.11.20-03.49.34:609][  0]LogFileHelpers: Loading map 'Sunlight_Museum_Iteration3' took 41.721
+[2022.11.20-03.49.34:716][  0]LogUnrealEdMisc: Total Editor Startup Time, took 95.544
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: ================================================
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.20-03.49.34:717][  0]LogShaderCompilers: Display: ================================================
+[2022.11.20-03.49.34:986][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.20-03.49.35:005][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.20-03.49.35:022][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.20-03.49.35:039][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.20-03.49.35:161][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:161][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:180][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:180][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:197][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:197][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:212][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:212][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:246][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:246][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:263][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:263][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:277][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:277][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:291][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:291][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:305][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:305][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:319][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.20-03.49.35:319][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.20-03.49.35:320][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.20-03.49.36:226][  0]LogSlate: Took 0.001583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.20-03.49.36:250][  0]LogSlate: Took 0.011811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.20-03.49.36:266][  0]LogSlate: Took 0.012293 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.20-03.49.36:282][  0]LogSlate: Took 0.011140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.20-03.49.36:300][  0]LogSlate: Took 0.015816 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.20-03.49.36:355][  0]LogViewport: Scene viewport resized to 1526x567, mode Windowed.
+[2022.11.20-03.49.36:563][  0]LogSlate: Took 0.011614 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.20-03.49.36:937][  0]LogStall: Startup...
+[2022.11.20-03.49.36:940][  0]LogStall: Startup complete.
+[2022.11.20-03.49.36:988][  0]LogLoad: (Engine Initialization) Total time: 97.82 seconds
+[2022.11.20-03.49.36:988][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.20-03.49.37:236][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.20-03.49.37:891][  1]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 91.483688
+[2022.11.20-03.49.38:008][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/' took 0.96s
+[2022.11.20-03.49.38:051][  1]LogAssetRegistry: Asset discovery search completed in 68.0749 seconds
+[2022.11.20-03.49.38:135][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2022.11.20-03.49.38:878][  3]LogSlate: Took 0.000304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.20-03.49.39:434][  5]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 92.705452
+[2022.11.20-03.49.39:439][  5]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.20-03.49.39:439][  5]LogEOSSDK: Warning: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2022.11.20-03.49.39:444][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 93.028954
+[2022.11.20-03.49.40:715][  9]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2022.11.20-03.49.41:442][ 11]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 94.641731
+[2022.11.20-03.49.41:447][ 11]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -934553538
+[2022.11.20-03.49.41:447][ 11]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 94.641731, Update Interval: 306.908783
+[2022.11.20-03.49.53:184][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.11.20-03.50.07:135][481]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-03.50.07:168][481]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/Base.Base
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/CZScorpion.CZScorpion
+	Asset Type: StaticMesh
+	Asset Name: /Game/FPS/Weapons/Scorpion/Magazine.Magazine
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_PhysicsAsset.ScorpionRIGGED_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Skeleton.ScorpionRIGGED_Skeleton
+	Asset Type: Skeleton
+[2022.11.20-03.50.08:085][481]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.50.08:151][481]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.50.08:216][481]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.50.08:699][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.20-03.50.08:728][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.20-03.50.08:755][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.20-03.50.13:509][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.11.20-03.50.17:979][660]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-03.50.19:081][660]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG.ScorpionRIG_IronSights_low
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG_IronSights_low_Skeleton.ScorpionRIG_IronSights_low_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG.ScorpionRIG_Magazine_low
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG_Magazine_low_Skeleton.ScorpionRIG_Magazine_low_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG.ScorpionRIG_RecieverTriggerUnit_low
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG_RecieverTriggerUnit_low_Skeleton.ScorpionRIG_RecieverTriggerUnit_low_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG.ScorpionRIG_stock_low
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/FPS/Weapons/Scorpion/Correct/ScorpionRIG_stock_low_Skeleton.ScorpionRIG_stock_low_Skeleton
+	Asset Type: Skeleton
+[2022.11.20-03.50.20:463][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.11.20-03.50.20:493][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.11.20-03.50.20:523][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.11.20-03.50.23:189][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.20-03.50.25:480][856]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-03.50.26:835][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.11.20-03.50.26:864][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.20-03.50.26:892][856]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.20-03.50.33:705][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.11.20-03.50.36:026][304]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-03.50.36:157][304]LogUObjectGlobals: Force Deleting 19 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_BaseColor.Scorpion_low_Base_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_Emissive.Scorpion_low_Base_Emissive
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_Normal.Scorpion_low_Base_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Base_OcclusionRoughnessMetallic.Scorpion_low_Base_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/M_Scorpion_Base.M_Scorpion_Base
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_OcclusionRoughnessMetallic.Scorpion_low_Stock_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_Normal.Scorpion_low_Stock_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_Emissive.Scorpion_low_Stock_Emissive
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Stock_BaseColor.Scorpion_low_Stock_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Textures/Scorpion_low_Magazine_OcclusionRoughnessMetallic.Scorpion_low_Magazine_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+[2022.11.20-03.50.37:076][304]LogMaterial: Display: Missing cached shadermap for M_Scorpion_Base in PCD3D_SM5, Default, SM5 (DDC key hash: DFFB05ABBF51FFBF1A9C520CC410F84E46621A34), compiling. 
+[2022.11.20-03.50.37:084][304]LogMaterial: Warning: [AssetLog] D:\Unreal Projects\Flutterbeam\FPS_Multiplayer\Multiplayer_Flutterbeam\Content\FPS\Weapons\Scorpion\Textures\M_Scorpion_Base.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-03.50.37:195][304]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FPS/Weapons/Scorpion/Textures/CZScorpion) ...
+[2022.11.20-03.50.39:387][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.20-03.50.39:465][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.11.20-03.50.39:494][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.20-03.50.54:790][352]LogDerivedDataCache: C:/Users/ronni/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.469 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.20-03.50.54:853][352]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx)
+[2022.11.20-03.50.54:907][352]LogFbx: Loading FBX Scene from D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx
+[2022.11.20-03.50.54:975][352]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.20-03.51.14:377][352]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.20-03.51.14:455][352]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Base.Base needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-03.51.14:465][352]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: 05EDAB37BE4577A460EA2D600EA972BCB5397457), compiling. 
+[2022.11.20-03.51.16:068][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_BaseColor.Scorpion_low_Base_BaseColor (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.18:688][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Emissive.Scorpion_low_Base_Emissive (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.20:566][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_OcclusionRoughnessMetallic.Scorpion_low_Base_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.20:597][352]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: E318E943178280C8A9A73AD8F164E9A7CFFD70E5), compiling. 
+[2022.11.20-03.51.20:606][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Normal.Scorpion_low_Base_Normal (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.20:724][352]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Stock.Stock needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-03.51.20:999][352]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: 89445EF323DC315FFD2ABF8454EDE1C6BAA94473), compiling. 
+[2022.11.20-03.51.21:866][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_BaseColor.Scorpion_low_Stock_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.22:376][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_Emissive.Scorpion_low_Stock_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.22:757][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_OcclusionRoughnessMetallic.Scorpion_low_Stock_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.22:773][352]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: E2BECF4B4654E047647CB7CCAED464ED34698133), compiling. 
+[2022.11.20-03.51.22:920][352]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-03.51.23:021][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_Normal.Scorpion_low_Stock_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.23:232][352]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: 891504DF71C3E95E315BDED231D2D43B182987FE), compiling. 
+[2022.11.20-03.51.24:506][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_BaseColor_ncl1_1.Scorpion_low_Iron_Sights_BaseColor_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.24:506][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Emissive_ncl1_1.Scorpion_low_Iron_Sights_Emissive_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.24:903][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2.Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.24:925][352]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: 6CA51A0E1AD154805262ADF81EE23C22E9DA52F3), compiling. 
+[2022.11.20-03.51.25:574][352]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Normal_ncl1_1.Scorpion_low_Iron_Sights_Normal_ncl1_1 (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-03.51.25:574][352]LogFbx: Triangulating skeletal mesh RecieverTriggerUnit_low
+[2022.11.20-03.51.27:653][352]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-03.51.29:313][352]LogSkeletalMesh: Section 0: Material=0, 10662 triangles
+[2022.11.20-03.51.29:313][352]LogSkeletalMesh: Section 1: Material=1, 4742 triangles
+[2022.11.20-03.51.29:313][352]LogSkeletalMesh: Section 2: Material=2, 3038 triangles
+[2022.11.20-03.51.29:338][352]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED...
+[2022.11.20-03.51.29:339][352]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.51.30:977][352]LogSkeletalMesh: Built Skeletal Mesh [1.64s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED
+[2022.11.20-03.51.30:978][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-03.51.30:996][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.11.20-03.51.30:996][352]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-03.51.30:996][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-03.51.31:007][352]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-03.51.31:018][352]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_13:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.11.20-03.51.31:018][352]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-03.51.31:018][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-03.51.31:074][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.11.20-03.51.31:157][352]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2022.11.20-03.51.31:197][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.11.20-03.51.31:236][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Base_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Base_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Stock_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Stock_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_BaseColor' was renamed 'Scorpion_low_Iron_Sights_BaseColor_ncl1_1' 
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_Emissive' was renamed 'Scorpion_low_Iron_Sights_Emissive_ncl1_1' 
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2' 
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_Normal' was renamed 'Scorpion_low_Iron_Sights_Normal_ncl1_1' 
+[2022.11.20-03.51.31:251][352]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_3' 
+[2022.11.20-03.51.31:252][352]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-03.51.31:252][352]FBXImport: Warning: The bone size is too small to create Physics Asset 'ScorpionRIGGED_PhysicsAsset' from Skeletal Mesh 'ScorpionRIGGED'. You will have to create physics asset manually. 
+[2022.11.20-03.51.31:333][352]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.54.48:367][817]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 401.962250
+[2022.11.20-03.54.49:366][820]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.20-03.54.49:366][820]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 402.642609, Update Interval: 356.850494
+[2022.11.20-03.58.52:313][777]LogViewport: Scene viewport resized to 1526x548, mode Windowed.
+[2022.11.20-03.58.52:449][779]LogViewport: Scene viewport resized to 1526x477, mode Windowed.
+[2022.11.20-03.58.52:578][781]LogViewport: Scene viewport resized to 1526x425, mode Windowed.
+[2022.11.20-03.58.55:354][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.11.20-03.58.57:941][862]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-03.58.57:990][862]LogUObjectGlobals: Force Deleting 17 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/Stock.Stock
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Base.Base
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_BaseColor.Scorpion_low_Base_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Emissive.Scorpion_low_Base_Emissive
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Normal.Scorpion_low_Base_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_OcclusionRoughnessMetallic.Scorpion_low_Base_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_BaseColor_ncl1_1.Scorpion_low_Iron_Sights_BaseColor_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Emissive_ncl1_1.Scorpion_low_Iron_Sights_Emissive_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Normal_ncl1_1.Scorpion_low_Iron_Sights_Normal_ncl1_1
+	Asset Type: Texture2D
+[2022.11.20-03.58.58:892][862]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: 8BF1DAF3E90565D041D431031C3CB636CD1A01F0), compiling. 
+[2022.11.20-03.58.58:894][862]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Base.Base (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-03.58.58:894][862]LogMaterial: Warning: Base: Requesting an invalid TextureIndex! (3 / 0)
+[2022.11.20-03.58.58:906][862]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: D563493D9253EE4A819A54B4269D867779617240), compiling. 
+[2022.11.20-03.58.58:907][862]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-03.58.58:916][862]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: D563493D9253EE4A819A54B4269D867779617240), compiling. 
+[2022.11.20-03.58.58:918][862]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-03.58.58:927][862]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: D563493D9253EE4A819A54B4269D867779617240), compiling. 
+[2022.11.20-03.58.58:928][862]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-03.58.58:937][862]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: D563493D9253EE4A819A54B4269D867779617240), compiling. 
+[2022.11.20-03.58.58:939][862]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-03.58.58:948][862]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: C078032B7281806C76B9926F474DB34FC607C5DD), compiling. 
+[2022.11.20-03.58.58:949][862]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-03.58.58:968][862]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.58.59:076][862]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.58.59:196][862]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-03.59.00:029][862]LogShaderCompilers: Display: ================================================
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: Total job queries 114, among them cache hits 0 (0.00%)
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: Tracking 59 distinct input hashes that result in 22 distinct outputs (37.29%)
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: Shaders Compiled: 96
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: Jobs assigned 59, completed 59 (100.00%)
+[2022.11.20-03.59.00:030][862]LogShaderCompilers: Display: Average time worker was idle: 2.90 s
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Time job spent in pending queue: average 0.10 s, longest 0.60 s
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Job execution time: average 12.26 s, max 20.76 s
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Job life time (pending + execution): average 12.37 s, max 20.84
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 29.97 s
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Jobs were issued in 27 batches (only local compilation was used), average 2.19 jobs/batch
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Average processing rate: 1.97 jobs/sec
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Effective parallelization: 5.61 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 7.73 sec, max 12.02 sec, min 3.43 sec)
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 4.39 sec, max 9.47 sec, min 1.46 sec)
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 4.15 sec, max 4.36 sec, min 3.93 sec)
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    3 times, average 3.60 sec, max 4.30 sec, min 2.71 sec)
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.26 sec, max 4.01 sec, min 2.50 sec)
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.61% of total time (compiled    9 times, average 2.73 sec, max 3.85 sec, min 1.77 sec)
+[2022.11.20-03.59.00:031][862]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.41% of total time (compiled    9 times, average 2.32 sec, max 2.63 sec, min 1.67 sec)
+[2022.11.20-03.59.00:032][862]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 9.19% of total time (compiled    2 times, average 7.73 sec, max 12.02 sec, min 3.43 sec)
+[2022.11.20-03.59.00:032][862]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.82% of total time (compiled    3 times, average 4.39 sec, max 9.47 sec, min 1.46 sec)
+[2022.11.20-03.59.00:032][862]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.78% of total time (compiled    5 times, average 2.62 sec, max 3.55 sec, min 1.73 sec)
+[2022.11.20-03.59.00:032][862]LogShaderCompilers: Display: ================================================
+[2022.11.20-03.59.00:145][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.11.20-03.59.00:182][862]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.11.20-03.59.00:217][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.20-03.59.03:216][987]LogSlate: Window 'Message Log' being destroyed
+[2022.11.20-03.59.03:232][987]LogSlate: Window 'Message Log' being destroyed
+[2022.11.20-03.59.07:371][ 42]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx)
+[2022.11.20-03.59.07:395][ 42]LogFbx: Loading FBX Scene from D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx
+[2022.11.20-03.59.07:461][ 42]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.20-04.00.02:217][ 42]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.20-04.00.02:289][ 42]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Base.Base needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-04.00.02:298][ 42]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: 52F25CF59EB8930B67B310CB21556089107AFB7B), compiling. 
+[2022.11.20-04.00.03:446][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_BaseColor.Scorpion_low_Base_BaseColor (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.05:666][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Emissive.Scorpion_low_Base_Emissive (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.05:666][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_OcclusionRoughnessMetallic.Scorpion_low_Base_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.07:286][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Normal.Scorpion_low_Base_Normal (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.07:297][ 42]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: 7BB3984F46944AEAD282B466DA4F3D6C64BBDA16), compiling. 
+[2022.11.20-04.00.07:389][ 42]LogFbx: Triangulating skeletal mesh MagazineCatch_low
+[2022.11.20-04.00.07:574][ 42]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-04.00.07:586][ 42]LogSkeletalMesh: Section 0: Material=0, 332 triangles
+[2022.11.20-04.00.07:597][ 42]LogFbx: Triangulating skeletal mesh RecieverTriggerUnit_low
+[2022.11.20-04.00.08:555][ 42]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-04.00.09:175][ 42]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED_MagazineCatch_low...
+[2022.11.20-04.00.09:175][ 42]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low
+[2022.11.20-04.00.09:189][ 42]LogSkeletalMesh: Section 0: Material=0, 9774 triangles
+[2022.11.20-04.00.09:197][ 42]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED_RecieverTriggerUnit_low...
+[2022.11.20-04.00.09:198][ 42]LogFbx: Triangulating skeletal mesh CockingHandle_low
+[2022.11.20-04.00.09:237][ 42]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-04.00.09:256][ 42]LogSkeletalMesh: Section 0: Material=0, 556 triangles
+[2022.11.20-04.00.09:266][ 42]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Magazine.Magazine needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-04.00.09:274][ 42]LogMaterial: Display: Missing cached shadermap for Magazine in PCD3D_SM5, Default, SM5 (DDC key hash: B9CEAD0BF3FF8D9483E87CD37D1CB288ED6D7E6D), compiling. 
+[2022.11.20-04.00.10:242][ 42]LogSkeletalMesh: Built Skeletal Mesh [0.74s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low
+[2022.11.20-04.00.10:242][ 42]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED_CockingHandle_low...
+[2022.11.20-04.00.10:242][ 42]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low
+[2022.11.20-04.00.10:242][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Magazine_Emissive.Scorpion_low_Magazine_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.10:243][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Magazine_BaseColor.Scorpion_low_Magazine_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.10:243][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Magazine_OcclusionRoughnessMetallic.Scorpion_low_Magazine_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.10:256][ 42]LogMaterial: Display: Missing cached shadermap for Magazine in PCD3D_SM5, Default, SM5 (DDC key hash: A9EEB93F46B0527BB2AA6D168B58DD00AC2F6495), compiling. 
+[2022.11.20-04.00.10:350][ 42]LogFbx: Triangulating skeletal mesh Magazine_low
+[2022.11.20-04.00.10:655][ 42]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-04.00.10:715][ 42]LogSkeletalMesh: Section 0: Material=0, 1321 triangles
+[2022.11.20-04.00.10:759][ 42]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-04.00.10:772][ 42]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: 5D71E1D7A3BCB761554CC8AD277ABF6AC4306F5C), compiling. 
+[2022.11.20-04.00.11:351][ 42]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED_Magazine_low...
+[2022.11.20-04.00.11:351][ 42]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low
+[2022.11.20-04.00.11:351][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_BaseColor_ncl1_1.Scorpion_low_Iron_Sights_BaseColor_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.11:898][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Emissive_ncl1_1.Scorpion_low_Iron_Sights_Emissive_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.12:297][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2.Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.12:314][ 42]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: 6CBB808F9465587D179FDA19E5C47EA7B7A8E64F), compiling. 
+[2022.11.20-04.00.12:417][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Normal_ncl1_1.Scorpion_low_Iron_Sights_Normal_ncl1_1 (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.12:417][ 42]LogFbx: Triangulating skeletal mesh IronSights_low
+[2022.11.20-04.00.12:838][ 42]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-04.00.13:035][ 42]LogSkeletalMesh: Section 0: Material=0, 3038 triangles
+[2022.11.20-04.00.13:047][ 42]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED_IronSights_low...
+[2022.11.20-04.00.13:052][ 42]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Stock.Stock needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-04.00.13:066][ 42]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: 5CC349CDEB1E1AB6D16FD92523FA4109076F912E), compiling. 
+[2022.11.20-04.00.13:654][ 42]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low
+[2022.11.20-04.00.13:654][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_BaseColor.Scorpion_low_Stock_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.14:339][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_Emissive.Scorpion_low_Stock_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.14:340][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_OcclusionRoughnessMetallic.Scorpion_low_Stock_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.14:732][ 42]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: E9A115A17C64DFBCB5DFC5F5C138A11C951BBB6D), compiling. 
+[2022.11.20-04.00.14:861][ 42]LogFbx: Triangulating skeletal mesh stock_low
+[2022.11.20-04.00.15:402][ 42]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_Normal.Scorpion_low_Stock_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.00.15:419][ 42]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-04.00.15:743][ 42]LogSkeletalMesh: Section 0: Material=0, 4742 triangles
+[2022.11.20-04.00.15:759][ 42]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED_stock_low...
+[2022.11.20-04.00.15:759][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Base_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Base_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Stock_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Stock_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Magazine_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Magazine_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_BaseColor' was renamed 'Scorpion_low_Iron_Sights_BaseColor_ncl1_1' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_Emissive' was renamed 'Scorpion_low_Iron_Sights_Emissive_ncl1_1' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_Normal' was renamed 'Scorpion_low_Iron_Sights_Normal_ncl1_1' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_3' 
+[2022.11.20-04.00.15:760][ 42]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.20-04.00.15:760][ 42]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-04.00.15:761][ 42]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-04.00.15:761][ 42]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-04.00.15:761][ 42]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-04.00.15:761][ 42]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-04.00.15:761][ 42]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-04.00.16:107][ 43]LogSkeletalMesh: Built Skeletal Mesh [0.35s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low
+[2022.11.20-04.00.46:434][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.20-04.00.46:440][ 58]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_Iteration3' took 0.034
+[2022.11.20-04.00.46:443][ 58]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon] ([2] browsable assets)...
+[2022.11.20-04.00.46:443][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon]
+[2022.11.20-04.00.46:465][ 58]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.019396 seconds
+[2022.11.20-04.00.46:489][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon_Auto1
+[2022.11.20-04.00.46:489][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/BP_Scorpion_Weapon_Auto194D76FA345B96DD659E6B18D390D142A.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon_Auto1.uasset'
+[2022.11.20-04.00.46:492][ 58]OBJ SavePackage: Generating thumbnails for [6] asset(s) in package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED] ([6] browsable assets)...
+[2022.11.20-04.00.46:519][ 58]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low]
+[2022.11.20-04.00.46:545][ 58]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low]
+[2022.11.20-04.00.46:572][ 58]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low]
+[2022.11.20-04.00.46:598][ 58]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low]
+[2022.11.20-04.00.46:629][ 58]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low]
+[2022.11.20-04.00.46:655][ 58]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low]
+[2022.11.20-04.00.46:655][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED]
+[2022.11.20-04.00.46:948][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Auto1
+[2022.11.20-04.00.46:948][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/ScorpionRIGGED_Auto1F3F24398473184CFD774CAA076BDF884.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Auto1.uasset'
+[2022.11.20-04.00.46:950][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_MagazineCatch_low_Skeleton] ([1] browsable assets)...
+[2022.11.20-04.00.46:966][ 58]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_MagazineCatch_low_Skeleton.ScorpionRIGGED_MagazineCatch_low_Skeleton]
+[2022.11.20-04.00.46:966][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_MagazineCatch_low_Skeleton]
+[2022.11.20-04.00.46:968][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_MagazineCatch_low_Skeleton_Auto1
+[2022.11.20-04.00.46:969][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/ScorpionRIGGED_MagazineCatch_low466D011D4D8043157CC5C2BCB937943A.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_MagazineCatch_low_Skeleton_Auto1.uasset'
+[2022.11.20-04.00.46:970][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton] ([1] browsable assets)...
+[2022.11.20-04.00.46:987][ 58]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton.ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton]
+[2022.11.20-04.00.46:987][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton]
+[2022.11.20-04.00.46:989][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton_Auto1
+[2022.11.20-04.00.46:989][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/ScorpionRIGGED_RecieverTriggerUn793882994076FB634DDC448D6D4D65E9.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton_Auto1.uasset'
+[2022.11.20-04.00.46:991][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_CockingHandle_low_Skeleton] ([1] browsable assets)...
+[2022.11.20-04.00.47:008][ 58]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_CockingHandle_low_Skeleton.ScorpionRIGGED_CockingHandle_low_Skeleton]
+[2022.11.20-04.00.47:008][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_CockingHandle_low_Skeleton]
+[2022.11.20-04.00.47:012][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_CockingHandle_low_Skeleton_Auto1
+[2022.11.20-04.00.47:012][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/ScorpionRIGGED_CockingHandle_low59FCC8E84BAD17AEE9A78CB37D2ED82A.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_CockingHandle_low_Skeleton_Auto1.uasset'
+[2022.11.20-04.00.47:014][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Magazine_low_Skeleton] ([1] browsable assets)...
+[2022.11.20-04.00.47:031][ 58]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Magazine_low_Skeleton.ScorpionRIGGED_Magazine_low_Skeleton]
+[2022.11.20-04.00.47:031][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Magazine_low_Skeleton]
+[2022.11.20-04.00.47:034][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Magazine_low_Skeleton_Auto1
+[2022.11.20-04.00.47:034][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/ScorpionRIGGED_Magazine_low_Skel98D61E094CF73C19321C2C858FB6B8B9.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_Magazine_low_Skeleton_Auto1.uasset'
+[2022.11.20-04.00.47:036][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_IronSights_low_Skeleton] ([1] browsable assets)...
+[2022.11.20-04.00.47:053][ 58]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_IronSights_low_Skeleton.ScorpionRIGGED_IronSights_low_Skeleton]
+[2022.11.20-04.00.47:053][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_IronSights_low_Skeleton]
+[2022.11.20-04.00.47:056][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_IronSights_low_Skeleton_Auto1
+[2022.11.20-04.00.47:056][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/ScorpionRIGGED_IronSights_low_SkA1F0B6094AD3936376E8399FE663FBAD.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_IronSights_low_Skeleton_Auto1.uasset'
+[2022.11.20-04.00.47:057][ 58]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_stock_low_Skeleton] ([1] browsable assets)...
+[2022.11.20-04.00.47:076][ 58]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_stock_low_Skeleton.ScorpionRIGGED_stock_low_Skeleton]
+[2022.11.20-04.00.47:076][ 58]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_stock_low_Skeleton]
+[2022.11.20-04.00.47:079][ 58]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_stock_low_Skeleton_Auto1
+[2022.11.20-04.00.47:079][ 58]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/ScorpionRIGGED_stock_low_Skeleto9ED2F09D409B86AC7836E3B88C44250A.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/FPS/Weapons/Scorpion/ScorpionRIGGED_stock_low_Skeleton_Auto1.uasset'
+[2022.11.20-04.00.47:080][ 58]LogFileHelpers: Auto-saving content packages took 0.640
+[2022.11.20-04.00.48:458][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 762.053101
+[2022.11.20-04.00.48:597][115]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.20-04.00.48:597][115]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 762.165588, Update Interval: 327.770630
+[2022.11.20-04.02.05:597][886]LogSlate: Window 'Create Merged Actor' being destroyed
+[2022.11.20-04.02.05:693][886]LogStaticMesh: Display: Building static mesh SM_Pheonix...
+[2022.11.20-04.02.05:693][886]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/FPS/Weapons/Scorpion/SM_Pheonix) ...
+[2022.11.20-04.02.05:735][886]LogStaticMesh: Built static mesh [0.05s] /Game/FPS/Weapons/Scorpion/SM_Pheonix.SM_Pheonix
+[2022.11.20-04.02.09:720][ 11]LogSlate: Window 'Merge Actors' being destroyed
+[2022.11.20-04.02.09:737][ 11]LogSlate: Window 'Merge Actors' being destroyed
+[2022.11.20-04.02.17:078][257]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FPS/Weapons/Scorpion/SM_Pheonix.SM_Pheonix
+[2022.11.20-04.02.17:145][257]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.02.18:291][257]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2022.11.20-04.02.26:750][449]LogSlate: Window 'SM_Pheonix' being destroyed
+[2022.11.20-04.02.26:856][449]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.02.26:856][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.02.29:010][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.11.20-04.02.30:587][512]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-04.02.30:630][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.11.20-04.02.30:663][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.11.20-04.02.30:692][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.20-04.02.32:211][553]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low
+[2022.11.20-04.02.32:282][553]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.02.32:304][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.20-04.02.33:239][553]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.11.20-04.02.39:421][690]LogSlate: Window 'ScorpionRIGGED_MagazineCatch_low' being destroyed
+[2022.11.20-04.02.39:436][690]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.02.39:436][690]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.03.12:382][517]LogSlate: Window 'Create Merged Actor' being destroyed
+[2022.11.20-04.03.17:199][681]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/SM_Pheonix.SM_Pheonix
+[2022.11.20-04.03.17:272][681]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.03.18:229][681]LogViewport: Scene viewport resized to 1217x772, mode Windowed.
+[2022.11.20-04.03.28:753][963]LogSlate: Window 'SM_Pheonix' being destroyed
+[2022.11.20-04.03.28:839][963]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.03.28:839][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.03.31:023][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.11.20-04.03.32:040][ 34]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-04.03.32:085][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.20-04.03.32:118][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.11.20-04.03.32:146][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.20-04.03.45:187][479]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton.ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton
+[2022.11.20-04.03.45:201][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.03.45:249][479]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.20-04.03.45:775][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.03.45:995][479]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.11.20-04.05.11:211][572]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/FPS/Weapons/MachineGun/SK_MachineGun_PhysicsAsset.SK_MachineGun_PhysicsAsset
+[2022.11.20-04.05.11:273][572]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.05.11:299][572]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.11.20-04.05.12:114][572]LogSlate: Took 0.001559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.20-04.05.12:133][572]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.11.20-04.05.15:230][630]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.05.15:230][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.05.16:711][666]LogSlate: Window 'ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton' being destroyed
+[2022.11.20-04.05.16:723][666]LogSlate: Window 'ScorpionRIGGED_RecieverTriggerUnit_low_Skeleton' being destroyed
+[2022.11.20-04.05.16:726][666]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.05.16:726][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.05.16:862][666]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.05.16:862][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.05.17:888][694]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/FPS/Weapons/MachineGun/SK_MachineGun.SK_MachineGun
+[2022.11.20-04.05.17:901][694]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.05.17:932][694]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.20-04.05.18:723][694]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.11.20-04.05.26:377][880]LogSlate: Window 'SK_MachineGun' being destroyed
+[2022.11.20-04.05.26:387][880]LogSlate: Window 'SK_MachineGun' being destroyed
+[2022.11.20-04.05.26:390][880]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.05.26:390][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.05.27:335][903]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FPS/Weapons/MachineGun/SK_MachineGun_Skeleton.SK_MachineGun_Skeleton
+[2022.11.20-04.05.27:349][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.05.27:381][903]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.20-04.05.27:900][903]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.05.28:127][903]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.11.20-04.05.35:460][ 96]LogSlate: Window 'SK_MachineGun_Skeleton' being destroyed
+[2022.11.20-04.05.35:473][ 96]LogSlate: Window 'SK_MachineGun_Skeleton' being destroyed
+[2022.11.20-04.05.35:475][ 96]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.05.35:476][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.05.35:613][ 96]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.05.35:613][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.06.24:166][680]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1097.762329
+[2022.11.20-04.06.25:165][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.20-04.06.25:165][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1098.428345, Update Interval: 348.445679
+[2022.11.20-04.06.31:554][702]LogSlate: Window 'Message Log' being destroyed
+[2022.11.20-04.06.31:560][702]LogSlate: Window 'Message Log' being destroyed
+[2022.11.20-04.06.32:865][705]LogSlate: Window 'Merge Actors' being destroyed
+[2022.11.20-04.06.32:871][705]LogSlate: Window 'Merge Actors' being destroyed
+[2022.11.20-04.07.12:449][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low
+[2022.11.20-04.07.12:449][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low
+[2022.11.20-04.07.12:453][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_0
+[2022.11.20-04.07.12:455][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_0
+[2022.11.20-04.07.12:458][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low
+[2022.11.20-04.07.12:458][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low
+[2022.11.20-04.07.12:461][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_1
+[2022.11.20-04.07.12:461][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_1
+[2022.11.20-04.07.12:464][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low
+[2022.11.20-04.07.12:464][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low
+[2022.11.20-04.07.12:467][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_2
+[2022.11.20-04.07.12:467][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_2
+[2022.11.20-04.07.12:470][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low
+[2022.11.20-04.07.12:471][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low
+[2022.11.20-04.07.12:473][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_3
+[2022.11.20-04.07.12:473][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_3
+[2022.11.20-04.07.12:476][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low
+[2022.11.20-04.07.12:477][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low
+[2022.11.20-04.07.12:479][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_4
+[2022.11.20-04.07.12:479][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_4
+[2022.11.20-04.07.12:483][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low
+[2022.11.20-04.07.12:483][763]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low
+[2022.11.20-04.07.12:485][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_5
+[2022.11.20-04.07.12:486][763]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_5
+[2022.11.20-04.07.13:057][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low
+[2022.11.20-04.07.13:057][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low
+[2022.11.20-04.07.13:063][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_6
+[2022.11.20-04.07.13:063][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_CockingHandle_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_6
+[2022.11.20-04.07.13:136][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low
+[2022.11.20-04.07.13:136][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low
+[2022.11.20-04.07.13:139][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_7
+[2022.11.20-04.07.13:140][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_IronSights_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_7
+[2022.11.20-04.07.13:197][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low
+[2022.11.20-04.07.13:197][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low
+[2022.11.20-04.07.13:200][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_8
+[2022.11.20-04.07.13:201][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_Magazine_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_8
+[2022.11.20-04.07.13:256][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low
+[2022.11.20-04.07.13:257][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low
+[2022.11.20-04.07.13:260][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_9
+[2022.11.20-04.07.13:261][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_MagazineCatch_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_9
+[2022.11.20-04.07.13:317][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low
+[2022.11.20-04.07.13:317][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low
+[2022.11.20-04.07.13:321][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_10
+[2022.11.20-04.07.13:321][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_RecieverTriggerUnit_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_10
+[2022.11.20-04.07.13:378][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low
+[2022.11.20-04.07.13:378][784]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low
+[2022.11.20-04.07.13:381][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_11
+[2022.11.20-04.07.13:382][784]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED_stock_low as actor: SkeletalMeshActor /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3:PersistentLevel.SkeletalMeshActor_11
+[2022.11.20-04.07.13:812][784]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.20-04.07.35:129][578]LogSlate: Window 'Merge Actors' being destroyed
+[2022.11.20-04.07.35:143][578]LogSlate: Window 'Merge Actors' being destroyed
+[2022.11.20-04.07.39:375][736]Cmd: DELETE
+[2022.11.20-04.07.39:375][736]Cmd: ACTOR DELETE
+[2022.11.20-04.07.39:522][736]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.11.20-04.07.39:524][736]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.11.20-04.07.39:525][736]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.11.20-04.07.39:526][736]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.11.20-04.07.39:528][736]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.11.20-04.07.39:529][736]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2022.11.20-04.07.39:569][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.11.20-04.07.39:575][736]LogEditorActor: Deleted 6 Actors (0.192 secs)
+[2022.11.20-04.07.40:983][795]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/FPS/Weapons/Scorpion/ScorpionRIGGED_CockingHandle_low_Skeleton.ScorpionRIGGED_CockingHandle_low_Skeleton
+[2022.11.20-04.07.40:999][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.07.41:022][795]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.11.20-04.07.41:540][795]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.20-04.07.41:743][795]LogViewport: Scene viewport resized to 988x736, mode Windowed.
+[2022.11.20-04.07.51:912][119]LogHttp: Warning: 00000918DA91CD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D4053DE-4E8F-804E-C206-F08D029CB0BD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=ffe5b2444512f8c5e1b3f9b96194bec9%7Cb5a1065d91b046879e4e9d7dda58354b%7Cfdc7058b-8c25-442e-9087-1a596870b7b1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: request failed, libcurl error: 0 (No error)
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x918930d0480 [can pipeline])
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.209.144.249) port 443 (#3))
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 7 (Closing connection 3)
+[2022.11.20-04.07.51:914][119]LogHttp: Warning: 00000918DA91CD00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.11.20-04.07.51:915][119]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D4053DE-4E8F-804E-C206-F08D029CB0BD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=ffe5b2444512f8c5e1b3f9b96194bec9%7Cb5a1065d91b046879e4e9d7dda58354b%7Cfdc7058b-8c25-442e-9087-1a596870b7b1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.11.20-04.07.59:065][411]LogSlate: Window 'ScorpionRIGGED_CockingHandle_low_Skeleton' being destroyed
+[2022.11.20-04.07.59:080][411]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.07.59:080][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.07.59:234][411]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.11.20-04.07.59:234][411]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.20-04.08.03:901][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.11.20-04.08.07:311][573]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.20-04.08.07:363][573]LogUObjectGlobals: Force Deleting 31 Package(s):
+	Asset Name: /Game/FPS/Weapons/Scorpion/Stock.Stock
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Base.Base
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Magazine.Magazine
+	Asset Type: Material
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_BaseColor.Scorpion_low_Base_BaseColor
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Emissive.Scorpion_low_Base_Emissive
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Normal.Scorpion_low_Base_Normal
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_OcclusionRoughnessMetallic.Scorpion_low_Base_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_BaseColor_ncl1_1.Scorpion_low_Iron_Sights_BaseColor_ncl1_1
+	Asset Type: Texture2D
+	Asset Name: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Emissive_ncl1_1.Scorpion_low_Iron_Sights_Emissive_ncl1_1
+	Asset Type: Texture2D
+[2022.11.20-04.08.08:358][573]LogMaterial: Display: Missing cached shadermap for Magazine in PCD3D_SM5, Default, SM5 (DDC key hash: A99D267EA9313333569162635C633895CE50FA74), compiling. 
+[2022.11.20-04.08.08:360][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Magazine.Magazine (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:374][573]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: D5309C609167F6056FDEA90BC80E337E529CA21A), compiling. 
+[2022.11.20-04.08.08:375][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Base.Base (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:399][573]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED_RecieverTriggerUnit_low) ...
+[2022.11.20-04.08.08:455][573]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: 574E6BDA8FF5AC8EFF321A826A8CBA778B38A26E), compiling. 
+[2022.11.20-04.08.08:457][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:467][573]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: 574E6BDA8FF5AC8EFF321A826A8CBA778B38A26E), compiling. 
+[2022.11.20-04.08.08:470][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:481][573]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: 574E6BDA8FF5AC8EFF321A826A8CBA778B38A26E), compiling. 
+[2022.11.20-04.08.08:482][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:493][573]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: 574E6BDA8FF5AC8EFF321A826A8CBA778B38A26E), compiling. 
+[2022.11.20-04.08.08:494][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Stock.Stock (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:515][573]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED_stock_low) ...
+[2022.11.20-04.08.08:541][573]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: C918D9FC0AE98D0E138544E129195D118C6C3E07), compiling. 
+[2022.11.20-04.08.08:544][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:558][573]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: C918D9FC0AE98D0E138544E129195D118C6C3E07), compiling. 
+[2022.11.20-04.08.08:561][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:573][573]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: C918D9FC0AE98D0E138544E129195D118C6C3E07), compiling. 
+[2022.11.20-04.08.08:575][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:588][573]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: C918D9FC0AE98D0E138544E129195D118C6C3E07), compiling. 
+[2022.11.20-04.08.08:590][573]LogMaterial: Warning: [AssetLog] /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.11.20-04.08.08:613][573]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED_IronSights_low) ...
+[2022.11.20-04.08.08:638][573]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED_Magazine_low) ...
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: ================================================
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Total job queries 266, among them cache hits 59 (22.18%)
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Tracking 102 distinct input hashes that result in 26 distinct outputs (25.49%)
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Shaders Compiled: 128
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Jobs assigned 102, completed 102 (100.00%)
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Average time worker was idle: 124.12 s
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.60 s
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Job execution time: average 12.23 s, max 20.76 s
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Job life time (pending + execution): average 12.32 s, max 20.84
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.12 s
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Jobs were issued in 41 batches (only local compilation was used), average 2.49 jobs/batch
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Average processing rate: 2.08 jobs/sec
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Effective parallelization: 5.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 5.58 sec, max 12.02 sec, min 3.06 sec)
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    6 times, average 3.44 sec, max 9.47 sec, min 1.46 sec)
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 3.34 sec, max 4.36 sec, min 2.14 sec)
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 3.25 sec, max 4.30 sec, min 2.63 sec)
+[2022.11.20-04.08.10:087][573]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 3.11 sec, max 4.01 sec, min 2.05 sec)
+[2022.11.20-04.08.10:088][573]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.20-04.08.10:088][573]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.35% of total time (compiled   13 times, average 2.61 sec, max 3.85 sec, min 1.56 sec)
+[2022.11.20-04.08.10:088][573]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.63% of total time (compiled   13 times, average 2.25 sec, max 2.69 sec, min 1.67 sec)
+[2022.11.20-04.08.10:088][573]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.14% of total time (compiled    4 times, average 5.58 sec, max 12.02 sec, min 3.06 sec)
+[2022.11.20-04.08.10:088][573]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.51% of total time (compiled    6 times, average 3.44 sec, max 9.47 sec, min 1.46 sec)
+[2022.11.20-04.08.10:088][573]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.24% of total time (compiled    8 times, average 2.49 sec, max 3.55 sec, min 1.68 sec)
+[2022.11.20-04.08.10:088][573]LogShaderCompilers: Display: ================================================
+[2022.11.20-04.08.10:193][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.11.20-04.08.10:227][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.20-04.08.10:258][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.20-04.10.47:534][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.20-04.10.49:222][ 44]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Map3/Sunlight_Museum_Iteration3_Auto2
+[2022.11.20-04.10.49:223][ 44]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Sunlight_Museum_Iteration3_Auto215DA07C0413DF1DE2CD2E2A30A0B8048.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Autosaves/Game/Map3/Sunlight_Museum_Iteration3_Auto2.umap'
+[2022.11.20-04.10.49:258][ 44]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Map3/Sunlight_Museum_Iteration3' took 1.761
+[2022.11.20-04.10.49:258][ 44]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.761
+[2022.11.20-04.12.22:563][325]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1456.160767
+[2022.11.20-04.12.23:563][328]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2022.11.20-04.12.23:563][328]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1456.827759, Update Interval: 339.779053
+[2022.11.20-04.14.12:842][646]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx)
+[2022.11.20-04.14.12:867][646]LogFbx: Loading FBX Scene from D:/Unreal Projects/Flutterbeam Meshes/ScorpionRIGGED.fbx
+[2022.11.20-04.14.12:927][646]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.20-04.14.27:492][646]LogSlate: Took 0.000485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.20-04.14.35:294][646]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.20-04.14.35:353][646]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Base.Base needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-04.14.35:361][646]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: 06F9BF5DF1B8E15F1279EF883AF40567A719FEA8), compiling. 
+[2022.11.20-04.14.36:515][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_BaseColor.Scorpion_low_Base_BaseColor (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.38:694][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Emissive.Scorpion_low_Base_Emissive (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.40:340][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_OcclusionRoughnessMetallic.Scorpion_low_Base_OcclusionRoughnessMetallic (TFO_AutoDXT VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.40:340][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Base_Normal.Scorpion_low_Base_Normal (TFO_BC5 VT, 4096X4096 X1X1) (Required Memory Estimate: 320.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.40:350][646]LogMaterial: Display: Missing cached shadermap for Base in PCD3D_SM5, Default, SM5 (DDC key hash: 9939BC6E8D0024286D8F53B064AF2C1EE4ADB17D), compiling. 
+[2022.11.20-04.14.40:450][646]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Stock.Stock needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-04.14.40:666][646]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: A73C898584AB070E1B1BFA218528A0795B7227CE), compiling. 
+[2022.11.20-04.14.41:877][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_BaseColor.Scorpion_low_Stock_BaseColor (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.41:877][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_Emissive.Scorpion_low_Stock_Emissive (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.42:261][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_OcclusionRoughnessMetallic.Scorpion_low_Stock_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.42:274][646]LogMaterial: Display: Missing cached shadermap for Stock in PCD3D_SM5, Default, SM5 (DDC key hash: 4A72105D5D1431042129EBFFEAA6740CE36D7CDD), compiling. 
+[2022.11.20-04.14.42:373][646]LogMaterial: Display: Material /Game/FPS/Weapons/Scorpion/Iron_Sights.Iron_Sights needed to have new flag set bUsedWithSkeletalMesh !
+[2022.11.20-04.14.42:390][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Stock_Normal.Scorpion_low_Stock_Normal (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.42:633][646]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: 95D42249C17C18644F7103AE253E441E323B820C), compiling. 
+[2022.11.20-04.14.43:420][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_BaseColor_ncl1_1.Scorpion_low_Iron_Sights_BaseColor_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.43:782][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Emissive_ncl1_1.Scorpion_low_Iron_Sights_Emissive_ncl1_1 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.44:158][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2.Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2 (TFO_AutoDXT, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.44:174][646]LogMaterial: Display: Missing cached shadermap for Iron_Sights in PCD3D_SM5, Default, SM5 (DDC key hash: 25AD0DCD8B1C660CF8E9C9D4EA61C7AD76846DC8), compiling. 
+[2022.11.20-04.14.44:292][646]LogTexture: Display: Building textures: /Game/FPS/Weapons/Scorpion/Scorpion_low_Iron_Sights_Normal_ncl1_1.Scorpion_low_Iron_Sights_Normal_ncl1_1 (TFO_BC5, 2048X2048 X1X1) (Required Memory Estimate: 80.000 MB), EncodeSpeed: Fast
+[2022.11.20-04.14.44:292][646]LogFbx: Triangulating skeletal mesh CockingHandle_low
+[2022.11.20-04.14.46:086][646]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.11.20-04.14.47:792][646]LogSkeletalMesh: Section 0: Material=0, 11983 triangles
+[2022.11.20-04.14.47:792][646]LogSkeletalMesh: Section 1: Material=1, 4742 triangles
+[2022.11.20-04.14.47:793][646]LogSkeletalMesh: Section 2: Material=2, 3038 triangles
+[2022.11.20-04.14.47:807][646]LogSkeletalMesh: Building Skeletal Mesh ScorpionRIGGED...
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Base_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Base_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Stock_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Stock_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_BaseColor' was renamed 'Scorpion_low_Iron_Sights_BaseColor_ncl1_1' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_Emissive' was renamed 'Scorpion_low_Iron_Sights_Emissive_ncl1_1' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_2' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_Normal' was renamed 'Scorpion_low_Iron_Sights_Normal_ncl1_1' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Iron_Sights_OcclusionRoughnessMetallic_ncl1_3' 
+[2022.11.20-04.14.47:807][646]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Scorpion_low_Magazine_OcclusionRoughnessMetallic' was renamed 'Scorpion_low_Magazine_OcclusionRoughnessMetallic_ncl1_1' 
+[2022.11.20-04.14.47:808][646]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.20-04.14.47:808][646]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2022.11.20-04.14.47:874][646]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (ScorpionRIGGED) ...
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: ================================================
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: Total job queries 362, among them cache hits 105 (29.01%)
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: Tracking 102 distinct input hashes that result in 26 distinct outputs (25.49%)
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: RAM used: 0.07 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: Shaders Compiled: 128
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: Jobs assigned 125, completed 102 (81.60%)
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: Average time worker was idle: 266.80 s
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.60 s
+[2022.11.20-04.14.47:879][646]LogShaderCompilers: Display: Job execution time: average 12.23 s, max 20.76 s
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display: Job life time (pending + execution): average 12.32 s, max 20.84
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 49.12 s
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display: Jobs were issued in 49 batches (only local compilation was used), average 2.55 jobs/batch
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display: Average processing rate: 2.08 jobs/sec
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display: Effective parallelization: 5.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 5.58 sec, max 12.02 sec, min 3.06 sec)
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    6 times, average 3.44 sec, max 9.47 sec, min 1.46 sec)
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 3.34 sec, max 4.36 sec, min 2.14 sec)
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    5 times, average 3.25 sec, max 4.30 sec, min 2.63 sec)
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 3.11 sec, max 4.01 sec, min 2.05 sec)
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.35% of total time (compiled   13 times, average 2.61 sec, max 3.85 sec, min 1.56 sec)
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.63% of total time (compiled   13 times, average 2.25 sec, max 2.69 sec, min 1.67 sec)
+[2022.11.20-04.14.47:880][646]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.14% of total time (compiled    4 times, average 5.58 sec, max 12.02 sec, min 3.06 sec)
+[2022.11.20-04.14.47:881][646]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.51% of total time (compiled    6 times, average 3.44 sec, max 9.47 sec, min 1.46 sec)
+[2022.11.20-04.14.47:881][646]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.24% of total time (compiled    8 times, average 2.49 sec, max 3.55 sec, min 1.68 sec)
+[2022.11.20-04.14.47:881][646]LogShaderCompilers: Display: ================================================
+[2022.11.20-04.14.49:491][646]LogSkeletalMesh: Built Skeletal Mesh [1.67s] /Game/FPS/Weapons/Scorpion/ScorpionRIGGED.ScorpionRIGGED
+[2022.11.20-04.15.02:121][146]LogSlate: Window 'Message Log' being destroyed
+[2022.11.20-04.15.02:140][146]LogSlate: Window 'Message Log' being destroyed
+[2022.11.20-04.15.09:917][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.20-04.15.11:554][467]LogSavePackage: Moving output files for package: /Game/Map3/Sunlight_Museum_Iteration3
+[2022.11.20-04.15.11:556][467]LogSavePackage: Moving 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Saved/Sunlight_Museum_Iteration3F815547A43C5A1B2CC0FC6BB905C9DF7.tmp' to 'D:/Unreal Projects/Flutterbeam/FPS_Multiplayer/Multiplayer_Flutterbeam/Content/Map3/Sunlight_Museum_Iteration3.umap'
+[2022.11.20-04.15.11:687][467]AssetCheck: New page: Asset Save: Sunlight_Museum_Iteration3
+[2022.11.20-04.15.11:688][467]LogContentValidation: Display: Validating World /Game/Map3/Sunlight_Museum_Iteration3.Sunlight_Museum_Iteration3
+[2022.11.20-04.15.37:273][654]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS/Blueprints/Weapons/BP_Scorpion_Weapon.BP_Scorpion_Weapon
+[2022.11.20-04.15.37:282][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
