@@ -363,3 +363,140 @@
 [1121/030945.003:WARNING:storage_block-inl.h(146)] Failed data load.
 [1121/030945.005:ERROR:entry_impl.cc(998)] Failed to save user data
 [1121/030945.005:ERROR:entry_impl.cc(998)] Failed to save user data
+[1128/060340.190:ERROR:transport_security_persister.cc(413)] Failed to deserialize state: <<<<<<< HEAD
+<<<<<<< HEAD
+{
+   "1SPWdvPJP1fCUhLZIB1LpusMdju/XAX2DbnoblktVp0=": {
+      "expiry": 1700122880.384663,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668586880.384664
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1700122872.354238,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668586872.35424
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1679473272.331655,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668586872.331658
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1700122871.636605,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1668586871.636606
+   }
+}
+=======
+=======
+>>>>>>> Ron
+{
+   "1SPWdvPJP1fCUhLZIB1LpusMdju/XAX2DbnoblktVp0=": {
+      "expiry": 1700071994.54143,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668535994.541436
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1700071992.834986,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668535992.834993
+   },
+   "aOQPTpHf0QvV/9meCm7MGIvpSqjlAEMdE+G8Nelk90o=": {
+      "expiry": 1700071997.640038,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668535997.640044
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1679094734.337099,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668208334.337108
+   },
+   "k2K4kQd8V1+vi/G5kkyFFG8um2NS1HRPIzw/cUH/uIo=": {
+      "expiry": 1699824170.033918,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668288170.033926
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1700071992.708674,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1668535992.708678
+   }
+}
+<<<<<<< HEAD
+>>>>>>> Ron
+=======
+=======
+{
+   "1SPWdvPJP1fCUhLZIB1LpusMdju/XAX2DbnoblktVp0=": {
+      "expiry": 1700122880.384663,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668586880.384664
+   },
+   "M4bfUnCmQAi4PNb3B8aI/2+SVJhHKsMfMMT7fzi6ij4=": {
+      "expiry": 1700122872.354238,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668586872.35424
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1679473272.331655,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1668586872.331658
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1700122871.636605,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1668586871.636606
+   }
+}
+>>>>>>> main
+>>>>>>> Ron
+
+[1128/060341.981:WARNING:backend_impl.cc(1813)] Destroying invalid entry.
+[1128/060341.981:ERROR:backend_impl.cc(1041)] Critical error found -8
+[1128/060341.981:WARNING:storage_block-inl.h(146)] Failed data load.
+[1128/060341.981:ERROR:entry_impl.cc(1076)] No file for c1030166
+[1128/060341.991:WARNING:storage_block-inl.h(146)] Failed data load.
+[1128/060342.065:ERROR:entry_impl.cc(998)] Failed to save user data
+[1128/060342.066:ERROR:entry_impl.cc(998)] Failed to save user data
+[1128/061035.720:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1128/061035.720:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1128/061035.720:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1128/061035.720:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1128/061035.720:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[1128/061035.720:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[1128/061035.720:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[1128/061035.721:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1128/061035.721:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1128/061035.721:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1128/061035.721:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1128/061035.722:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 122
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 121
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 109 to 120
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 1 to 14
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 3 to 13
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 5 to 12
+[1128/061052.890:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 6 to 11
+[1128/061052.891:ERROR:audio_rtp_receiver.cc(89)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[1128/061114.275:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1128/061114.275:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1128/061115.079:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1128/061115.079:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
