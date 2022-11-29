@@ -1,0 +1,33 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="MI_Emerald_Asscher_001"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Parent=Material'"/Game/CardinalGems/Materials/Masters/MAT_Gem_001_Translucent_Shadows_OFF.MAT_Gem_001_Translucent_Shadows_OFF"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Internal Rainbow Desaturation"),ParameterValue=0.400000,ExpressionGUID=0447E71146D0731A9FECF9A9337ABB5C)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="Internal Rainbow Hue Shift Amount"),ParameterValue=0.100000,ExpressionGUID=4D5C43314D905EEDFFE28CA9B0F4170E)
+   ScalarParameterValues(2)=(ParameterInfo=(Name="Internal Rainbow Intensity"),ParameterValue=0.200000,ExpressionGUID=FC8CBDD84A4FC44DD95E37B8335297DF)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="Opacity Tweak 1"),ParameterValue=0.700000,ExpressionGUID=43DA13AF46D1C66E8D9F41857361C18B)
+   ScalarParameterValues(4)=(ParameterInfo=(Name="Opacity Tweak 2"),ParameterValue=0.800000,ExpressionGUID=9952035A433368525A6A83AEC6738A73)
+   ScalarParameterValues(5)=(ParameterInfo=(Name="Dirty Prism"),ParameterValue=0.400000,ExpressionGUID=570AF8A841E6A7D5D208B5AB869941B3)
+   ScalarParameterValues(6)=(ParameterInfo=(Name="Prism Multiplier 1"),ParameterValue=4.000000,ExpressionGUID=03E375D1477A5572A805E3BE7DFA47FF)
+   ScalarParameterValues(7)=(ParameterInfo=(Name="Prism Multiplier 2"),ParameterValue=30.000000,ExpressionGUID=6D2DD8FC4A9A3EB1B630208EBF9BBE4B)
+   ScalarParameterValues(8)=(ParameterInfo=(Name="Prism Power"),ParameterValue=6.000000,ExpressionGUID=3A9E57A344CE3384D124CCA34CA198BE)
+   ScalarParameterValues(9)=(ParameterInfo=(Name="Fresnal_Power"),ParameterValue=3.000000,ExpressionGUID=27CA64054129CC01E93E019F6EFB89D6)
+   ScalarParameterValues(10)=(ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Color_Main"),ParameterValue=(R=0.000000,G=0.000000,B=0.000000,A=1.000000),ExpressionGUID=5384229E474C1A71337877B3CD8EC916)
+   VectorParameterValues(1)=(ParameterInfo=(Name="Color_Secondary"),ParameterValue=(R=0.000000,G=0.375000,B=0.137500,A=1.000000),ExpressionGUID=A961107B493647CCAA048CBAB442CE12)
+   VectorParameterValues(2)=(ParameterInfo=(Name="Prism Color Correction 1"),ParameterValue=(R=0.270826,G=1.000000,B=0.069140,A=1.000000),ExpressionGUID=A1D22A6A4718EEE64B20D1B64C68A202)
+   VectorParameterValues(3)=(ParameterInfo=(Name="Prism Color Correction 2"),ParameterValue=(R=0.019232,G=0.095000,B=0.073532,A=1.000000),ExpressionGUID=F3FDD745478DF9946EFE019167D082DB)
+   VectorParameterValues(4)=(ParameterInfo=(Name="Add to emissive"),ParameterValue=(R=0.030000,G=0.028324,B=0.000000,A=1.000000),ExpressionGUID=E7410CA64FE7C7FA7DD828970FC45D64)
+   TextureParameterValues(0)=(ParameterInfo=(Name="Direction"),ParameterValue=Texture2D'"/Game/CardinalGems/Textures/T_Gem_Asscher_D.T_Gem_Asscher_D"',ExpressionGUID=12F593C54315A95058B451BE71D3FDAC)
+   TextureParameterValues(1)=(ParameterInfo=(Name="Masks"),ParameterValue=Texture2D'"/Game/CardinalGems/Textures/T_Gem_Asscher_S.T_Gem_Asscher_S"',ExpressionGUID=1E6BE948447B5FB45525AFB0D9B2CD43)
+   TextureParameterValues(2)=(ParameterInfo=(Name="Normal"),ParameterValue=Texture2D'"/Game/CardinalGems/Textures/T_Gem_Asscher_N.T_Gem_Asscher_N"',ExpressionGUID=6F01774947C69959F208859D09CBA217)
+   BasePropertyOverrides=(BlendMode=BLEND_Translucent,OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=3158896B4DE3FB3EE252948BAD9B59D8
+   ReferencedTextureGuids(1)=BC1CD1214C7529FDB07B50AB3240709D
+   ReferencedTextureGuids(2)=348A569543BBFE589FB211B3C6DEF137
+   ReferencedTextureGuids(3)=1EAA26D84804EC78E1A247A64437D65D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=BF724F1E47B2FEDE762F72B210EF0179
+End Object
